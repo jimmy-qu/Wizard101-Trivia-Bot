@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wizard101 Trivia Helper</title>
+  <style>
+    body {
+      width: 350px;
+      padding: 15px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+    }
+    h1 {
+      color: #6a1b9a;
+      font-size: 1.2em;
+      margin: 0 0 10px 0;
+      text-align: center;
+    }
+    #debug-controls {
+      background: #f0f0f0;
+      padding: 10px;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+    .status-indicator {
+      display: flex;
+      align-items: center;
+      margin: 5px 0;
+    }
+    .status-icon {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: #ff9800;
+      margin-right: 8px;
+    }
+    .status-icon.active {
+      background: #4CAF50;
+      animation: pulse 1.5s infinite;
+    }
+    @keyframes pulse {
+      0% { opacity: 1; }
+      50% { opacity: 0.5; }
+      100% { opacity: 1; }
+    }
+    #result {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 15px;
+      margin-top: 10px;
+      min-height: 50px;
+    }
+    .correct-answer {
+      color: #2e7d32;
+      font-weight: bold;
+      padding: 5px;
+      margin: 5px 0;
+      background: #e8f5e9;
+      border-left: 3px solid #2e7d32;
+    }
+    .section-tag {
+      display: inline-block;
+      background: #6a1b9a;
+      color: white;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 0.7em;
+      margin-bottom: 8px;
+    }
+    .debug-log {
+      font-family: monospace;
+      font-size: 0.8em;
+      background: #333;
+      color: #0f0;
+      padding: 8px;
+      border-radius: 4px;
+      max-height: 150px;
+      overflow-y: auto;
+      margin-top: 10px;
+      white-space: pre-wrap;
+    }
+    button {
+      background: #6a1b9a;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 3px;
+      cursor: pointer;
+      margin-top: 5px;
+    }
+    button:hover {
+      background: #7e3fa3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Wizard101 Trivia Helper</h1>
+  
+  <div id="debug-controls">
+    <label>
+      <input type="checkbox" id="debug-toggle"> Enable Debug Mode
+    </label>
+    <div class="status-indicator">
+      <div class="status-icon" id="status-icon"></div>
+      <span id="status-text">Waiting for question...</span>
+    </div>
+    <button id="copy-debug">Copy Last Detection</button>
+  </div>
+
+  <div id="result">
+    <p>When a trivia question appears in Wizard101, the answer will show here automatically.</p>
+  </div>
+
+  <div id="debug-log" class="debug-log" style="display: none;"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

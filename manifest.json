@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Wizard101 Trivia Helper",
+  "version": "1.0",
+  "description": "Helps with Crowns Trivia answers",
+  "permissions": ["storage", "activeTab"],
+  "host_permissions": ["*://www.wizard101.com/*"],
+  "content_scripts": [{
+  "matches": ["*://www.wizard101.com/*"],
+  "js": ["content.js"],
+  "run_at": "document_idle"
+}],
+  "background": {
+    "service_worker": "background.js"
+  }
+  ,"web_accessible_resources": [
+  {
+    "resources": ["database.json"],
+    "matches": ["<all_urls>"]
+  }
+]
+}

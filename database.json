@@ -1,0 +1,535 @@
+{
+  "sections": {
+    "magical_trivia": {
+      "name": "Magical Trivia",
+      "questions": [
+        {
+          "id": "magic_001",
+          "question": "How many WORLDS of The Spiral are unlocked as of May 21st, 2014?",
+          "answers": ["12"],
+          "variations": ["Number of Spiral worlds in 2014"]
+        },
+        {
+          "id": "magic_002",
+          "question": "MERLE AMBROSE is originally from which world?",
+          "answers": ["Avalon"],
+          "variations": ["Headmaster Ambrose's homeland"]
+        },
+        {
+          "id": "magic_003",
+          "question": "What book does PROFESSOR DRAKE send you to the library to check out?",
+          "answers": ["Book on the Wumpus"],
+          "exact_match": true
+        },
+        {
+          "id": "magic_004",
+          "question": "What can be used to diminish the NIRINI'S powers in Krokotopia?",
+          "answers": ["Flame Gems"],
+          "keywords": ["Nirini", "Krokotopia", "diminish power"]
+        },
+        {
+          "id": "magic_005",
+          "question": "What color is the DOOR inside the boys dormroom?",
+          "answers": ["Red"],
+          "alt_phrasing": ["Boys dormitory door color"]
+        },
+        {
+          "id": "magic_006",
+          "question": "What did PROSPECTOR ZEKE lose track of in MooShu?",
+          "answers": ["Blue Oysters"],
+          "hint": "Marine creatures"
+        },
+        {
+          "id": "magic_007",
+          "question": "What is the shape of the pink piece in POTION MOTION?",
+          "answers": ["Heart"],
+          "alt_answers": ["Star"] 
+        },
+        {
+          "id": "magic_008",
+          "question": "What is the title of the book that is FLOATING around the Wizard City LIBRARY?",
+          "answers": ["Basic Wizarding & Proper Care of Familiars"],
+          "short_answer": "Basic Wizarding"
+        },
+        {
+          "id": "magic_009",
+          "question": "What's the name of the BALANCE TREE?",
+          "answers": ["Niles"],
+          "exact_match": true
+        },
+        {
+          "id": "magic_010",
+          "question": "Which below are NOT a type of ONI in MooShu?",
+          "answers": ["Ruby"],
+          "context": "Oni types exclude this gemstone"
+        },
+        {
+          "id": "magic_011",
+          "question": "Which is the only school left standing in DRAGONSPYRE?",
+          "answers": ["Fire"],
+          "exact_match": true
+        },
+        {
+          "id": "magic_012",
+          "question": "Which of these LOCATIONS is not in Wizard City?",
+          "answers": ["Digmore Station"],
+          "exact_match": true
+        },
+        {
+          "id": "magic_013",
+          "question": "Which one of these are not a symbol on the BATTLE SIGIL?",
+          "answers": ["Wand"],
+          "exact_match": true
+        },
+        {
+          "id": "magic_014",
+          "question": "Who guards the entrance to UNICORN WAY?",
+          "answers": ["Private Stillson"],
+          "exact_match": true
+        }, {
+        "id": "magic_015",
+        "question": "Who is the NAMELESS KNIGHT?",
+        "answers": ["Sir Malory"],
+        "exact_match": true
+      },
+      {
+        "id": "magic_016",
+        "question": "Who is the REGISTRAR of Pigswick Academy?",
+        "answers": ["Mrs. Dowager"],
+        "exact_match": true
+      },
+      {
+        "id": "magic_017",
+        "question": "Who PROPHESIZES this? 'The mirror will break, The horn will call, From the shadows I strike, And the skies will fall'",
+        "answers": ["Morganthe"],
+        "keywords": ["prophecy", "mirror", "shadows", "skies", "fall"]
+      },
+      {
+        "id": "magic_018",
+        "question": "Who sells VALENTINE'S DAY items in Wizard City?",
+        "answers": ["Valentina Heartsong"],
+        "exact_match": true
+      },
+      {
+        "id": "magic_019",
+        "question": "Why are the GOBBLERS so afraid to go home?",
+        "answers": ["Witches"],
+        "keywords": ["Gobblers", "fear", "home"]
+      },
+      {
+        "id": "magic_020",
+        "question": "Why are the PIXIES and FAERIES on Unicorn Way evil?",
+        "answers": ["Rattlebones corrupted them"],
+        "keywords": ["Unicorn Way", "Pixies", "Faeries", "Rattlebones"]
+      },
+      {
+        "id": "magic_021",
+        "question": "ZAFARIA is home to what cultures?",
+        "answers": ["Gorillas", "Zebras", "Lions"],
+        "alt_phrasing": ["Cultures found in Zafaria"]
+      }
+    ]
+    },
+    "conjuring_trivia": {
+      "name": "Conjuring Trivias",
+      "questions": [
+        {
+          "id": "conjure_001",
+          "question": "How many portal summoning CANDLES are in the Burial Mound?",
+          "answers": ["Three", "3"],
+          "numeric": true,
+          "context": "Burial mound ritual items"
+        },
+        {
+          "id": "conjure_002",
+          "question": "KIRBY LONGSPEAR was once a student of which school of magic?",
+          "answers": ["Death"],
+          "school_related": true
+        },
+        {
+          "id": "conjure_003",
+          "question": "Sir EDWARD HALLEY is the Spiral's most famous:",
+          "answers": ["Aztecosaurologist"],
+
+          "note": "Unique title"
+        },
+        {
+          "id": "conjure_004",
+          "question": "The Swordsman DESTREZA was killed by:",
+          "answers": ["A Gorgon", "Gorgon"],
+          "creature_type": "Gorgon"
+        },
+        {
+          "id": "conjure_005",
+          "question": "What book was ANNA FLAMERIGHT accused of stealing?",
+          "answers": ["Advanced Flameology"],
+          "keywords": ["fire", "book", "steal"]
+        },
+        {
+          "id": "conjure_006",
+          "question": "What did ABIGAIL DOLITTLE accuse Wadsworth of stealing?",
+          "answers": ["Genuine Imitation Golden Ruby"],
+          "alt_phrasing": ["Wadsworth stolen item"]
+        },
+        {
+          "id": "conjure_007",
+          "question": "What is the shape on the WEATHER VANES in the Shopping District?",
+          "answers": ["Half moon", "Moon", "Half moon/moon"],
+          "visual_clue": true
+        },
+        {
+          "id": "conjure_008",
+          "question": "What level must you be to wear DRAGONSPYRE CRAFTED clothing?",
+          "answers": ["33", "Thirty-three"]
+        },
+        {
+          "id": "conjure_009",
+          "question": "What was the name of the powerful GRENDEL SHAMAN who sealed the runic doors?",
+          "answers": ["Thulinn"],
+
+          "race": "Grendel"
+        },
+        {
+          "id": "conjure_010",
+          "question": "Which QUEEN is mentioned in the Marleybone book 'The Golden Age'?",
+          "answers": ["Ellen"],
+          "partial_matches": ["Queen Ellen"]
+        },
+        {
+          "id": "conjure_011",
+          "question": "Who is BILL TANNER'S sister?",
+          "answers": ["Sarah Tanner"],
+          "family_relation": true
+        },
+        {
+          "id": "conjure_012",
+          "question": "Who is NOT a member of the COUNCIL of LIGHT?",
+          "answers": ["Cyrus Drake"],
+          "negative_question": true,
+          "note": "Other members are known"
+        },
+        {
+          "id": "conjure_013",
+          "question": "Who is the King of the BURROWERS?",
+          "answers": ["Pyat MourningSword"],
+          "title_holder": true,
+          "creature_type": "Burrower"
+        }
+      ]
+    },
+    "adventuring_trivia": {
+      "name": "Adventuring Trivia",
+      "description": "Questions about combat, spells, and world exploration",
+      "game_mechanics": true,
+      "questions": [
+        {
+          "id": "adventure_001",
+          "question": "An unmodified SUN SERPENT does what?",
+          "answers": [
+            "900-1000 Fire Damage + 300 Fire Damage to entire team",
+            "900-1000 damage + 300 team fire damage",
+            "900 � 1000 Fire Damage + 300 Fire Damage to entire team"
+          ],
+          "type": "spell_effect",
+          "school": "Fire",
+          "damage_range": "900-1000"
+        },
+        {
+          "id": "adventure_002",
+          "question": "How long do you have to wait to join a new MATCH after fleeing in PVP?",
+          "answers": ["5 minutes", "300 seconds"],
+          "type": "pvp_penalty",
+          "numeric": true
+        },
+        {
+          "id": "adventure_003",
+          "question": "In Grizzleheim, the RAVENS want to bring about:",
+          "answers": ["The Everwinter, to cover the world in ice"],
+          "type": "world_lore",
+          "region": "Grizzleheim"
+        },
+        {
+          "id": "adventure_004",
+          "question": "SHAKA ZEBU is known best as:",
+          "answers": ["The Greatest Living Zebra Warrior"],
+          "type": "character_title",
+          "race": "Zebra"
+        },
+        {
+          "id": "adventure_005",
+          "question": "What determines the colors of the MANDERS in Krok?",
+          "answers": [
+            "Where they come from and their school of focus",
+            "Their origin and magic school"
+          ],
+          "type": "creature_biology",
+          "species": "Mander"
+        },
+        {
+          "id": "adventure_006",
+          "question": "What does the TIME RIBBON PROTECT against?",
+          "answers": ["Time Flux"],
+          "type": "item_property",
+          "exact_match": true
+        },
+        {
+          "id": "adventure_007",
+          "question": "What hand does LADY ORIEL hold her wand in?",
+          "answers": [
+            "Trick question, she has a sword",
+            "She doesn't have a wand"
+          ],
+          "type": "trick_question",
+          "note": "Visual confirmation needed"
+        },
+        {
+          "id": "adventure_008",
+          "question": "What is Professor FALMEA'S favorite food?",
+          "answers": ["Pasta Arrabiata"],
+          "type": "character_detail",
+          "tags": ["culinary"]
+        },
+        {
+          "id": "adventure_009",
+          "question": "What is the name of the book stolen from the ROYAL MUSEUM?",
+          "answers": ["The Krokonomicon"],
+          "type": "quest_item",
+          "location": "Krokotopia"
+        },
+        {
+          "id": "adventure_010",
+          "question": "What is the name of the new DANCE added with KHRYSALIS?",
+          "answers": ["The bee dance"],
+          "type": "emote",
+          "update": "Khrysalis"
+        },
+        {
+          "id": "adventure_011",
+          "question": "What is the name of the secret society in Krokotopia",
+          "answers": ["Order of the Fang"]
+        },
+        {
+          "id": "adventure_012",
+          "question": "What is unique about Falmea's CLASSROOM?",
+          "answers": [
+            "There are scorch marks on the ceiling",
+            "Scorch marks on ceiling"
+          ],
+          "type": "environment_detail",
+          "character": "Professor Falmea",
+          "visual_clue": true,
+          "note": "Visible when looking up"
+        },
+        {
+          "id": "adventure_013",
+          "question": "What school is the GURTOK DEMON focused on?",
+          "answers": ["Balance"],
+          "type": "creature_property",
+          "school": "Balance",
+          "species": "Demon"
+        },
+        {
+          "id": "adventure_014",
+          "question": "What school is the spell DARK NOVA?",
+          "answers": ["Shadow"],
+          "type": "spell_classification",
+          "school": "Shadow",
+
+          "metadata": {
+            "damage_type": "AoE",
+            "pip_cost": 4
+          }
+        },
+        {
+          "id": "adventure_015",
+          "question": "What type of rank 8 spell is granted to DEATH students at level 58?",
+          "answers": [
+            "Damage + DoT",
+            "Damage with Damage Over Time",
+            "Initial damage plus overtime effect"
+          ],
+
+          "type": "spell_mechanics",
+          "school": "Death",
+          "level": 58,
+          "rank": 8
+        },
+        {
+          "id": "adventure_016",
+          "question": "Which Aztecan ponders the GREAT QUESTIONS of Life?",
+          "answers": ["Philosoraptor"],
+          "type": "character_reference",
+          "species": "Raptor",
+          "humor": true,
+          "note": "Pop culture reference"
+        },
+        {
+          "id": "adventure_017",
+          "question": "Which of these are NOT a LORE spell?",
+          "answers": ["Fire Dragon"],
+          "type": "spell_exclusion",
+          "negative_question": true,
+          "comparison_set": [
+            "Deer Knight",
+            "Ninja Pigs",
+            "Handsome Fomori"
+          ]
+        },
+        {
+          "id": "adventure_018",
+          "question": "Which of these is NOT a ZAFARIA ANCHOR STONE?",
+          "answers": ["Rasik Anchor Stone"],
+          "type": "item_exclusion",
+          "location": "Zafaria",
+          "negative_question": true,
+          "valid_anchors": [
+            "Baobab Anchor Stone",
+            "Stone Town Anchor Stone",
+            "Savannah Anchor Stone"
+          ]
+        },
+        {
+          "id": "adventure_019",
+          "question": "Who is in the top level of the TOWER OF THE HELEPHANT?",
+          "answers": ["Lyon Lorestriker"],
+          "type": "dungeon_boss",
+          "location": "Tower of the Helephant",
+          "boss_encounter": true
+        },
+        {
+          "id": "adventure_020",
+          "question": "Who is the BEAR KING of Grizzleheim?",
+          "answers": ["Valgard Goldenblade"],
+          "type": "character_title",
+          "species": "Bear",
+          "location": "Grizzleheim",
+          "royalty": true
+        }
+      ]
+    },
+    "Marleybone_trivia":{
+      "questions":[
+         {
+          "id": "Marleybone_001",
+          "question": "What sort of beverage is served in Air Dales Hideaway?",
+          "answers": ["Root Beer"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_002",
+          "question": "What time of day is it always in Marleybone?",
+          "answers": ["Night"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_003",
+          "question": "What color are the Marleybone mailboxes?",
+          "answers": ["Red"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_004",
+          "question": "Which is not a street in Regent's Square?",
+          "answers": ["Fleabitten Ave"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_005",
+          "question": "Which symbol is not on the stained glass window in Regent's Square?",
+          "answers": ["A Tennis Ball"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_006",
+          "question": "What event is Abigail Doolittle sending out invitations for?",
+          "answers": ["Policeman's Ball", "Policeman's Ball"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_007",
+          "question": "What did Prospector Zeke lose in Marleybone?",
+          "answers": ["The Stray Cats"],
+          "keywords": ["Zeke", "Marleybone", "Stray Cats"]
+        },
+        {
+          "id": "Marleybone_008",
+          "question": "What is Sgt. Major Talbot's full name?",
+          "answers": ["Sylvester Quimby Talbot III"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_009",
+          "question": "What course did Herold Digmoore study?",
+          "answers": ["Ancient Myths for Parliament"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_010",
+          "question": "What initials were on the doctor's glove?",
+          "answers": ["XX"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_011",
+          "question": "What is a very common last name of the cats in Marleybone?",
+          "answers": ["O'Leary"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_012",
+          "question": "What style of artifacts are in the Royal Museum?",
+          "answers": ["Krokotopian"],
+          "keywords": ["Royal Museum", "artifacts"]
+        },
+        {
+          "id": "Marleybone_013",
+          "question": "What two names are on the Statues in the Marleybone cathedral?",
+          "answers": ["Saint Bernard", "Saint Hubert", "Saint Bernard and Saint Hubert"],
+          "alt_phrasing": ["Statue names in Marleybone cathedral"]
+        },
+        {
+          "id": "Marleybone_014",
+          "question": "Arthur Wethersfield is a:",
+          "answers": ["Dog"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_015",
+          "question": "Who is not an officer you'll find around Marleybone?",
+          "answers": ["Officer Digmore"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_016",
+          "question": "Who is the dangerous criminal that is locked up, but escapes from Newgate Prison?",
+          "answers": ["Meowiarty"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_017",
+          "question": "What transports you from place to place in Marleybone?",
+          "answers": ["Hot Air Balloons"],
+          "keywords": ["transportation", "Marleybone"]
+        },
+        {
+          "id": "Marleybone_018",
+          "question": "What time does the clock always read in Marleybone?",
+          "answers": ["1:55"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_019",
+          "question": "What is flying around in Regent's Square?",
+          "answers": ["Newspapers"],
+          "exact_match": true
+        },
+        {
+          "id": "Marleybone_020",
+          "question": "Which of these folks can you find in the Royal Museum?",
+          "answers": ["Clancy Pembroke"],
+          "exact_match": true
+        }
+      ]
+    }
+  }
+}
