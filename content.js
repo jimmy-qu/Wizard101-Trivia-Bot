@@ -167,13 +167,6 @@ function checkForAnswers() {
             type: "TRIVIA_ANSWERS_DETECTED",
             answers: detected.map(a => a.text)
         });
-
-        if (DEBUG) {
-            detected.forEach(ans => {
-                ans.element.style.outline = `2px solid ${HIGHLIGHT_COLOR}`;
-                setTimeout(() => (ans.element.style.outline = ''), 2000);
-            });
-        }
     } else if (DEBUG) {
         console.warn("No correct answers matched on screen.");
     }
@@ -197,11 +190,6 @@ function clickCorrectAnswers(answers) {
             });
             checkboxLink.dispatchEvent(event);
         });
-
-        if (DEBUG) {
-            checkboxLink.style.outline = '3px dashed red';
-            console.log(`Clicked on: "${ans.text}"`);
-        }
     });
 }
 

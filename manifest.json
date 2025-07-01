@@ -4,9 +4,9 @@
   "version": "1.0",
   "description": "Helps with Crowns Trivia answers",
   "permissions": ["storage", "activeTab"],
-  "host_permissions": ["*://www.wizard101.com/*"],
+  "host_permissions": ["https://www.wizard101.com/quiz/trivia/game/*"],
   "content_scripts": [{
-  "matches": ["*://www.wizard101.com/*"],
+  "matches": ["*://www.wizard101.com/quiz/trivia/game/*"],
   "js": ["content.js"],
   "run_at": "document_idle"
 }],
