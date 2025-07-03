@@ -47,8 +47,6 @@ function normalize(text) {
   return String(text)  // force string conversion for numbers
     .toLowerCase()
     .trim()
-    .replace(/[“”"'.,!?;:()\[\]{}]/g, '')
-    .replace(/\s+/g, ' ');
 }
 
 function detectAnswers(correctAnswers = []) {
@@ -136,9 +134,7 @@ function cleanAnswerText(el) {
 
 // 5. VALIDATION (strict)
 function isValidAnswer(text) {
-    return text && text.length > 0 && 
-           !text.match(/^[A-Z]\.\s*/); // Exclude "A. " prefixes
-}
+    return text && text.length > 0}
 
 // 6. MAIN EXECUTION (same as before)
 function checkForAnswers() {

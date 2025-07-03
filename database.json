@@ -18,8 +18,7 @@
         {
           "id": "magic_003",
           "question": "What book does PROFESSOR DRAKE send you to the library to check out?",
-          "answers": ["Book on the Wumpus"],
-          "exact_match": true
+          "answers": ["Book on the Wumpus"]
         },
         {
           "id": "magic_004",
@@ -54,8 +53,7 @@
         {
           "id": "magic_009",
           "question": "What's the name of the BALANCE TREE?",
-          "answers": ["Niles"],
-          "exact_match": true
+          "answers": ["Niles"]
         },
         {
           "id": "magic_010",
@@ -66,26 +64,22 @@
         {
           "id": "magic_011",
           "question": "Which is the only school left standing in DRAGONSPYRE?",
-          "answers": ["Fire"],
-          "exact_match": true
+          "answers": ["Fire"]
         },
         {
           "id": "magic_012",
           "question": "Which of these LOCATIONS is not in Wizard City?",
-          "answers": ["Digmore Station"],
-          "exact_match": true
+          "answers": ["Digmore Station"]
         },
         {
           "id": "magic_013",
           "question": "Which one of these are not a symbol on the BATTLE SIGIL?",
-          "answers": ["Wand"],
-          "exact_match": true
+          "answers": ["Wand"]
         },
         {
           "id": "magic_014",
           "question": "Who guards the entrance to UNICORN WAY?",
-          "answers": ["Private Stillson"],
-          "exact_match": true
+          "answers": ["Private Stillson"]
         }, {
         "id": "magic_015",
         "question": "Who is the NAMELESS KNIGHT?",
@@ -269,8 +263,7 @@
           "id": "adventure_006",
           "question": "What does the TIME RIBBON PROTECT against?",
           "answers": ["Time Flux"],
-          "type": "item_property",
-          "exact_match": true
+          "type": "item_property"
         },
         {
           "id": "adventure_007",
@@ -412,38 +405,32 @@
          {
           "id": "Marleybone_001",
           "question": "What sort of beverage is served in Air Dales Hideaway?",
-          "answers": ["Root Beer"],
-          "exact_match": true
+          "answers": ["Root Beer"]
         },
         {
           "id": "Marleybone_002",
           "question": "What time of day is it always in Marleybone?",
-          "answers": ["Night"],
-          "exact_match": true
+          "answers": ["Night"]
         },
         {
           "id": "Marleybone_003",
           "question": "What color are the Marleybone mailboxes?",
-          "answers": ["Red"],
-          "exact_match": true
+          "answers": ["Red"]
         },
         {
           "id": "Marleybone_004",
           "question": "Which is not a street in Regent's Square?",
-          "answers": ["Fleabitten Ave"],
-          "exact_match": true
+          "answers": ["Fleabitten Ave"]
         },
         {
           "id": "Marleybone_005",
           "question": "Which symbol is not on the stained glass window in Regent's Square?",
-          "answers": ["A Tennis Ball"],
-          "exact_match": true
+          "answers": ["A Tennis Ball"]
         },
         {
           "id": "Marleybone_006",
           "question": "What event is Abigail Doolittle sending out invitations for?",
-          "answers": ["Policeman's Ball", "Policeman's Ball"],
-          "exact_match": true
+          "answers": ["Policeman's Ball", "Policeman's Ball"]
         },
         {
           "id": "Marleybone_007",
@@ -454,26 +441,22 @@
         {
           "id": "Marleybone_008",
           "question": "What is Sgt. Major Talbot's full name?",
-          "answers": ["Sylvester Quimby Talbot III"],
-          "exact_match": true
+          "answers": ["Sylvester Quimby Talbot III"]
         },
         {
           "id": "Marleybone_009",
           "question": "What course did Herold Digmoore study?",
-          "answers": ["Ancient Myths for Parliament"],
-          "exact_match": true
+          "answers": ["Ancient Myths for Parliament"]
         },
         {
           "id": "Marleybone_010",
           "question": "What initials were on the doctor's glove?",
-          "answers": ["XX"],
-          "exact_match": true
+          "answers": ["XX"]
         },
         {
           "id": "Marleybone_011",
           "question": "What is a very common last name of the cats in Marleybone?",
-          "answers": ["O'Leary"],
-          "exact_match": true
+          "answers": ["O'Leary"]
         },
         {
           "id": "Marleybone_012",
@@ -490,20 +473,17 @@
         {
           "id": "Marleybone_014",
           "question": "Arthur Wethersfield is a:",
-          "answers": ["Dog"],
-          "exact_match": true
+          "answers": ["Dog"]
         },
         {
           "id": "Marleybone_015",
           "question": "Who is not an officer you'll find around Marleybone?",
-          "answers": ["Officer Digmore"],
-          "exact_match": true
+          "answers": ["Officer Digmore"]
         },
         {
           "id": "Marleybone_016",
           "question": "Who is the dangerous criminal that is locked up, but escapes from Newgate Prison?",
-          "answers": ["Meowiarty"],
-          "exact_match": true
+          "answers": ["Meowiarty"]
         },
         {
           "id": "Marleybone_017",
@@ -514,20 +494,17 @@
         {
           "id": "Marleybone_018",
           "question": "What time does the clock always read in Marleybone?",
-          "answers": ["1:55"],
-          "exact_match": true
+          "answers": ["1:55"]
         },
         {
           "id": "Marleybone_019",
           "question": "What is flying around in Regent's Square?",
-          "answers": ["Newspapers"],
-          "exact_match": true
+          "answers": ["Newspapers"]
         },
         {
           "id": "Marleybone_020",
           "question": "Which of these folks can you find in the Royal Museum?",
-          "answers": ["Clancy Pembroke"],
-          "exact_match": true
+          "answers": ["Clancy Pembroke"]
         }
       ]
     },
@@ -536,122 +513,102 @@
         {
           "id": "Mystical_001",
           "question": "Hrundle Fjord is part of what section of Grizzleheim?",
-          "answers": ["Wintertusk"],
-          "exact_match": true
+          "answers": ["Wintertusk"]
         },
         {
           "id": "Mystical_002",
           "question": "In Reagent's Square, the Professor is standing in front of a:",
-          "answers": ["Telegraph Box"],
-          "exact_match": true
+          "answers": ["Telegraph Box"]
         },
         {
           "id": "Mystical_003",
           "question": "In what world would you find the Spider Temple",
-          "answers": ["Zafaria"],
-          "exact_match": true
+          "answers": ["Zafaria"]
         },
         {
           "id": "Mystical_004",
           "question": "King Axaya Knifemoon needs what to unify the people around him?",
-          "answers": ["The Badge of Leadership"],
-          "exact_match": true
+          "answers": ["The Badge of Leadership"]
         },
         {
           "id": "Mystical_005",
           "question": "King Neza is Zenzen Seven Star's:?",
-          "answers": ["Grandfather"],
-          "exact_match": true
+          "answers": ["Grandfather"]
         },
         {
           "id": "Mystical_006",
           "question": "Thaddeus Price is the Pigswick Academy Professor of what school?",
-          "answers": ["Tempest"],
-          "exact_match": true
+          "answers": ["Tempest"]
         },
         {
           "id": "Mystical_007",
           "question": "What is used to travel to the Isle of Arachnis?",
-          "answers": ["Ice Archway"],
-          "exact_match": true
+          "answers": ["Ice Archway"]
         },
         {
           "id": "Mystical_008",
           "question": "What was Ponce de Gibbon looking for in Azteca?",
-          "answers": ["The Water of Life"],
-          "exact_match": true
+          "answers": ["The Water of Life"]
         },
         {
           "id": "Mystical_009",
           "question": "Where is the only pure fire in the Spiral found?",
-          "answers": ["Wizard City"],
-          "exact_match": true
+          "answers": ["Wizard City"]
         },
         {
           "id": "Mystical_010",
           "question": "Which villain terrorizes the fair maidens of Marleybone?",
-          "answers": ["Jaques the Scatcher"],
-          "exact_match": true
+          "answers": ["Jaques the Scatcher"]
         },
         {
           "id": "Mystical_011",
           "question": "Who asks you to find Khrysanthemums?",
-          "answers": ["Eloise Merryweather"],
-          "exact_match": true
+          "answers": ["Eloise Merryweather"]
         },
         {
           "id": "Mystical_012",
           "question": "Who did Falynn Greensleeves fall in love with?",
-          "answers": ["Sir Malick de Logres"],
-          "exact_match": true
+          "answers": ["Sir Malick de Logres"]
         },
         {
           "id": "Mystical_013",
           "question": "Who gives you permission to ride the boat to the Krokosphinx?",
-          "answers": ["Sergent Major Talbot"],
-          "exact_match": true
+          "answers": ["Sergent Major Talbot"]
         },
         {
           "id": "Mystical_014",
           "question": "Who haunts the Night Warrens?",
-          "answers": ["Nosferabbit"],
-          "exact_match": true
+          "answers": ["Nosferabbit"]
         },
         {
           "id": "Mystical_015",
           "question": "Who is the Emperor of Mooshu's Royal Guard?",
-          "answers": ["Noboru Akitame"],
-          "exact_match": true
+          "answers": ["Noboru Akitame"]
         },
         {
           "id": "Mystical_016",
           "question": "Who is the only person who knows how to enter the Tomb of Storms?",
-          "answers": ["Hetch Al'Dim"],
-          "exact_match": true
+          "answers": ["Hetch Al'Dim"]
         },
         {
           "id": "Mystical_017",
           "question": "Who takes you across the River of Souls?",
-          "answers": ["Charon"],
-          "exact_match": true
+          "answers": ["Charon"]
         },
         {
           "id": "Mystical_018",
           "question": "Who tells you how to get to Aquila?",
-          "answers": ["Harold Argleston"],
-          "exact_match": true
+          "answers": ["Harold Argleston"]
         },
         {
           "id": "Mystical_019",
           "question": "Who was ordered to guard the Sword of Kings?",
-          "answers": ["The Knights of the Silver Rose"],
-          "exact_match": true
+          "answers": ["The Knights of the Silver Rose"]
         },
         {
           "id": "Mystical_020",
           "question": "Who was the greatest Aquilan Gladiator of all time?",
-          "answers": ["Dimachaerus"],
-          "exact_match": true
+          "answers": ["Dimachaerus"]
         }
       ]
     }, 
@@ -660,122 +617,102 @@
         {
           "id": "Spellbinding_001",
           "question": "In Azteca, Morganthe enlisted the help of the:",
-          "answers": ["The Black Sun Necromancers"],
-          "exact_match": true
+          "answers": ["The Black Sun Necromancers"]
         },
         {
           "id": "Spellbinding_002",
           "question": "Morganthe got the Horned Crown from the Spriggan:",
-          "answers": ["Gisela"],
-          "exact_match": true
+          "answers": ["Gisela"]
         },
         {
           "id": "Spellbinding_003",
           "question": "Sumner Fieldgold twice asks you to recover what for him?",
-          "answers": ["Shrubberies"],
-          "exact_match": true
+          "answers": ["Shrubberies"]
         },
         {
           "id": "Spellbinding_004",
           "question": "The Swallows of Caliburn migrate to Avalon from where each year?",
-          "answers": ["Zafaria and Marleybone"],
-          "exact_match": true
+          "answers": ["Zafaria and Marleybone"]
         },
         {
           "id": "Spellbinding_005",
           "question": "What badge do you earn by defeating 100 Samoorai?",
-          "answers": ["Yojimbo"],
-          "exact_match": true
+          "answers": ["Yojimbo"]
         },
         {
           "id": "Spellbinding_006",
           "question": "What does Silenus name you once you've defeated Hades?",
-          "answers": ["Glorious Golden Archon"],
-          "exact_match": true
+          "answers": ["Glorious Golden Archon"]
         },
         {
           "id": "Spellbinding_007",
           "question": "What special plant was Barley developing in his Garden?",
-          "answers": ["Cultivated Woodsmen"],
-          "exact_match": true
+          "answers": ["Cultivated Woodsmen"]
         },
         {
           "id": "Spellbinding_008",
           "question": "Where has Pharenor been imprisoned?",
-          "answers": ["Skythorn Tower"],
-          "exact_match": true
+          "answers": ["Skythorn Tower"]
         },
         {
           "id": "Spellbinding_009",
           "question": "Who helps Morganthe find the Horn of Huracan?",
-          "answers": ["Belloq"],
-          "exact_match": true
+          "answers": ["Belloq"]
         },
         {
           "id": "Spellbinding_010",
           "question": "Who is Haraku Yip's apprentice?",
-          "answers": ["Binh Hoa"],
-          "exact_match": true
+          "answers": ["Binh Hoa"]
         },
         {
           "id": "Spellbinding_011",
           "question": "Who makes the harpsicord for Shelus?",
-          "answers": ["Gretta Darkkettle"],
-          "exact_match": true
+          "answers": ["Gretta Darkkettle"]
         },
         {
           "id": "Spellbinding_012",
           "question": "Who needs the healing potion from Master Yip?",
-          "answers": ["Binh Hoa"],
-          "exact_match": true
+          "answers": ["Binh Hoa"]
         },
         {
           "id": "Spellbinding_013",
           "question": "Who taunts you with: \"Prepare to be broken, kid!\"",
-          "answers": ["Clanker"],
-          "exact_match": true
+          "answers": ["Clanker"]
         },
         {
           "id": "Spellbinding_014",
           "question": "Who taunts you with: \"Wizard, you will know the meaning of the word pain after we battle!\"",
-          "answers": ["Aiuchi"],
-          "exact_match": true
+          "answers": ["Aiuchi"]
         },
         {
           "id": "Spellbinding_015",
           "question": "Who taunts: Why I oughta knock you to the moon, you pesky little creep!",
-          "answers": ["Mugsy"],
-          "exact_match": true
+          "answers": ["Mugsy"]
         },
         {
           "id": "Spellbinding_016",
           "question": "Who tells you to speak these words only unto your mentor: \"Meena Korio Jajuka!\"",
-          "answers": ["Priya the Dryad"],
-          "exact_match": true
+          "answers": ["Priya the Dryad"]
         },
         {
           "id": "Spellbinding_017",
           "question": "Who tells you: \"A shield is just as much a weapon as the sword.\"",
-          "answers": ["Mavra Flamewing"],
-          "exact_match": true
+          "answers": ["Mavra Flamewing"]
         },
         {
           "id": "Spellbinding_018",
           "question": "Who thinks you are there to take their precious feathers?",
-          "answers": ["Takeda Kanryu"],
-          "exact_match": true
+          "answers": ["Takeda Kanryu"]
         },
         {
           "id": "Spellbinding_019",
           "question": "Who tries to raise a Gorgon Army?",
-          "answers": ["Phorcys"],
-          "exact_match": true
+          "answers": ["Phorcys"]
         },
         {
           "id": "Spellbinding_020",
           "question": "Who grants the first Shadow Magic spell?",
-          "answers": ["Sophia DarkSide"],
-          "exact_match": true
+          "answers": ["Sophia DarkSide"]
         }
       ]
     },
@@ -784,122 +721,102 @@
         {
           "id": "Spells_001",
           "question": "Cassie the Ponycorn teaches this kind of spell:",
-          "answers": ["Prism"],
-          "exact_match": true
+          "answers": ["Prism"]
         },
         {
           "id": "Spells_002",
           "question": "Ether Shield protects against what?",
-          "answers": ["Life and Death attacks"],
-          "exact_match": true
+          "answers": ["Life and Death attacks"]
         },
         {
           "id": "Spells_003",
           "question": "How many pips does it cost to cast Dr. Von's Monster?",
-          "answers": ["9"],
-          "exact_match": true
+          "answers": ["9"]
         },
         {
           "id": "Spells_004",
           "question": "How many pips does it cost to cast Stormzilla?",
-          "answers": ["5"],
-          "exact_match": true
+          "answers": ["5"]
         },
         {
           "id": "Spells_005",
           "question": "If you can cast Storm Trap, Wild Bolt, Catalan, and the Tempest spell, what are you polymorphed as?",
-          "answers": ["Ptera"],
-          "exact_match": true
+          "answers": ["Ptera"]
         },
         {
           "id": "Spells_006",
           "question": "If you're a storm wizard with 4 power pips and 3 regular pips, how powerful would your supercharge charm be?",
-          "answers": ["110%"],
-          "exact_match": true
+          "answers": ["110%"]
         },
         {
           "id": "Spells_007",
           "question": "Mildred Farseer teaches you what kind of spell?",
-          "answers": ["Dispels"],
-          "exact_match": true
+          "answers": ["Dispels"]
         },
         {
           "id": "Spells_008",
           "question": "Mortis can teach you this.",
-          "answers": ["Tranquilize"],
-          "exact_match": true
+          "answers": ["Tranquilize"]
         },
         {
           "id": "Spells_009",
           "question": "Tish'Mah specializes in spells that mostly affect these:",
-          "answers": ["Minions"],
-          "exact_match": true
+          "answers": ["Minions"]
         },
         {
           "id": "Spells_010",
           "question": "What does Forsaken Banshee do?",
-          "answers": ["375 damage plus a hex trap"],
-          "exact_match": true
+          "answers": ["375 damage plus a hex trap"]
         },
         {
           "id": "Spells_011",
           "question": "What isn't a shadow magic spell?",
-          "answers": ["Ebon Ribbons"],
-          "exact_match": true
+          "answers": ["Ebon Ribbons"]
         },
         {
           "id": "Spells_012",
           "question": "What level of spell does Enya Firemoon Teach?",
-          "answers": ["80"],
-          "exact_match": true
+          "answers": ["80"]
         },
         {
           "id": "Spells_013",
           "question": "What term best fits Star Magic Spells?",
-          "answers": ["Auras"],
-          "exact_match": true
+          "answers": ["Auras"]
         },
         {
           "id": "Spells_014",
           "question": "What term best fits Sun Magic Spells?",
-          "answers": ["Enchantment"],
-          "exact_match": true
+          "answers": ["Enchantment"]
         },
         {
           "id": "Spells_015",
           "question": "What type of spells are Ice, Fire, and Storm?",
-          "answers": ["Elemental"],
-          "exact_match": true
+          "answers": ["Elemental"]
         },
         {
           "id": "Spells_016",
           "question": "Which Fire spell both damages and heals over time?",
-          "answers": ["Power Link"],
-          "exact_match": true
+          "answers": ["Power Link"]
         },
         {
           "id": "Spells_017",
           "question": "Which spell can't be cast while polymorphed as a Gobbler?",
-          "answers": ["Pie in the sky"],
-          "exact_match": true
+          "answers": ["Pie in the sky"]
         },
         {
           "id": "Spells_018",
           "question": "Which spell would not be very effective when going for the elixir vitae Badge?",
-          "answers": ["Entangle"],
-          "exact_match": true
+          "answers": ["Entangle"]
         },
         {
           "id": "Spells_019",
           "question": "Who can teach you the Life Shield Spell?",
-          "answers": ["Sabrina Greenstar"],
-          "exact_match": true
+          "answers": ["Sabrina Greenstar"]
         },
         {
           "id": "Spells_020",
           "question": "Who teaches you balance magic?",
-          "answers": ["Alhazred"],
-          "exact_match": true
+          "answers": ["Alhazred"]
         }
       ]
     },
@@ -908,122 +825,102 @@
         {
           "id": "WizardCity_001",
           "question": "What are the main colors for the Myth School?",
-          "answers": ["Blue and Gold"],
-          "exact_match": true
+          "answers": ["Blue and Gold"]
         },
         {
           "id": "WizardCity_002",
           "question": "What are the school colors of Balance?",
-          "answers": ["Tan and Maroon"],
-          "exact_match": true
+          "answers": ["Tan and Maroon"]
         },
         {
           "id": "WizardCity_003",
           "question": "What does every Rotting Fodder in the Dark Caves carry with them?",
-          "answers": ["A spade"],
-          "exact_match": true
+          "answers": ["A spade"]
         },
         {
           "id": "WizardCity_004",
           "question": "What is Diego's full name?",
-          "answers": ["Diego Santiago Quariquez Ramirez the Third"],
-          "exact_match": true
+          "answers": ["Diego Santiago Quariquez Ramirez the Third"]
         },
         {
           "id": "WizardCity_005",
           "question": "What is something that the Gobblers are NOT stockpiling in Colossus Way?",
-          "answers": ["Broccoli"],
-          "exact_match": true
+          "answers": ["Broccoli"]
         },
         {
           "id": "WizardCity_006",
           "question": "What is the gemstone for Balance?",
-          "answers": ["Citrine"],
-          "exact_match": true
+          "answers": ["Citrine"]
         },
         {
           "id": "WizardCity_007",
           "question": "What is the name of the bridge in front of the Cave to Nightside?",
-          "answers": ["Rainbow Bridge"],
-          "exact_match": true
+          "answers": ["Rainbow Bridge"]
         },
         {
           "id": "WizardCity_008",
           "question": "What is the name of the grandfather tree?",
-          "answers": ["Bartleby"],
-          "exact_match": true
+          "answers": ["Bartleby"]
         },
         {
           "id": "WizardCity_009",
           "question": "What is the name of the Ice Tree in Ravenwood?",
-          "answers": ["Kelvin"],
-          "exact_match": true
+          "answers": ["Kelvin"]
         },
         {
           "id": "WizardCity_010",
           "question": "What is the name of the school newspaper? Boris Tallstaff knows...",
-          "answers": ["Ravenwood Bulletin"],
-          "exact_match": true
+          "answers": ["Ravenwood Bulletin"]
         },
         {
           "id": "WizardCity_011",
           "question": "What school does Malorn Ashthorn think is the best?",
-          "answers": ["Death"],
-          "exact_match": true
+          "answers": ["Death"]
         },
         {
           "id": "WizardCity_012",
           "question": "What school is all about Creativity?",
-          "answers": ["Storm"],
-          "exact_match": true
+          "answers": ["Storm"]
         },
         {
           "id": "WizardCity_013",
           "question": "Where is Sabrina Greenstar?",
-          "answers": ["Fairegrounds"],
-          "exact_match": true
+          "answers": ["Fairegrounds"]
         },
         {
           "id": "WizardCity_014",
           "question": "Who is the Fire School professor?",
-          "answers": ["Dalia Falmea"],
-          "exact_match": true
+          "answers": ["Dalia Falmea"]
         },
         {
           "id": "WizardCity_015",
           "question": "Who is the Princess of the Seraphs?",
-          "answers": ["Lady Oriel"],
-          "exact_match": true
+          "answers": ["Lady Oriel"]
         },
         {
           "id": "WizardCity_016",
           "question": "Who is the Wizard City mill foreman?",
-          "answers": ["Sohomer Sunblade"],
-          "exact_match": true
+          "answers": ["Sohomer Sunblade"]
         },
         {
           "id": "WizardCity_017",
           "question": "Who resides in the Hedge Maze?",
-          "answers": ["Lady Oriel"],
-          "exact_match": true
+          "answers": ["Lady Oriel"]
         },
         {
           "id": "WizardCity_018",
           "question": "Who sang the Dragons, Tritons and Giants into existance?",
-          "answers": ["Bartleby"],
-          "exact_match": true
+          "answers": ["Bartleby"]
         },
         {
           "id": "WizardCity_019",
           "question": "Who taught Life Magic before Moolinda Wu?",
-          "answers": ["Sylvia Drake"],
-          "exact_match": true
+          "answers": ["Sylvia Drake"]
         },
         {
           "id": "WizardCity_020",
           "question": "What is Mindy's last name (she's on Colossus Blvd)?",
-          "answers": ["Pixiecrown"],
-          "exact_match": true
+          "answers": ["Pixiecrown"]
         }
       ]
     },
@@ -1032,122 +929,102 @@
         {
           "id": "Zafaria_001",
           "question": "Baobab is governed by:",
-          "answers": ["A Council of three councilors."],
-          "exact_match": true
+          "answers": ["A Council of three councilors."]
         },
         {
           "id": "Zafaria_002",
           "question": "Belloq is first found in:",
-          "answers": ["The Sook"],
-          "exact_match": true
+          "answers": ["The Sook"]
         },
         {
           "id": "Zafaria_003",
           "question": "Esop Thornpaw gives you a magic:",
-          "answers": ["Djembe Drum"],
-          "exact_match": true
+          "answers": ["Djembe Drum"]
         },
         {
           "id": "Zafaria_004",
           "question": "Inyanga calls Umlio a:",
-          "answers": ["Fire feather"],
-          "exact_match": true
+          "answers": ["Fire feather"]
         },
         {
           "id": "Zafaria_005",
           "question": "Jambo means:",
-          "answers": ["Hello."],
-          "exact_match": true
+          "answers": ["Hello."]
         },
         {
           "id": "Zafaria_006",
           "question": "Koyate Ghostmane accuses the player of:",
-          "answers": ["Being a thief"],
-          "exact_match": true
+          "answers": ["Being a thief"]
         },
         {
           "id": "Zafaria_007",
           "question": "Rasik Pridefall is:",
-          "answers": ["An Olyphant from Stone Town."],
-          "exact_match": true
+          "answers": ["An Olyphant from Stone Town."]
         },
         {
           "id": "Zafaria_008",
           "question": "Sir Reginal Baxby's cousin is:",
-          "answers": ["Mondli Greenhoof"],
-          "exact_match": true
+          "answers": ["Mondli Greenhoof"]
         },
         {
           "id": "Zafaria_009",
           "question": "The Fire Lion Ravagers are led by:",
-          "answers": ["Nergal the Burned Lion"],
-          "exact_match": true
+          "answers": ["Nergal the Burned Lion"]
         },
         {
           "id": "Zafaria_010",
           "question": "The Inzinzebu Bandits are harassing the good merchants in:",
-          "answers": ["Baobab Market"],
-          "exact_match": true
+          "answers": ["Baobab Market"]
         },
         {
           "id": "Zafaria_011",
           "question": "Umlilo Sunchaser hired who as a local guide?",
-          "answers": ["Msizi Redband"],
-          "exact_match": true
+          "answers": ["Msizi Redband"]
         },
         {
           "id": "Zafaria_012",
           "question": "Unathi Nightrunner is:",
-          "answers": ["A councilor of Baobab."],
-          "exact_match": true
+          "answers": ["A councilor of Baobab."]
         },
         {
           "id": "Zafaria_013",
           "question": "Vir Goodheart is an assistant to:",
-          "answers": ["Rasik Pridefall"],
-          "exact_match": true
+          "answers": ["Rasik Pridefall"]
         },
         {
           "id": "Zafaria_014",
           "question": "What does Lethu Blunthoof says about Ghostmanes?",
-          "answers": ["You never can tell with them!"],
-          "exact_match": true
+          "answers": ["You never can tell with them!"]
         },
         {
           "id": "Zafaria_015",
           "question": "Who are Hannibal Onetusk's brother and co-pilot?",
-          "answers": ["Mago and Sobaka"],
-          "exact_match": true
+          "answers": ["Mago and Sobaka"]
         },
         {
           "id": "Zafaria_016",
           "question": "Who is not one of the Zebu Kings:",
-          "answers": ["Zaffe Zoffer"],
-          "exact_match": true
+          "answers": ["Zaffe Zoffer"]
         },
         {
           "id": "Zafaria_017",
           "question": "Who is the missing prince?",
-          "answers": ["Tiziri Silvertusk"],
-          "exact_match": true
+          "answers": ["Tiziri Silvertusk"]
         },
         {
           "id": "Zafaria_018",
           "question": "Zamunda's great assassin is known as:",
-          "answers": ["Karl the Jackal"],
-          "exact_match": true
+          "answers": ["Karl the Jackal"]
         },
         {
           "id": "Zafaria_019",
           "question": "Zebu Blackstripes legendary blade was called:",
-          "answers": ["The Sword of the Duelist"],
-          "exact_match": true
+          "answers": ["The Sword of the Duelist"]
         },
         {
           "id": "Zafaria_020",
           "question": "Zebu Blackstripes legendary blade was forged:",
-          "answers": ["In the halls of Valencia"],
-          "exact_match": true
+          "answers": ["In the halls of Valencia"]
         }
       ]
     },
@@ -1156,116 +1033,97 @@
         {
           "id": "Pirate101_Adventure_001",
           "question": "Who is the Leader of the Scurvy Dogs?",
-          "answers": ["Captain Dan"],
-          "exact_match": true
+          "answers": ["Captain Dan"]
         },
         {
           "id": "Pirate101_Adventure_002",
           "question": "What is the name of the Musketeer Trainer?",
-          "answers": ["Ol' Fish Eye"],
-          "exact_match": true
+          "answers": ["Ol' Fish Eye"]
         },
         {
           "id": "Pirate101_Adventure_003",
           "question": "Who is the lord of La Mancha?",
-          "answers": ["Donkey Hotay"],
-          "exact_match": true
+          "answers": ["Donkey Hotay"]
         },
         {
           "id": "Pirate101_Adventure_004",
           "question": "Who is the leader of the Red Claw Gang?",
-          "answers": ["Buster Crab"],
-          "exact_match": true
+          "answers": ["Buster Crab"]
         },
         {
           "id": "Pirate101_Adventure_005",
           "question": "What color Windstone does the Stormgate to Monquista require?",
-          "answers": ["Violet"],
-          "exact_match": true
+          "answers": ["Violet"]
         },
         {
           "id": "Pirate101_Adventure_006",
           "question": "What is the name of the Privateer Trainer?",
-          "answers": ["The Commodore"],
-          "exact_match": true
+          "answers": ["The Commodore"]
         },
         {
           "id": "Pirate101_Adventure_007",
           "question": "Who is the Sheriff of Cooper's Roost?",
-          "answers": ["Rooster Cogburn"],
-          "exact_match": true
+          "answers": ["Rooster Cogburn"]
         },
         {
           "id": "Pirate101_Adventure_008",
           "question": "Where is Gunn's refuge located?",
-          "answers": ["Corsair's Channel"],
-          "exact_match": true
+          "answers": ["Corsair's Channel"]
         },
         {
           "id": "Pirate101_Adventure_009",
           "question": "Where do you meet your first companion?",
-          "answers": ["On board the Erebus"],
-          "exact_match": true
+          "answers": ["On board the Erebus"]
         },
         {
           "id": "Pirate101_Adventure_010",
           "question": "What class is Ratbeard?",
-          "answers": ["Buccaneer"],
-          "exact_match": true
+          "answers": ["Buccaneer"]
         },
         {
           "id": "Pirate101_Adventure_011",
           "question": "What gang does the Magnificent Seven fight in Tumbleweed Skyway?",
-          "answers": ["The Wild Bunch"],
-          "exact_match": true
+          "answers": ["The Wild Bunch"]
         },
         {
           "id": "Pirate101_Adventure_012",
           "question": "General Tso's favorite pet is?",
-          "answers": ["A Chicken"],
-          "exact_match": true
+          "answers": ["A Chicken"]
         },
         {
           "id": "Pirate101_Adventure_013",
           "question": "What member of Kane's court is the Armada's Spymaster?",
-          "answers": ["Deacon"],
-          "exact_match": true
+          "answers": ["Deacon"]
         },
         {
           "id": "Pirate101_Adventure_014",
           "question": "Who is the bartender of the Kraken Skulls Tavern?",
-          "answers": ["Skinny Pete"],
-          "exact_match": true
+          "answers": ["Skinny Pete"]
         },
         {
           "id": "Pirate101_Adventure_015",
           "question": "What does the Frogfather ask you to steal from The Presidio?",
-          "answers": ["Spices"],
-          "exact_match": true
+          "answers": ["Spices"]
         },
         {
           "id": "Pirate101_Adventure_016",
           "question": "How many slingshots do the Troggies have set up on Skull Mountain?",
-          "answers": ["3"],
-          "exact_match": true
+          "answers": ["3"]
         },
         {
           "id": "Pirate101_Adventure_017",
           "question": "Who is also known as The Gold Monkey?",
-          "answers": ["Gortez"],
-          "exact_match": true
+          "answers": ["Gortez"]
         },
         {
           "id": "Pirate101_Adventure_018",
           "question": "Where do you find your parent's ship?",
-          "answers": ["Jonah Town"],
-          "exact_match": true
+          "answers": ["Jonah Town"]
         },
         {
           "id": "Pirate101_Adventure_019",
           "question": "Who is the owner of The Black Spot?",
-          "answers": ["One Eyed Jack"],
-          "exact_match": true
+          "answers": ["One Eyed Jack"]
         }
       ]
     },
@@ -1274,122 +1132,102 @@
         {
           "id": "Pirate101_Aquila_001",
           "question": "Where do you find the Vault of Mysteries?",
-          "answers": ["Delphos"],
-          "exact_match": true
+          "answers": ["Delphos"]
         },
         {
           "id": "Pirate101_Aquila_002",
           "question": "What do the Amazons claim the Centaurs stole from them?",
-          "answers": ["Statue"],
-          "exact_match": true
+          "answers": ["Statue"]
         },
         {
           "id": "Pirate101_Aquila_003",
           "question": "Who's most likely to fight you over some Grape Juice?",
-          "answers": ["Ettin"],
-          "exact_match": true
+          "answers": ["Ettin"]
         },
         {
           "id": "Pirate101_Aquila_004",
           "question": "What creature can't you find in Knossos?",
-          "answers": ["Statue"],
-          "exact_match": true
+          "answers": ["Statue"]
         },
         {
           "id": "Pirate101_Aquila_005",
           "question": "How much copper do you collect from Ophidians in Illios for Lycurgus?",
-          "answers": ["6"],
-          "exact_match": true
+          "answers": ["6"]
         },
         {
           "id": "Pirate101_Aquila_006",
           "question": "What quest has you fighting Laestryonian Breakstuff?",
-          "answers": ["All the Spiral's a Stage"],
-          "exact_match": true
+          "answers": ["All the Spiral's a Stage"]
         },
         {
           "id": "Pirate101_Aquila_007",
           "question": "What doesn't Iron Chef Motomori need for the Caesar's Salad?",
-          "answers": ["Grape Tomatoes"],
-          "exact_match": true
+          "answers": ["Grape Tomatoes"]
         },
         {
           "id": "Pirate101_Aquila_008",
           "question": "Which statue isn't found outside Medusa's Cave?",
-          "answers": ["Centaur"],
-          "exact_match": true
+          "answers": ["Centaur"]
         },
         {
           "id": "Pirate101_Aquila_009",
           "question": "Who would you talk to first in Aquila out of the following characters?",
-          "answers": ["Phoebus"],
-          "exact_match": true
+          "answers": ["Phoebus"]
         },
         {
           "id": "Pirate101_Aquila_010",
           "question": "To what is an Ettin immune?",
-          "answers": ["Flanking"],
-          "exact_match": true
+          "answers": ["Flanking"]
         },
         {
           "id": "Pirate101_Aquila_011",
           "question": "From where is a good place to find Lotus in Aquila?",
-          "answers": ["Ophidian Ships"],
-          "exact_match": true
+          "answers": ["Ophidian Ships"]
         },
         {
           "id": "Pirate101_Aquila_012",
           "question": "Which type of bird won't you find in the Birdhouse of Pain?",
-          "answers": ["Ebon Stymphalian"],
-          "exact_match": true
+          "answers": ["Ebon Stymphalian"]
         },
         {
           "id": "Pirate101_Aquila_013",
           "question": "Which one isn't a Raven Sister the Oracle sends you to talk to?",
-          "answers": ["Madea"],
-          "exact_match": true
+          "answers": ["Madea"]
         },
         {
           "id": "Pirate101_Aquila_014",
           "question": "Where do you find the Pitch Bright Cave?",
-          "answers": ["Illios"],
-          "exact_match": true
+          "answers": ["Illios"]
         },
         {
           "id": "Pirate101_Aquila_015",
           "question": "What best describes Diskylos?",
-          "answers": ["Orthoi"],
-          "exact_match": true
+          "answers": ["Orthoi"]
         },
         {
           "id": "Pirate101_Aquila_016",
           "question": "Running away from this Vulture would be a bad idea considering he has Parting Shot 3.",
-          "answers": ["Banditti"],
-          "exact_match": true
+          "answers": ["Banditti"]
         },
         {
           "id": "Pirate101_Aquila_017",
           "question": "How many Machina Parts do you need to collect for Fabron?",
-          "answers": ["6"],
-          "exact_match": true
+          "answers": ["6"]
         },
         {
           "id": "Pirate101_Aquila_018",
           "question": "Which color doesn't glow on a Minotaur Brother?",
-          "answers": ["Green"],
-          "exact_match": true
+          "answers": ["Green"]
         },
         {
           "id": "Pirate101_Aquila_019",
           "question": "Which one is an Emperor?",
-          "answers": ["Tibirdius"],
-          "exact_match": true
+          "answers": ["Tibirdius"]
         },
         {
           "id": "Pirate101_Aquila_020",
           "question": "How many years of memories do you trade for an audience with the Mysteries?",
-          "answers": ["5"],
-          "exact_match": true
+          "answers": ["5"]
         }
       ]
     },
@@ -1398,116 +1236,97 @@
         {
           "id": "Pirate101_Fun_001",
           "question": "What is the biggest shark clan on Skull Island?",
-          "answers": ["Cutthroat"],
-          "exact_match": true
+          "answers": ["Cutthroat"]
         },
         {
           "id": "Pirate101_Fun_002",
           "question": "Who led the Polaris military forces during the Polarian Wars?",
-          "answers": ["Napoleguin"],
-          "exact_match": true
+          "answers": ["Napoleguin"]
         },
         {
           "id": "Pirate101_Fun_003",
           "question": "The Skyways of Valencia are what color?",
-          "answers": ["Green"],
-          "exact_match": true
+          "answers": ["Green"]
         },
         {
           "id": "Pirate101_Fun_004",
           "question": "What is the name of the Buccaneer Trainer?",
-          "answers": ["Mordekai"],
-          "exact_match": true
+          "answers": ["Mordekai"]
         },
         {
           "id": "Pirate101_Fun_005",
           "question": "Who is the leader of the Armada?",
-          "answers": ["Kane"],
-          "exact_match": true
+          "answers": ["Kane"]
         },
         {
           "id": "Pirate101_Fun_006",
           "question": "Who is known as the mad scientist of The Armada?",
-          "answers": ["Bishop"],
-          "exact_match": true
+          "answers": ["Bishop"]
         },
         {
           "id": "Pirate101_Fun_007",
           "question": "What was the name of El Toro's adoptive father?",
-          "answers": ["Don Rafael"],
-          "exact_match": true
+          "answers": ["Don Rafael"]
         },
         {
           "id": "Pirate101_Fun_008",
           "question": "What type of creature is Argos?",
-          "answers": ["Cyclops"],
-          "exact_match": true
+          "answers": ["Cyclops"]
         },
         {
           "id": "Pirate101_Fun_009",
           "question": "What is the name of the Swashbuckler Trainer?",
-          "answers": ["Morgan LaFitte"],
-          "exact_match": true
+          "answers": ["Morgan LaFitte"]
         },
         {
           "id": "Pirate101_Fun_010",
           "question": "What is the safest spot in any Skyway?",
-          "answers": ["Center of the Windlane"],
-          "exact_match": true
+          "answers": ["Center of the Windlane"]
         },
         {
           "id": "Pirate101_Fun_011",
           "question": "What world is The Commodore from?",
-          "answers": ["Marleybone"],
-          "exact_match": true
+          "answers": ["Marleybone"]
         },
         {
           "id": "Pirate101_Fun_012",
           "question": "What world does Bjorn Bjornstein hail from?",
-          "answers": ["Grizzleheim"],
-          "exact_match": true
+          "answers": ["Grizzleheim"]
         },
         {
           "id": "Pirate101_Fun_013",
           "question": "What is the main Skyway of Monquista called?",
-          "answers": ["Tierra Primata"],
-          "exact_match": true
+          "answers": ["Tierra Primata"]
         },
         {
           "id": "Pirate101_Fun_014",
           "question": "Who is the ruler of the Immortals of Aquila?",
-          "answers": ["Zeus Skyfather"],
-          "exact_match": true
+          "answers": ["Zeus Skyfather"]
         },
         {
           "id": "Pirate101_Fun_015",
           "question": "Who are the current Co-Rulers of Monquista?",
-          "answers": ["Gortez and Eleanor"],
-          "exact_match": true
+          "answers": ["Gortez and Eleanor"]
         },
         {
           "id": "Pirate101_Fun_016",
           "question": "What animal is used to summon Brother Wolf?",
-          "answers": ["Bumbaloon"],
-          "exact_match": true
+          "answers": ["Bumbaloon"]
         },
         {
           "id": "Pirate101_Fun_017",
           "question": "Where does Gaspard De Vole originally come from?",
-          "answers": ["Valencia"],
-          "exact_match": true
+          "answers": ["Valencia"]
         },
         {
           "id": "Pirate101_Fun_018",
           "question": "How many heads do Ettins have?",
-          "answers": ["2"],
-          "exact_match": true
+          "answers": ["2"]
         },
         {
           "id": "Pirate101_Fun_019",
           "question": "What is the name of the Witchdoctor Trainer?",
-          "answers": ["Vadima"],
-          "exact_match": true
+          "answers": ["Vadima"]
         }
       ]
     },
@@ -1516,122 +1335,102 @@
         {
           "id": "Pirate101_Goldseeker_001",
           "question": "What is the name of Shiruku Neko's master?",
-          "answers": ["Branch"],
-          "exact_match": true
+          "answers": ["Branch"]
         },
         {
           "id": "Pirate101_Goldseeker_002",
           "question": "Knossos, home to the Halls of Minos is now mostly populated by what?",
-          "answers": ["Vultures"],
-          "exact_match": true
+          "answers": ["Vultures"]
         },
         {
           "id": "Pirate101_Goldseeker_003",
           "question": "What is the name of Admiral Nelson's Ship?",
-          "answers": ["The Victory"],
-          "exact_match": true
+          "answers": ["The Victory"]
         },
         {
           "id": "Pirate101_Goldseeker_004",
           "question": "What caused the revolt of the Kurghas on The Isle of Fetch?",
-          "answers": ["Their new rations tasted too good"],
-          "exact_match": true
+          "answers": ["Their new rations tasted too good"]
         },
         {
           "id": "Pirate101_Goldseeker_005",
           "question": "What price is demanded by the Eleusinian Mysteries?",
-          "answers": ["The First Five years of your Memories"],
-          "exact_match": true
+          "answers": ["The First Five years of your Memories"]
         },
         {
           "id": "Pirate101_Goldseeker_006",
           "question": "When Bat Masterson left the Magnificent Seven, what did he end up as?",
-          "answers": ["A Miner"],
-          "exact_match": true
+          "answers": ["A Miner"]
         },
         {
           "id": "Pirate101_Goldseeker_007",
           "question": "Which one of the following is NOT a Totem Spirit of the Big Sky Tribe?",
-          "answers": ["Brother Bat"],
-          "exact_match": true
+          "answers": ["Brother Bat"]
         },
         {
           "id": "Pirate101_Goldseeker_008",
           "question": "How many Skyways make up Cool Ranch?",
-          "answers": ["6"],
-          "exact_match": true
+          "answers": ["6"]
         },
         {
           "id": "Pirate101_Goldseeker_009",
           "question": "What is the name of the island that is being destroyed by the Armada in Aragon Skyway?",
-          "answers": ["Granchia"],
-          "exact_match": true
+          "answers": ["Granchia"]
         },
         {
           "id": "Pirate101_Goldseeker_010",
           "question": "Young Alex lost his father's heirloom dagger when it was eaten by what animal?",
-          "answers": ["Batacuda"],
-          "exact_match": true
+          "answers": ["Batacuda"]
         },
         {
           "id": "Pirate101_Goldseeker_011",
           "question": "What was General Tso amassing in order to overthrow the Emperor?",
-          "answers": ["Muskets"],
-          "exact_match": true
+          "answers": ["Muskets"]
         },
         {
           "id": "Pirate101_Goldseeker_012",
           "question": "What is the Brass Monkey's real name?",
-          "answers": ["Count Brastillo de Brass"],
-          "exact_match": true
+          "answers": ["Count Brastillo de Brass"]
         },
         {
           "id": "Pirate101_Goldseeker_013",
           "question": "Who masterminded the plot to use stone warriors to conquer MooShu?",
-          "answers": ["Moo Manchu"],
-          "exact_match": true
+          "answers": ["Moo Manchu"]
         },
         {
           "id": "Pirate101_Goldseeker_014",
           "question": "What is the name of the tavern in Port Regal?",
-          "answers": ["The Hope and Anchor"],
-          "exact_match": true
+          "answers": ["The Hope and Anchor"]
         },
         {
           "id": "Pirate101_Goldseeker_015",
           "question": "What is the name of Catbeard's Ship?",
-          "answers": ["The Cat's Paw"],
-          "exact_match": true
+          "answers": ["The Cat's Paw"]
         },
         {
           "id": "Pirate101_Goldseeker_016",
           "question": "Where is Mr. Gandry originally from?",
-          "answers": ["Monquista"],
-          "exact_match": true
+          "answers": ["Monquista"]
         },
         {
           "id": "Pirate101_Goldseeker_017",
           "question": "What's Duck of Death's real name?",
-          "answers": ["English Bill"],
-          "exact_match": true
+          "answers": ["English Bill"]
         },
         {
           "id": "Pirate101_Goldseeker_018",
           "question": "What relic does Itzam Halach require in Xol Akmuul?",
-          "answers": ["The Crystal Skull"],
-          "exact_match": true
+          "answers": ["The Crystal Skull"]
         },
         {
           "id": "Pirate101_Goldseeker_019",
           "question": "What is Bonnie Anne's last name?",
-          "answers": ["Fox"],
-          "exact_match": true
+          "answers": ["Fox"]
         },
         {
           "id": "Pirate101_Goldseeker_020",
           "question": "What is the password to get in to see the Frogfather?",
-          "answers": ["Ribbit"],
-          "exact_match": true
+          "answers": ["Ribbit"]
         }
       ]
     },
@@ -1640,116 +1439,97 @@
         {
           "id": "Pirate101_Island_Hopper_001",
           "question": "What \"Golden Ticket\" item does one need to travel to MooShu for the first time?",
-          "answers": ["A MooShu Skiff"],
-          "exact_match": true
+          "answers": ["A MooShu Skiff"]
         },
         {
           "id": "Pirate101_Island_Hopper_002",
           "question": "Ratbeard's worst enemy was?",
-          "answers": ["Captain Fowl"],
-          "exact_match": true
+          "answers": ["Captain Fowl"]
         },
         {
           "id": "Pirate101_Island_Hopper_003",
           "question": "What Island is the home to the Trolls of Aquila?",
-          "answers": ["Laestrygon"],
-          "exact_match": true
+          "answers": ["Laestrygon"]
         },
         {
           "id": "Pirate101_Island_Hopper_004",
           "question": "Who is the Commanding Officer of Fort McMurtry?",
-          "answers": ["Colonel Church"],
-          "exact_match": true
+          "answers": ["Colonel Church"]
         },
         {
           "id": "Pirate101_Island_Hopper_005",
           "question": "What is Catbeard's weapon of choice?",
-          "answers": ["Cutlass"],
-          "exact_match": true
+          "answers": ["Cutlass"]
         },
         {
           "id": "Pirate101_Island_Hopper_006",
           "question": "Who is the Marleybonean Ambassador to MooShu?",
-          "answers": ["Ambassador Downley"],
-          "exact_match": true
+          "answers": ["Ambassador Downley"]
         },
         {
           "id": "Pirate101_Island_Hopper_007",
           "question": "What world does Madame Vadima supposedly come from?",
-          "answers": ["Darkmoor"],
-          "exact_match": true
+          "answers": ["Darkmoor"]
         },
         {
           "id": "Pirate101_Island_Hopper_008",
           "question": "What is the name of the sage who could translate Pollo's Map?",
-          "answers": ["Cao Tzu"],
-          "exact_match": true
+          "answers": ["Cao Tzu"]
         },
         {
           "id": "Pirate101_Island_Hopper_009",
           "question": "Who is the head of Special Branch?",
-          "answers": ["Mycroft Holmes"],
-          "exact_match": true
+          "answers": ["Mycroft Holmes"]
         },
         {
           "id": "Pirate101_Island_Hopper_010",
           "question": "What is El Toro's actual name?",
-          "answers": ["Don Rodrigo"],
-          "exact_match": true
+          "answers": ["Don Rodrigo"]
         },
         {
           "id": "Pirate101_Island_Hopper_011",
           "question": "What world is Mordekai from?",
-          "answers": ["Skull Island"],
-          "exact_match": true
+          "answers": ["Skull Island"]
         },
         {
           "id": "Pirate101_Island_Hopper_012",
           "question": "What is the name of Old Scratch's first patron?",
-          "answers": ["Dark Crawler"],
-          "exact_match": true
+          "answers": ["Dark Crawler"]
         },
         {
           "id": "Pirate101_Island_Hopper_013",
           "question": "What is the name of Rooke's flagship?",
-          "answers": ["The Erebus"],
-          "exact_match": true
+          "answers": ["The Erebus"]
         },
         {
           "id": "Pirate101_Island_Hopper_014",
           "question": "Which one of the dishes below was NOT a recipe Captain Gunn used Yum Yum Fruit for?",
-          "answers": ["Yum Salad"],
-          "exact_match": true
+          "answers": ["Yum Salad"]
         },
         {
           "id": "Pirate101_Island_Hopper_015",
           "question": "Who is Catbeard's first mate?",
-          "answers": ["Mr. Norrington"],
-          "exact_match": true
+          "answers": ["Mr. Norrington"]
         },
         {
           "id": "Pirate101_Island_Hopper_016",
           "question": "Where did Ol'Fish Eye learn to shoot?",
-          "answers": ["Serving in the Marleybonean Army"],
-          "exact_match": true
+          "answers": ["Serving in the Marleybonean Army"]
         },
         {
           "id": "Pirate101_Island_Hopper_017",
           "question": "Why did Eagilles refuse to fight against the Ophidians?",
-          "answers": ["He didn't receive a triumphal feast"],
-          "exact_match": true
+          "answers": ["He didn't receive a triumphal feast"]
         },
         {
           "id": "Pirate101_Island_Hopper_018",
           "question": "What is the name of Santa Rana's Fortress?",
-          "answers": ["Castillo Sapo"],
-          "exact_match": true
+          "answers": ["Castillo Sapo"]
         },
         {
           "id": "Pirate101_Island_Hopper_019",
           "question": "Why was Monkey King imprisoned under the Sacred Mountain?",
-          "answers": ["He neglected his duties"],
-          "exact_match": true
+          "answers": ["He neglected his duties"]
         }
       ]
     },
@@ -1758,98 +1538,82 @@
         {
           "id": "KingsIsle_001",
           "question": "In what state are KingsIsle's offices located?",
-          "answers": ["Texas"],
-          "exact_match": true
+          "answers": ["Texas"]
         },
         {
           "id": "KingsIsle_002",
           "question": "What colors make up the KingsIsle logo?",
-          "answers": ["Orange and Grey"],
-          "exact_match": true
+          "answers": ["Orange and Grey"]
         },
         {
           "id": "KingsIsle_003",
           "question": "What currency do KingsIsle MMO games use?",
-          "answers": ["Crowns"],
-          "exact_match": true
+          "answers": ["Crowns"]
         },
         {
           "id": "KingsIsle_004",
           "question": "What is the name of KingsIsle's free game site?",
-          "answers": ["FreeKI Games"],
-          "exact_match": true
+          "answers": ["FreeKI Games"]
         },
         {
           "id": "KingsIsle_005",
           "question": "What kind of games does KingsIsle make?",
-          "answers": ["Massive Multiplayer Online Games (MMOs)"],
-          "exact_match": true
+          "answers": ["Massive Multiplayer Online Games (MMOs)"]
         },
         {
           "id": "KingsIsle_006",
           "question": "What KingsIsle mobile game ties into a player's pet in Wizard101?",
-          "answers": ["Grub Guardian"],
-          "exact_match": true
+          "answers": ["Grub Guardian"]
         },
         {
           "id": "KingsIsle_007",
           "question": "What was the name of KingsIsle's first game?",
-          "answers": ["Wizard101"],
-          "exact_match": true
+          "answers": ["Wizard101"]
         },
         {
           "id": "KingsIsle_008",
           "question": "What year did KingsIsle's Wizard101 get nominated for the MMO Hall of Fame?",
-          "answers": ["2014"],
-          "exact_match": true
+          "answers": ["2014"]
         },
         {
           "id": "KingsIsle_009",
           "question": "What year did KingsIsle launch Pirate101?",
-          "answers": ["2012"],
-          "exact_match": true
+          "answers": ["2012"]
         },
         {
           "id": "KingsIsle_010",
           "question": "What year did KingsIsle launch Wizard101?",
-          "answers": ["2008"],
-          "exact_match": true
+          "answers": ["2008"]
         },
         {
           "id": "KingsIsle_011",
           "question": "What year was KingsIsle's founded?",
-          "answers": ["2005"],
-          "exact_match": true
+          "answers": ["2005"]
         },
         {
           "id": "KingsIsle_012",
           "question": "Which Austin charity has KingsIsle donated to?",
-          "answers": ["Austin Children's Shelter"],
-          "exact_match": true
+          "answers": ["Austin Children's Shelter"]
         },
         {
           "id": "KingsIsle_013",
           "question": "Which Plano charity has KingsIsle donated to?",
-          "answers": ["Children's Medical Center at Legacy in Plano", "Children�s Medical Center at Legacy in Plano"],
-          "exact_match": true
+          "answers": ["Children's Medical Center at Legacy in Plano", "Children�s Medical Center at Legacy in Plano"]
         },
         {
           "id": "KingsIsle_014",
           "question": "KingsIsle makes games for which audience?",
-          "answers": ["All ages"],
-          "exact_match": true
+          "answers": ["All ages"]
         },
         {
           "id": "KingsIsle_015",
           "question": "What countries can play Wizard101?",
-          "answers": ["All the above"],
-          "exact_match": true
+          "answers": ["All the above"]
         },
         {
           "id": "KingsIsle_016",
           "question": "Who founded KingsIsle Entertainment, Inc.?",
-          "answers": ["Elie Akilian"],
-          "exact_match": true
+          "answers": ["Elie Akilian"]
         }
       ]
     },
@@ -1858,74 +1622,62 @@
         {
           "id": "P101Mooshu_001",
           "question": "Who won't bargain a pearl with the Monkey King?",
-          "answers": ["Karasu"],
-          "exact_match": true
+          "answers": ["Karasu"]
         },
         {
           "id": "P101Mooshu_002",
           "question": "Where might one find a lost Imperial Jade Statue?",
-          "answers": ["Hamamitsu"],
-          "exact_match": true
+          "answers": ["Hamamitsu"]
         },
         {
           "id": "P101Mooshu_003",
           "question": "What kind of weapon do Buccaneer's get for finishing the quest Turnabout?",
-          "answers": ["Odachi"],
-          "exact_match": true
+          "answers": ["Odachi"]
         },
         {
           "id": "P101Mooshu_004",
           "question": "What means did Dr. Noh use to take Egg Foo Yung's Map piece?",
-          "answers": ["Hired a ninja"],
-          "exact_match": true
+          "answers": ["Hired a ninja"]
         },
         {
           "id": "P101Mooshu_005",
           "question": "What does Monkey King say you should ask for from the Dragon King?",
-          "answers": ["The Challenge"],
-          "exact_match": true
+          "answers": ["The Challenge"]
         },
         {
           "id": "P101Mooshu_006",
           "question": "Who is a Celestial Ogre?",
-          "answers": ["Friar Sand"],
-          "exact_match": true
+          "answers": ["Friar Sand"]
         },
         {
           "id": "P101Mooshu_007",
           "question": "What best describes Yuji?",
-          "answers": ["Yak"],
-          "exact_match": true
+          "answers": ["Yak"]
         },
         {
           "id": "P101Mooshu_008",
           "question": "What kind of pollen could be slipped into some tea to make someone fall asleep?",
-          "answers": ["Moon Pollen"],
-          "exact_match": true
+          "answers": ["Moon Pollen"]
         },
         {
           "id": "P101Mooshu_009",
           "question": "Which one isn't a relic stolen from the Dragon Prince's Father?",
-          "answers": ["Gong of Serenity"],
-          "exact_match": true
+          "answers": ["Gong of Serenity"]
         },
         {
           "id": "P101Mooshu_010",
           "question": "Which one knows how to make a fake signature?",
-          "answers": ["Chosuke"],
-          "exact_match": true
+          "answers": ["Chosuke"]
         },
         {
           "id": "P101Mooshu_011",
           "question": "Where can you find Shunzang the Wise?",
-          "answers": ["Temple of Eternal Serentiy"],
-          "exact_match": true
+          "answers": ["Temple of Eternal Serentiy"]
         },
         {
           "id": "P101Mooshu_012",
           "question": "Where does Governer Umeboshi say you can find the Scroll of Secrets?",
-          "answers": ["Library of Contemplation"],
-          "exact_match": true
+          "answers": ["Library of Contemplation"]
         },
         {
           "id" : "P101Mooshu_0013",
@@ -1936,113 +1688,154 @@
         {
           "id": "P101Mooshu_014",
           "question": "Which one isn't a relic stolen from the Dragon Prince's Father?",
-          "answers": ["Gong of Serenity"],
-          "exact_match": true
+          "answers": ["Gong of Serenity"]
         },
         {
           "id": "P101Mooshu_015",
           "question": "What type of Guardian can't be found in Maruzame Castle?",
-          "answers": ["Lightning"],
-          "exact_match": true
+          "answers": ["Lightning"]
         },
         {
           "id": "P101Mooshu_016",
           "question": "Where does Governer Umeboshi say you can find the Scroll of Secrets?",
-          "answers": ["Library of Contemplation"],
-          "exact_match": true
+          "answers": ["Library of Contemplation"]
         },
         {
           "id": "P101Mooshu_017",
           "question": "What kind of guards do you find a lot of in General Tso's Fortress?",
-          "answers": ["Samoorai"],
-          "exact_match": true
+          "answers": ["Samoorai"]
         },
         {
           "id": "P101Mooshu_018",
           "question": "Where did Monkey King say his Turtle Ball rolled?",
-          "answers": ["Cave"],
-          "exact_match": true
+          "answers": ["Cave"]
         },
         {
           "id": "P101Mooshu_019",
           "question": "What kind of weapon do Buccaneer's get for finishing the quest Turnabout?",
-          "answers": ["Odachi"],
-          "exact_match": true
+          "answers": ["Odachi"]
         },
         {
           "id": "P101Mooshu_020",
           "question": "Where's a good place to put on a dancer's costume?",
-          "answers": ["Moomori Clanhold"],
-          "exact_match": true
+          "answers": ["Moomori Clanhold"]
         },
         {
           "id": "P101Mooshu_021",
           "question": "Where can you find Shunzang the Wise?",
-          "answers": ["Temple of Eternal Serenity"],
-          "exact_match": true
+          "answers": ["Temple of Eternal Serenity"]
         },
         {
           "id": "P101Mooshu_022",
           "question": "What's Zhu Ro's price for helping you to find Egg Foo Yung?",
-          "answers": ["Jade Statue"],
-          "exact_match": true
+          "answers": ["Jade Statue"]
         },
         {
           "id": "P101Mooshu_023",
           "question": "What kind of pollen could be slipped into some tea to make someone fall asleep?",
-          "answers": ["Moon Pollen"],
-          "exact_match": true
+          "answers": ["Moon Pollen"]
         },
         {
           "id": "P101Mooshu_024",
           "question": "Who is a Celestial Ogre?",
-          "answers": ["Friar Sand"],
-          "exact_match": true
+          "answers": ["Friar Sand"]
         },
         {
           "id": "P101Mooshu_025",
           "question": "What best describes Yuji?",
-          "answers": ["Yak"],
-          "exact_match": true
+          "answers": ["Yak"]
         },
         {
           "id": "P101Mooshu_013",
           "question": "What is the greatest threat to the Valley of the Titans?",
-          "answers": ["Stormzilla"],
-          "exact_match": true
+          "answers": ["Stormzilla"]
         },
         {
           "id": "P101Mooshu_014",
           "question": "Who might hold a Harp of Harmony?",
-          "answers": ["Horde Raider"],
-          "exact_match": true
+          "answers": ["Horde Raider"]
         },
         {
           "id": "P101Mooshu_015",
           "question": "How many villagers do you repay from Governor Nakamura’s gold supply?",
-          "answers": ["10"],
-          "exact_match": true
+          "answers": ["10"]
         },
         {
           "id": "P101Mooshu_016",
           "question": "What does Monkey King say you should ask for from the Dragon King?",
-          "answers": ["The Challenge"],
-          "exact_match": true
+          "answers": ["The Challenge"]
         },
         {
           "id": "P101Mooshu_017",
           "question": "Who won’t bargain a pearl with the Monkey King?",
-          "answers": ["Karasu"],
-          "exact_match": true
+          "answers": ["Karasu"]
         },
         {
           "id": "P101Mooshu_018",
           "question": "Where might one find a lost Imperial Jade Statue?",
-          "answers": ["Hamamitsu"],
-          "exact_match": true
+          "answers": ["Hamamitsu"]
+        },
+        {
+          "id": "P101Mooshu_001",
+          "question": "Which one isn’t a relic stolen from the Dragon Prince’s Father?",
+          "answers": ["Gong of Serenity"]
+        },
+        {
+          "id": "P101Mooshu_002",
+          "question": "What type of Guardian can’t be found in Maruzame Castle?",
+          "answers": ["Lightning"]
+        },
+        {
+          "id": "P101Mooshu_003",
+          "question": "Where does Governer Umeboshi say you can find the Scroll of Secrets?",
+          "answers": ["Library of Contemplation"]
+        },
+        {
+          "id": "P101Mooshu_004",
+          "question": "What kind of guards do you find a lot of in General Tso’s Fortress?",
+          "answers": ["Samoorai"]
+        },
+        {
+          "id": "P101Mooshu_005",
+          "question": "Where did Monkey King say his Turtle Ball rolled?",
+          "answers": ["Cave"]
+        },
+        {
+          "id": "P101Mooshu_006",
+          "question": "What kind of weapon do Buccaneer’s get for finshing the quest Turnabout?",
+          "answers": ["Odachi"]
+        },
+        {
+          "id": "P101Mooshu_007",
+          "question": "Where’s a good place to put on a dancer’s costume?",
+          "answers": ["Moomori Clanhold"]
+        },
+        {
+          "id": "P101Mooshu_008",
+          "question": "Where can you find Shunzang the Wise?",
+          "answers": ["Temple of Eternal Serentiy"]
+        },
+        {
+          "id": "P101Mooshu_009",
+          "question": "What’s Zhu Ro’s price for helping you to find Egg Foo Yung?",
+          "answers": ["Jade Statue"]
+        },
+        {
+          "id": "P101Mooshu_010",
+          "question": "What kind of pollen could be slipped into some tea to make someone fall asleep?",
+          "answers": ["Moon Pollen"]
+        },
+        {
+          "id": "P101Mooshu_011",
+          "question": "Who is a Celestial Ogre?",
+          "answers": ["Friar Sand"]
+        },
+        {
+          "id": "P101Mooshu_012",
+          "question": "What best describes Yuji?",
+          "answers": ["Yak"]
         }
       ]
-
     },
 
 
@@ -2051,128 +1844,107 @@
         {
           "id": "Capital_001",
           "question": "What is the capital of Argentina?",
-          "answers": ["Buenos Aires"],
-          "exact_match": true
+          "answers": ["Buenos Aires"]
         },
         {
           "id": "Capital_002",
           "question": "What is the capital of Australia?",
-          "answers": ["Canberra"],
-          "exact_match": true
+          "answers": ["Canberra"]
         },
         {
           "id": "Capital_003",
           "question": "What is the capital of Austria?",
-          "answers": ["Vienna"],
-          "exact_match": true
+          "answers": ["Vienna"]
         },
         {
           "id": "Capital_004",
           "question": "What is the capital of Belgium?",
-          "answers": ["Brussels"],
-          "exact_match": true
+          "answers": ["Brussels"]
         },
         {
           "id": "Capital_005",
           "question": "What is the capital of Brazil?",
-          "answers": ["Brasilia"],
-          "exact_match": true
+          "answers": ["Brasilia"]
         },
         {
           "id": "Capital_006",
           "question": "What is the capital of Canada?",
-          "answers": ["Ottawa"],
-          "exact_match": true
+          "answers": ["Ottawa"]
         },
         {
           "id": "Capital_007",
           "question": "What is the capital of China?",
-          "answers": ["Beijing"],
-          "exact_match": true
+          "answers": ["Beijing"]
         },
         {
           "id": "Capital_008",
           "question": "What is the capital of Cuba?",
-          "answers": ["Havana"],
-          "exact_match": true
+          "answers": ["Havana"]
         },
         {
           "id": "Capital_009",
           "question": "What is the capital of Czech Republic?",
-          "answers": ["Prague"],
-          "exact_match": true
+          "answers": ["Prague"]
         },
         {
           "id": "Capital_010",
           "question": "What is the capital of Denmark?",
-          "answers": ["Copenhagen"],
-          "exact_match": true
+          "answers": ["Copenhagen"]
         },
         {
           "id": "Capital_011",
           "question": "What is the capital of Egypt?",
-          "answers": ["Cairo"],
-          "exact_match": true
+          "answers": ["Cairo"]
         },
         {
           "id": "Capital_012",
           "question": "What is the capital of Finland?",
-          "answers": ["Helsinki"],
-          "exact_match": true
+          "answers": ["Helsinki"]
         },
         {
           "id": "Capital_013",
           "question": "What is the capital of France?",
-          "answers": ["Paris"],
-          "exact_match": true
+          "answers": ["Paris"]
         },
         {
           "id": "Capital_014",
           "question": "What is the capital of Germany?",
-          "answers": ["Berlin"],
-          "exact_match": true
+          "answers": ["Berlin"]
         },
         {
           "id": "Capital_015",
           "question": "What is the capital of Greece?",
-          "answers": ["Athens"],
-          "exact_match": true
+          "answers": ["Athens"]
         },
         {
           "id": "Capital_016",
           "question": "What is the capital of Hungary?",
-          "answers": ["Budapest"],
-          "exact_match": true
+          "answers": ["Budapest"]
         },
         {
           "id": "Capital_017",
           "question": "What is the capital of India?",
-          "answers": ["New Delhi"],
-          "exact_match": true
+          "answers": ["New Delhi"]
         },
         {
           "id": "Capital_018",
           "question": "What is the capital of Italy?",
-          "answers": ["Rome"],
-          "exact_match": true
+          "answers": ["Rome"]
         },
         {
           "id": "Capital_019",
           "question": "What is the capital of Japan?",
-          "answers": ["Tokyo"],
-          "exact_match": true
+          "answers": ["Tokyo"]
         },
         {
           "id": "Capital_020",
           "question": "What is the capital of Mexico?",
-          "answers": ["Mexico City"],
-          "exact_match": true
+          "answers": ["Mexico City"]
         },
         {
           "id": "Capital_021",
           "question": "What is the capital of The Bahamas?",
-          "answers": ["Nassau"],
-          "exact_match": true
+          "answers": ["Nassau"]
         }
       ]
     },
@@ -2181,116 +1953,97 @@
         {
           "id": "Egypt_001",
           "question": "A Pharaoh never let his ______ be seen.",
-          "answers": ["Hair"],
-          "exact_match": true
+          "answers": ["Hair"]
         },
         {
           "id": "Egypt_002",
           "question": "Because they believed in ________, ancient Egyptians mummified bodies.",
-          "answers": ["the afterlife"],
-          "exact_match": true
+          "answers": ["the afterlife"]
         },
         {
           "id": "Egypt_003",
           "question": "How many pyramids have been discovered in Egypt so far?",
-          "answers": ["Over 130"],
-          "exact_match": true
+          "answers": ["Over 130"]
         },
         {
           "id": "Egypt_004",
           "question": "Roughly how many different deities did the Ancient Egyptians believe in?",
-          "answers": ["More than 2,000"],
-          "exact_match": true
+          "answers": ["More than 2,000"]
         },
         {
           "id": "Egypt_005",
           "question": "The Ancient Egyptians were the first civilization to invent __________.",
-          "answers": ["Writing"],
-          "exact_match": true
+          "answers": ["Writing"]
         },
         {
           "id": "Egypt_006",
           "question": "The Egyptian alphabet consisted of more than ______ hieroglyphs.",
-          "answers": ["700"],
-          "exact_match": true
+          "answers": ["700"]
         },
         {
           "id": "Egypt_007",
           "question": "The famous Great Sphinx is missing what part?",
-          "answers": ["Nose"],
-          "exact_match": true
+          "answers": ["Nose"]
         },
         {
           "id": "Egypt_008",
           "question": "What did Ancient Egyptians believe made the Nile River overflow every year?",
-          "answers": ["The tears of Isis"],
-          "exact_match": true
+          "answers": ["The tears of Isis"]
         },
         {
           "id": "Egypt_009",
           "question": "What is the largest pyramid in Egypt?",
-          "answers": ["Pyramid of Khufu"],
-          "exact_match": true
+          "answers": ["Pyramid of Khufu"]
         },
         {
           "id": "Egypt_010",
           "question": "What is the name of the most popular board game developed by Ancient Egyptians?",
-          "answers": ["Senet"],
-          "exact_match": true
+          "answers": ["Senet"]
         },
         {
           "id": "Egypt_011",
           "question": "What type of animal did Ancient Egyptians not typically keep as a pet?",
-          "answers": ["Hippo"],
-          "exact_match": true
+          "answers": ["Hippo"]
         },
         {
           "id": "Egypt_012",
           "question": "When did the Ancient Egyptian Empire begin to weaken?",
-          "answers": ["700 BC"],
-          "exact_match": true
+          "answers": ["700 BC"]
         },
         {
           "id": "Egypt_013",
           "question": "Which empire was the first to conquer the Ancient Egyptians?",
-          "answers": ["Assyrian Empire"],
-          "exact_match": true
+          "answers": ["Assyrian Empire"]
         },
         {
           "id": "Egypt_014",
           "question": "Which is not considered a phase of the Ancient Egyptian society?",
-          "answers": ["Glorious Kingdom"],
-          "exact_match": true
+          "answers": ["Glorious Kingdom"]
         },
         {
           "id": "Egypt_015",
           "question": "Which of the following was a calendar not followed by the Ancient Egyptians?",
-          "answers": ["Animal Calendar"],
-          "exact_match": true
+          "answers": ["Animal Calendar"]
         },
         {
           "id": "Egypt_016",
           "question": "Which of the following was not invented by the Ancient Egyptians?",
-          "answers": ["Horse saddles"],
-          "exact_match": true
+          "answers": ["Horse saddles"]
         },
         {
           "id": "Egypt_017",
           "question": "Which of these animals was considered sacred by Ancient Egyptians?",
-          "answers": ["Cat"],
-          "exact_match": true
+          "answers": ["Cat"]
         },
         {
           "id": "Egypt_018",
           "question": "Who is considered to be the first Pharaoh of Egypt?",
-          "answers": ["King Menes"],
-          "exact_match": true
+          "answers": ["King Menes"]
         },
         {
           "id": "Egypt_019",
           "question": "Who is considered to be the most important Egyptian god?",
-          "answers": ["Ra"],
-          "exact_match": true
+          "answers": ["Ra"]
         }
       ]
     },
@@ -2299,98 +2052,82 @@
         {
           "id": "Apollo_001",
           "question": "In which mission did an astronaut perform a golf shot on the moon?",
-          "answers": ["Apollo 14"],
-          "exact_match": true
+          "answers": ["Apollo 14"]
         },
         {
           "id": "Apollo_002",
           "question": "This Apollo mission never launched and ended in tragedy, when a fire erupted in the command module during a test and killed three astronauts.",
-          "answers": ["Apollo 1"],
-          "exact_match": true
+          "answers": ["Apollo 1"]
         },
         {
           "id": "Apollo_003",
           "question": "Which astronaut was not present on the Apollo 11 mission?",
-          "answers": ["Cernan"],
-          "exact_match": true
+          "answers": ["Cernan"]
         },
         {
           "id": "Apollo_004",
           "question": "Which mission broadcasted some of the first live television pictures from space?",
-          "answers": ["Apollo 8"],
-          "exact_match": true
+          "answers": ["Apollo 8"]
         },
         {
           "id": "Apollo_005",
           "question": "Which mission cancelled their landing on the moon due to technical problems?",
-          "answers": ["Apollo 13"],
-          "exact_match": true
+          "answers": ["Apollo 13"]
         },
         {
           "id": "Apollo_006",
           "question": "Which mission conducted the first manned flight test of the Lunar Module?",
-          "answers": ["Apollo 9"],
-          "exact_match": true
+          "answers": ["Apollo 9"]
         },
         {
           "id": "Apollo_007",
           "question": "Which mission had a SM oxygen tank explode, which caused many problems?",
-          "answers": ["Apollo 13"],
-          "exact_match": true
+          "answers": ["Apollo 13"]
         },
         {
           "id": "Apollo_008",
           "question": "Which mission had two lightning strikes to the spacecraft during launch?",
-          "answers": ["Apollo 12"],
-          "exact_match": true
+          "answers": ["Apollo 12"]
         },
         {
           "id": "Apollo_009",
           "question": "Which mission provided the first color video images from the surface of the moon?",
-          "answers": ["Apollo 14"],
-          "exact_match": true
+          "answers": ["Apollo 14"]
         },
         {
           "id": "Apollo_010",
           "question": "Which mission used the Lunar RV for the first time?",
-          "answers": ["Apollo 15"],
-          "exact_match": true
+          "answers": ["Apollo 15"]
         },
         {
           "id": "Apollo_011",
           "question": "Which mission was considered a \"dress rehearsal\" for a lunar landing?",
-          "answers": ["Apollo 10"],
-          "exact_match": true
+          "answers": ["Apollo 10"]
         },
         {
           "id": "Apollo_012",
           "question": "Which mission was the first manned Apollo flight?",
-          "answers": ["Apollo 7"],
-          "exact_match": true
+          "answers": ["Apollo 7"]
         },
         {
           "id": "Apollo_013",
           "question": "Which mission was the first manned circumlunar flight?",
-          "answers": ["Apollo 8"],
-          "exact_match": true
+          "answers": ["Apollo 8"]
         },
         {
           "id": "Apollo_014",
           "question": "Which mission was the first manned landing on the moon?",
-          "answers": ["Apollo 11"],
-          "exact_match": true
+          "answers": ["Apollo 11"]
         },
         {
           "id": "Apollo_015",
           "question": "Which mission was the first night launch?",
-          "answers": ["Apollo 17"],
-          "exact_match": true
+          "answers": ["Apollo 17"]
         },
         {
           "id": "Apollo_016",
           "question": "Which was the last Apollo mission?",
-          "answers": ["Apollo 17"],
-          "exact_match": true
+          "answers": ["Apollo 17"]
         }
       ]
     },
@@ -2399,122 +2136,102 @@
         {
           "id": "BigCats_001",
           "question": "A cheetah can run up to speeds of ____ miles an hour.",
-          "answers": ["70"],
-          "exact_match": true
+          "answers": ["70"]
         },
         {
           "id": "BigCats_002",
           "question": "Big cats are ________.",
-          "answers": ["Carnivores"],
-          "exact_match": true
+          "answers": ["Carnivores"]
         },
         {
           "id": "BigCats_003",
           "question": "How far can a lion's roar be heard from?",
-          "answers": ["5 miles"],
-          "exact_match": true
+          "answers": ["5 miles"]
         },
         {
           "id": "BigCats_004",
           "question": "One common way to determine what is considered a big cat, is a feline that can ________.",
-          "answers": ["Roar"],
-          "exact_match": true
+          "answers": ["Roar"]
         },
         {
           "id": "BigCats_005",
           "question": "The main threats to big cats are ___________.",
-          "answers": ["poaching and habitat destruction"],
-          "exact_match": true
+          "answers": ["poaching and habitat destruction"]
         },
         {
           "id": "BigCats_006",
           "question": "Tigers are often poached for their parts, used in traditional _________ medicine.",
-          "answers": ["Chinese"],
-          "exact_match": true
+          "answers": ["Chinese"]
         },
         {
           "id": "BigCats_007",
           "question": "Which big cat is in the genus Acinonyx?",
-          "answers": ["Cheetah"],
-          "exact_match": true
+          "answers": ["Cheetah"]
         },
         {
           "id": "BigCats_008",
           "question": "Which big cat is in the genus Puma?",
-          "answers": ["Cougar"],
-          "exact_match": true
+          "answers": ["Cougar"]
         },
         {
           "id": "BigCats_009",
           "question": "Which big cat is in the genus Uncia?",
-          "answers": ["Snow Leopard"],
-          "exact_match": true
+          "answers": ["Snow Leopard"]
         },
         {
           "id": "BigCats_010",
           "question": "Which big cat is named from the Native American word meaning \"he who kills with one leap\"?",
-          "answers": ["Jaguar"],
-          "exact_match": true
+          "answers": ["Jaguar"]
         },
         {
           "id": "BigCats_011",
           "question": "Which big cat is not in the genus Panthera?",
-          "answers": ["Cheetah"],
-          "exact_match": true
+          "answers": ["Cheetah"]
         },
         {
           "id": "BigCats_012",
           "question": "Which is the best climber of all the big cats?",
-          "answers": ["Leopard"],
-          "exact_match": true
+          "answers": ["Leopard"]
         },
         {
           "id": "BigCats_013",
           "question": "Which is the most endangered big cat?",
-          "answers": ["Amur Leopard"],
-          "exact_match": true
+          "answers": ["Amur Leopard"]
         },
         {
           "id": "BigCats_014",
           "question": "Which is the only big cat that lives in groups?",
-          "answers": ["Lion"],
-          "exact_match": true
+          "answers": ["Lion"]
         },
         {
           "id": "BigCats_015",
           "question": "Which of the following is not a criteria for an accredited US Fish & Wildlife Service animal sanctuary?",
-          "answers": ["Must provide enrichment activities for big cats"],
-          "exact_match": true
+          "answers": ["Must provide enrichment activities for big cats"]
         },
         {
           "id": "BigCats_016",
           "question": "Which of the following is not considered a big cat?",
-          "answers": ["Bobcat"],
-          "exact_match": true
+          "answers": ["Bobcat"]
         },
         {
           "id": "BigCats_017",
           "question": "Which of these big cats is an excellent swimmer who loves water?",
-          "answers": ["Tiger"],
-          "exact_match": true
+          "answers": ["Tiger"]
         },
         {
           "id": "BigCats_018",
           "question": "Which of these big cats purrs instead of roars?",
-          "answers": ["Cheetah"],
-          "exact_match": true
+          "answers": ["Cheetah"]
         },
         {
           "id": "BigCats_019",
           "question": "Which of these lions are recently extinct?",
-          "answers": ["Barbary Lion"],
-          "exact_match": true
+          "answers": ["Barbary Lion"]
         },
         {
           "id": "BigCats_020",
           "question": "Which type of tiger is extinct?",
-          "answers": ["Caspian Tiger"],
-          "exact_match": true
+          "answers": ["Caspian Tiger"]
         }
       ]
     },
@@ -2523,98 +2240,82 @@
         {
           "id": "BookQuotes_001",
           "question": "\"Call me Ishmael.\"",
-          "answers": ["Moby Dick"],
-          "exact_match": true
+          "answers": ["Moby Dick"]
         },
         {
           "id": "BookQuotes_002",
           "question": "\"I have been bent and broken, but - I hope - into a better shape.\"",
-          "answers": ["Great Expectations"],
-          "exact_match": true
+          "answers": ["Great Expectations"]
         },
         {
           "id": "BookQuotes_003",
           "question": "\"I'm not afraid of storms, for I'm learning how to sail my ship.\"",
-          "answers": ["Little Women"],
-          "exact_match": true
+          "answers": ["Little Women"]
         },
         {
           "id": "BookQuotes_004",
           "question": "\"In spite of everything I still believe that people are really good at heart\"",
-          "answers": ["The Diary of Anne Frank"],
-          "exact_match": true
+          "answers": ["The Diary of Anne Frank"]
         },
         {
           "id": "BookQuotes_005",
           "question": "\"It was a pleasure to burn.\"",
-          "answers": ["Farenheit 451"],
-          "exact_match": true
+          "answers": ["Farenheit 451"]
         },
         {
           "id": "BookQuotes_006",
           "question": "\"The sky above the port was the color of television, tuned to a dead channel.\"",
-          "answers": ["Neuromancer"],
-          "exact_match": true
+          "answers": ["Neuromancer"]
         },
         {
           "id": "BookQuotes_007",
           "question": "\"You don't know about me without you have read a book by the name of 'The Adventures of Tom Sawyer'; but that ain't no matter. That book was made by a Mr Mark Twain, and he told the truth, mainly.\"",
-          "answers": ["The Adventures of Huckleberry Finn"],
-          "exact_match": true
+          "answers": ["The Adventures of Huckleberry Finn"]
         },
         {
           "id": "BookQuotes_008",
           "question": "\"All animals are equal, but some animals are more equal than others.\"",
-          "answers": ["Animal Farm"],
-          "exact_match": true
+          "answers": ["Animal Farm"]
         },
         {
           "id": "BookQuotes_009",
           "question": "\"All grown-ups were once children - but only few of them remember it.\"",
-          "answers": ["The Little Prince"],
-          "exact_match": true
+          "answers": ["The Little Prince"]
         },
         {
           "id": "BookQuotes_010",
           "question": "\"Anything worth dying for is certainly worth living for.\"",
-          "answers": ["Catch-22"],
-          "exact_match": true
+          "answers": ["Catch-22"]
         },
         {
           "id": "BookQuotes_011",
           "question": "\"Don't ever tell anybody anything. If you do, you start missing everybody.\"",
-          "answers": ["The Catcher in the Rye"],
-          "exact_match": true
+          "answers": ["The Catcher in the Rye"]
         },
         {
           "id": "BookQuotes_012",
           "question": "\"I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through no matter what.\"",
-          "answers": ["To Kill a Mockingbird"],
-          "exact_match": true
+          "answers": ["To Kill a Mockingbird"]
         },
         {
           "id": "BookQuotes_013",
           "question": "\"I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous.\"",
-          "answers": ["Frankenstein"],
-          "exact_match": true
+          "answers": ["Frankenstein"]
         },
         {
           "id": "BookQuotes_014",
           "question": "\"It is to the credit of human nature that, except where its selfishness is brought into play, it loves more readily than it hates.\"",
-          "answers": ["The Scarlet Letter"],
-          "exact_match": true
+          "answers": ["The Scarlet Letter"]
         },
         {
           "id": "BookQuotes_015",
           "question": "\"Most people were heartless about turtles because a turtle's heart will beat for hours after it has been cut up and butchered. But the old man thought, I have such a heart too.\"",
-          "answers": ["The Old Man and the Sea"],
-          "exact_match": true
+          "answers": ["The Old Man and the Sea"]
         },
         {
           "id": "BookQuotes_016",
           "question": "\"Not all those who wander are lost.\"",
-          "answers": ["The Lord of the Rings"],
-          "exact_match": true
+          "answers": ["The Lord of the Rings"]
         }
       ]
     },
@@ -2623,122 +2324,102 @@
         {
           "id": "ChemEl_001",
           "question": "Most of the earth's atmosphere consists of this gas.",
-          "answers": ["N"],
-          "exact_match": true
+          "answers": ["N"]
         },
         {
           "id": "ChemEl_002",
           "question": "The symbol 'Au' refers to which chemical element?",
-          "answers": ["Gold"],
-          "exact_match": true
+          "answers": ["Gold"]
         },
         {
           "id": "ChemEl_003",
           "question": "The symbol 'Co' refers to which chemical element?",
-          "answers": ["Cobalt"],
-          "exact_match": true
+          "answers": ["Cobalt"]
         },
         {
           "id": "ChemEl_004",
           "question": "The symbol 'Cu' refers to which chemical element?",
-          "answers": ["Copper"],
-          "exact_match": true
+          "answers": ["Copper"]
         },
         {
           "id": "ChemEl_005",
           "question": "The symbol 'F' refers to which chemical element?",
-          "answers": ["Fluorine"],
-          "exact_match": true
+          "answers": ["Fluorine"]
         },
         {
           "id": "ChemEl_006",
           "question": "The symbol 'H' refers to which chemical element?",
-          "answers": ["Hydrogen"],
-          "exact_match": true
+          "answers": ["Hydrogen"]
         },
         {
           "id": "ChemEl_007",
           "question": "The symbol 'Pb' refers to which chemical element?",
-          "answers": ["Lead"],
-          "exact_match": true
+          "answers": ["Lead"]
         },
         {
           "id": "ChemEl_008",
           "question": "The symbol 'S' refers to which chemical element?",
-          "answers": ["Sulfur"],
-          "exact_match": true
+          "answers": ["Sulfur"]
         },
         {
           "id": "ChemEl_009",
           "question": "This element helps give plants the energy they need to grow.",
-          "answers": ["P"],
-          "exact_match": true
+          "answers": ["P"]
         },
         {
           "id": "ChemEl_010",
           "question": "This element is the building block of life.",
-          "answers": ["C"],
-          "exact_match": true
+          "answers": ["C"]
         },
         {
           "id": "ChemEl_011",
           "question": "This element was discovered by Hans Christian Oersted in 1825.",
-          "answers": ["Al"],
-          "exact_match": true
+          "answers": ["Al"]
         },
         {
           "id": "ChemEl_012",
           "question": "This element was discovered by Joseph Priestly and Carl Scheele in 1774.",
-          "answers": ["O"],
-          "exact_match": true
+          "answers": ["O"]
         },
         {
           "id": "ChemEl_013",
           "question": "This element was discovered in 1808.",
-          "answers": ["B"],
-          "exact_match": true
+          "answers": ["B"]
         },
         {
           "id": "ChemEl_014",
           "question": "This element when combined with Chlorine makes table salt.",
-          "answers": ["Na"],
-          "exact_match": true
+          "answers": ["Na"]
         },
         {
           "id": "ChemEl_015",
           "question": "What is the symbol for Potassium?",
-          "answers": ["K"],
-          "exact_match": true
+          "answers": ["K"]
         },
         {
           "id": "ChemEl_016",
           "question": "Which element has a reddish color in a gas and liquid state?",
-          "answers": ["Br"],
-          "exact_match": true
+          "answers": ["Br"]
         },
         {
           "id": "ChemEl_017",
           "question": "Which element has a silver-gray appearance?",
-          "answers": ["Zn"],
-          "exact_match": true
+          "answers": ["Zn"]
         },
         {
           "id": "ChemEl_018",
           "question": "Which of these elements is considered a Metal.",
-          "answers": ["Fe"],
-          "exact_match": true
+          "answers": ["Fe"]
         },
         {
           "id": "ChemEl_019",
           "question": "Which of these elements is NOT considered a Metalloid.",
-          "answers": ["Sn"],
-          "exact_match": true
+          "answers": ["Sn"]
         },
         {
           "id": "ChemEl_020",
           "question": "Which of these elements is NOT considered a Noble Gas.",
-          "answers": ["H"],
-          "exact_match": true
+          "answers": ["H"]
         }
       ]
     },
@@ -2747,128 +2428,107 @@
         {
           "id": "Constellations_001",
           "question": "Aquila is a constellation named after what bird?",
-          "answers": ["Eagle"],
-          "exact_match": true
+          "answers": ["Eagle"]
         },
         {
           "id": "Constellations_002",
           "question": "Aries is a constellation named after what animal?",
-          "answers": ["Ram"],
-          "exact_match": true
+          "answers": ["Ram"]
         },
         {
           "id": "Constellations_003",
           "question": "Cancer is a constellation in the shape of what animal?",
-          "answers": ["Crab"],
-          "exact_match": true
+          "answers": ["Crab"]
         },
         {
           "id": "Constellations_004",
           "question": "Canis Major is otherwise known as the Great _____.",
-          "answers": ["Dog"],
-          "exact_match": true
+          "answers": ["Dog"]
         },
         {
           "id": "Constellations_005",
           "question": "Capricornus is in the shape of what mythical animal?",
-          "answers": ["Sea-Goat"],
-          "exact_match": true
+          "answers": ["Sea-Goat"]
         },
         {
           "id": "Constellations_006",
           "question": "The Auriga constellation is in the shape of a __________.",
-          "answers": ["Charioteer"],
-          "exact_match": true
+          "answers": ["Charioteer"]
         },
         {
           "id": "Constellations_007",
           "question": "The constellation Cygnus is in the shape of what bird?",
-          "answers": ["Swan"],
-          "exact_match": true
+          "answers": ["Swan"]
         },
         {
           "id": "Constellations_008",
           "question": "The constellation Libra represents a ___________.",
-          "answers": ["Balance Scale"],
-          "exact_match": true
+          "answers": ["Balance Scale"]
         },
         {
           "id": "Constellations_009",
           "question": "The Gemini constellation represents _______.",
-          "answers": ["Twins"],
-          "exact_match": true
+          "answers": ["Twins"]
         },
         {
           "id": "Constellations_010",
           "question": "The Lyra constellation is in the shape of a what?",
-          "answers": ["Harp"],
-          "exact_match": true
+          "answers": ["Harp"]
         },
         {
           "id": "Constellations_011",
           "question": "This bright star in Auriga is yellow like our sun.",
-          "answers": ["Capella"],
-          "exact_match": true
+          "answers": ["Capella"]
         },
         {
           "id": "Constellations_012",
           "question": "What is the brightest star in Cygnus?",
-          "answers": ["Deneb"],
-          "exact_match": true
+          "answers": ["Deneb"]
         },
         {
           "id": "Constellations_013",
           "question": "What is the brightest star in the Aquila constellation?",
-          "answers": ["Altair"],
-          "exact_match": true
+          "answers": ["Altair"]
         },
         {
           "id": "Constellations_014",
           "question": "What is the brightest star in the Leo constellation?",
-          "answers": ["Regulus"],
-          "exact_match": true
+          "answers": ["Regulus"]
         },
         {
           "id": "Constellations_015",
           "question": "What is the brightest star in the Lyra constellation?",
-          "answers": ["Vega"],
-          "exact_match": true
+          "answers": ["Vega"]
         },
         {
           "id": "Constellations_016",
           "question": "What is the brightest star in the Pegasus constellation?",
-          "answers": ["Markab"],
-          "exact_match": true
+          "answers": ["Markab"]
         },
         {
           "id": "Constellations_017",
           "question": "What shape marks the Pegasus constellation?",
-          "answers": ["Great Square"],
-          "exact_match": true
+          "answers": ["Great Square"]
         },
         {
           "id": "Constellations_018",
           "question": "Which constellation can you find M44 or the \"Beehive Cluster\" in?",
-          "answers": ["Cancer"],
-          "exact_match": true
+          "answers": ["Cancer"]
         },
         {
           "id": "Constellations_019",
           "question": "Which constellation holds the brightest star in the north sky?",
-          "answers": ["Canis Major"],
-          "exact_match": true
+          "answers": ["Canis Major"]
         },
         {
           "id": "Constellations_020",
           "question": "Which is the brightest star in the Aries constellation?",
-          "answers": ["Hamal"],
-          "exact_match": true
+          "answers": ["Hamal"]
         },
         {
           "id": "Constellations_021",
           "question": "Which is the brightest star in the Canis Major constellation?",
-          "answers": ["Sirius"],
-          "exact_match": true
+          "answers": ["Sirius"]
         }
       ]
     },
@@ -2877,122 +2537,102 @@
         {
           "id": "Dinosaur_001",
           "question": "Dinosaurs belonged to which group of animals?",
-          "answers": ["Reptiles"],
-          "exact_match": true
+          "answers": ["Reptiles"]
         },
         {
           "id": "Dinosaur_002",
           "question": "In what era did dinosaurs live?",
-          "answers": ["Mesozoic"],
-          "exact_match": true
+          "answers": ["Mesozoic"]
         },
         {
           "id": "Dinosaur_003",
           "question": "In what period did the Coelophysis live?",
-          "answers": ["Late Triassic"],
-          "exact_match": true
+          "answers": ["Late Triassic"]
         },
         {
           "id": "Dinosaur_004",
           "question": "In what period did the Diplodocus live?",
-          "answers": ["Late Jurassic"],
-          "exact_match": true
+          "answers": ["Late Jurassic"]
         },
         {
           "id": "Dinosaur_005",
           "question": "In what period did the Stegosaurus live?",
-          "answers": ["Late Jurassic"],
-          "exact_match": true
+          "answers": ["Late Jurassic"]
         },
         {
           "id": "Dinosaur_006",
           "question": "In what period did the Triceratops live?",
-          "answers": ["Late Cretaceous"],
-          "exact_match": true
+          "answers": ["Late Cretaceous"]
         },
         {
           "id": "Dinosaur_007",
           "question": "In what period did the Tyrannosaurus live?",
-          "answers": ["Late Cretaceous"],
-          "exact_match": true
+          "answers": ["Late Cretaceous"]
         },
         {
           "id": "Dinosaur_008",
           "question": "The largest dinosaurs were __________________.",
-          "answers": ["Sauropods"],
-          "exact_match": true
+          "answers": ["Sauropods"]
         },
         {
           "id": "Dinosaur_009",
           "question": "What caused the extinction of dinosaurs according to scientists?",
-          "answers": ["Scientists are not 100% sure. There is still heavy debate."],
-          "exact_match": true
+          "answers": ["Scientists are not 100% sure. There is still heavy debate."]
         },
         {
           "id": "Dinosaur_010",
           "question": "What does the name 'Triceratops' mean?",
-          "answers": ["three-horned face"],
-          "exact_match": true
+          "answers": ["three-horned face"]
         },
         {
           "id": "Dinosaur_011",
           "question": "What does the word 'dinosaur' mean?",
-          "answers": ["Terrible Lizard"],
-          "exact_match": true
+          "answers": ["Terrible Lizard"]
         },
         {
           "id": "Dinosaur_012",
           "question": "What profession studies dinosaur fossils?",
-          "answers": ["Paleontologist"],
-          "exact_match": true
+          "answers": ["Paleontologist"]
         },
         {
           "id": "Dinosaur_013",
           "question": "When did dinosaurs become extinct?",
-          "answers": ["65 million years ago"],
-          "exact_match": true
+          "answers": ["65 million years ago"]
         },
         {
           "id": "Dinosaur_014",
           "question": "Which carnivorous dinosaur had teeth up to 8 inches long?",
-          "answers": ["Tyrannosaurus"],
-          "exact_match": true
+          "answers": ["Tyrannosaurus"]
         },
         {
           "id": "Dinosaur_015",
           "question": "Which dinosaur had a long neck to help reach high and low vegetation?",
-          "answers": ["Diplodocus"],
-          "exact_match": true
+          "answers": ["Diplodocus"]
         },
         {
           "id": "Dinosaur_016",
           "question": "Which dinosaur had hollow limb bones?",
-          "answers": ["Coelophysis"],
-          "exact_match": true
+          "answers": ["Coelophysis"]
         },
         {
           "id": "Dinosaur_017",
           "question": "Which dinosaur most closely resembles a rhinoceros?",
-          "answers": ["Triceratops"],
-          "exact_match": true
+          "answers": ["Triceratops"]
         },
         {
           "id": "Dinosaur_018",
           "question": "Which of the following was not a flying reptile?",
-          "answers": ["Stegosaurus"],
-          "exact_match": true
+          "answers": ["Stegosaurus"]
         },
         {
           "id": "Dinosaur_019",
           "question": "Which of these is not a dinosaur?",
-          "answers": ["Pterodactyl"],
-          "exact_match": true
+          "answers": ["Pterodactyl"]
         },
         {
           "id": "Dinosaur_020",
           "question": "Who coined the term 'dinosauria?'",
-          "answers": ["Sir Richard Owen"],
-          "exact_match": true
+          "answers": ["Sir Richard Owen"]
         }
       ]
     },
@@ -3001,92 +2641,77 @@
         {
           "id": "EarlyAmericanHistory_001",
           "question": "11 Southern states succeeded from the union in 1860 to form the _________ States of America.",
-          "answers": ["Confederate"],
-          "exact_match": true
+          "answers": ["Confederate"]
         },
         {
           "id": "EarlyAmericanHistory_002",
           "question": "Francis Scott Key wrote which famous piece of American history?",
-          "answers": ["The Star Spangled Banner"],
-          "exact_match": true
+          "answers": ["The Star Spangled Banner"]
         },
         {
           "id": "EarlyAmericanHistory_003",
           "question": "How long did the Civil War last?",
-          "answers": ["Four Years"],
-          "exact_match": true
+          "answers": ["Four Years"]
         },
         {
           "id": "EarlyAmericanHistory_004",
           "question": "Most of the original American settlers were from what country?",
-          "answers": ["England"],
-          "exact_match": true
+          "answers": ["England"]
         },
         {
           "id": "EarlyAmericanHistory_005",
           "question": "President Thomas Jefferson made what large purchase to buy American a lot of new territory?",
-          "answers": ["Louisiana Purchase"],
-          "exact_match": true
+          "answers": ["Louisiana Purchase"]
         },
         {
           "id": "EarlyAmericanHistory_006",
           "question": "The American Revolution was against the ________, the English army.",
-          "answers": ["Red Coats"],
-          "exact_match": true
+          "answers": ["Red Coats"]
         },
         {
           "id": "EarlyAmericanHistory_007",
           "question": "This famous American colony is in modern Massachusetts.",
-          "answers": ["Plymouth"],
-          "exact_match": true
+          "answers": ["Plymouth"]
         },
         {
           "id": "EarlyAmericanHistory_008",
           "question": "This famous display against England's taxation threw a luxury item into the sea.",
-          "answers": ["Boston Tea Party"],
-          "exact_match": true
+          "answers": ["Boston Tea Party"]
         },
         {
           "id": "EarlyAmericanHistory_009",
           "question": "What year did the British surrender in the American Revolution?",
-          "answers": ["1781"],
-          "exact_match": true
+          "answers": ["1781"]
         },
         {
           "id": "EarlyAmericanHistory_010",
           "question": "What year was the Declaration of Independence signed?",
-          "answers": ["1776"],
-          "exact_match": true
+          "answers": ["1776"]
         },
         {
           "id": "EarlyAmericanHistory_011",
           "question": "Where was President Abraham Lincoln assassinated?",
-          "answers": ["The Theatre"],
-          "exact_match": true
+          "answers": ["The Theatre"]
         },
         {
           "id": "EarlyAmericanHistory_012",
           "question": "Which early tax act made American settlers very angry pre-revolution?",
-          "answers": ["Stamp Act of 1765"],
-          "exact_match": true
+          "answers": ["Stamp Act of 1765"]
         },
         {
           "id": "EarlyAmericanHistory_013",
           "question": "Which natural resource was a large reason many Americans choose to journey westward in the 1800's?",
-          "answers": ["Gold"],
-          "exact_match": true
+          "answers": ["Gold"]
         },
         {
           "id": "EarlyAmericanHistory_014",
           "question": "Which two amendments make up the Reconstruction Acts of 1867 and give African Americans additional freedoms?",
-          "answers": ["Fourteenth and Fifteenth"],
-          "exact_match": true
+          "answers": ["Fourteenth and Fifteenth"]
         },
         {
           "id": "EarlyAmericanHistory_015",
           "question": "Who did the United States purchase Alaska from?",
-          "answers": ["Russia"],
-          "exact_match": true
+          "answers": ["Russia"]
         }
       ]
     },
@@ -3095,110 +2720,92 @@
         {
           "id": "GreekMythology_001",
           "question": "Which Greek god is the god of fertility and wine?",
-          "answers": ["Dionysus"],
-          "exact_match": true
+          "answers": ["Dionysus"]
         },
         {
           "id": "GreekMythology_002",
           "question": "Which Greek god is the god of fire and forge?",
-          "answers": ["Hephaestus"],
-          "exact_match": true
+          "answers": ["Hephaestus"]
         },
         {
           "id": "GreekMythology_003",
           "question": "Which Greek god is the god of flocks and shepherds?",
-          "answers": ["Pan"],
-          "exact_match": true
+          "answers": ["Pan"]
         },
         {
           "id": "GreekMythology_004",
           "question": "Which Greek god is the god of love?",
-          "answers": ["Eros"],
-          "exact_match": true
+          "answers": ["Eros"]
         },
         {
           "id": "GreekMythology_005",
           "question": "Which Greek god is the god of music, healing, light and truth?",
-          "answers": ["Apollo"],
-          "exact_match": true
+          "answers": ["Apollo"]
         },
         {
           "id": "GreekMythology_006",
           "question": "Which Greek is the sun titan?",
-          "answers": ["Helios"],
-          "exact_match": true
+          "answers": ["Helios"]
         },
         {
           "id": "GreekMythology_007",
           "question": "Which Greek god is the god of war?",
-          "answers": ["Ares"],
-          "exact_match": true
+          "answers": ["Ares"]
         },
         {
           "id": "GreekMythology_008",
           "question": "Which Greek god is the goddess of corn, grain and harvest?",
-          "answers": ["Demeter"],
-          "exact_match": true
+          "answers": ["Demeter"]
         },
         {
           "id": "GreekMythology_009",
           "question": "Which Greek god is the goddess of discord?",
-          "answers": ["Eris"],
-          "exact_match": true
+          "answers": ["Eris"]
         },
         {
           "id": "GreekMythology_010",
           "question": "Which Greek god is the goddess of intelligence and the arts?",
-          "answers": ["Athena"],
-          "exact_match": true
+          "answers": ["Athena"]
         },
         {
           "id": "GreekMythology_011",
           "question": "Which Greek god is the goddess of love, desire and beauty?",
-          "answers": ["Aphrodite"],
-          "exact_match": true
+          "answers": ["Aphrodite"]
         },
         {
           "id": "GreekMythology_012",
           "question": "Which Greek god is the goddess of marriage and childbirth?",
-          "answers": ["Hera"],
-          "exact_match": true
+          "answers": ["Hera"]
         },
         {
           "id": "GreekMythology_013",
           "question": "Which Greek god is the goddess of springtime?",
-          "answers": ["Persephone"],
-          "exact_match": true
+          "answers": ["Persephone"]
         },
         {
           "id": "GreekMythology_014",
           "question": "Which Greek god is the goddess of youth?",
-          "answers": ["Hebe"],
-          "exact_match": true
+          "answers": ["Hebe"]
         },
         {
           "id": "GreekMythology_015",
           "question": "Which Greek god is the lord of the underworld?",
-          "answers": ["Hades"],
-          "exact_match": true
+          "answers": ["Hades"]
         },
         {
           "id": "GreekMythology_016",
           "question": "Which Greek god is the personification of death?",
-          "answers": ["Thanatos"],
-          "exact_match": true
+          "answers": ["Thanatos"]
         },
         {
           "id": "GreekMythology_017",
           "question": "Which Greek god is the protector of all waters?",
-          "answers": ["Poseidon"],
-          "exact_match": true
+          "answers": ["Poseidon"]
         },
         {
           "id": "GreekMythology_018",
           "question": "Which Greek god is the ruler of the Olympian gods?",
-          "answers": ["Zeus"],
-          "exact_match": true
+          "answers": ["Zeus"]
         }
       ]
     },
@@ -3207,110 +2814,92 @@
         {
           "id": "Habitats_001",
           "question": "Animals in the desert have adopted a ___________ lifestyle to survive the heat.",
-          "answers": ["Nocturnal"],
-          "exact_match": true
+          "answers": ["Nocturnal"]
         },
         {
           "id": "Habitats_002",
           "question": "How are freshwater lakes and rivers created?",
-          "answers": ["Streams high in the Mountains that flow down"],
-          "exact_match": true
+          "answers": ["Streams high in the Mountains that flow down"]
         },
         {
           "id": "Habitats_003",
           "question": "The largest animal in the world, the blue whale, resides in which habitat?",
-          "answers": ["Ocean"],
-          "exact_match": true
+          "answers": ["Ocean"]
         },
         {
           "id": "Habitats_004",
           "question": "What is a habitat?",
-          "answers": ["The natural home or environment of an animal, plant, or other organism."],
-          "exact_match": true
+          "answers": ["The natural home or environment of an animal, plant, or other organism."]
         },
         {
           "id": "Habitats_005",
           "question": "What is the coldest habitat?",
-          "answers": ["Tundra"],
-          "exact_match": true
+          "answers": ["Tundra"]
         },
         {
           "id": "Habitats_006",
           "question": "What is the habitat that has little rain and intense sunshine?",
-          "answers": ["Desert"],
-          "exact_match": true
+          "answers": ["Desert"]
         },
         {
           "id": "Habitats_007",
           "question": "What is the largest habitat on the planet?",
-          "answers": ["Ocean"],
-          "exact_match": true
+          "answers": ["Ocean"]
         },
         {
           "id": "Habitats_008",
           "question": "What kind of a climate does a swamp have?",
-          "answers": ["Warm, wet, humid"],
-          "exact_match": true
+          "answers": ["Warm, wet, humid"]
         },
         {
           "id": "Habitats_009",
           "question": "What type of plant grows in the desert?",
-          "answers": ["Cactus"],
-          "exact_match": true
+          "answers": ["Cactus"]
         },
         {
           "id": "Habitats_010",
           "question": "Which continent does NOT have Grasslands?",
-          "answers": ["Antarctica"],
-          "exact_match": true
+          "answers": ["Antarctica"]
         },
         {
           "id": "Habitats_011",
           "question": "Which habitat do animals have to withstand lower oxygen levels?",
-          "answers": ["Mountains"],
-          "exact_match": true
+          "answers": ["Mountains"]
         },
         {
           "id": "Habitats_012",
           "question": "Which habitat has trees with needle shaped leaves?",
-          "answers": ["Coniferous Forest"],
-          "exact_match": true
+          "answers": ["Coniferous Forest"]
         },
         {
           "id": "Habitats_013",
           "question": "Which habitat is found in tropical regions?",
-          "answers": ["Rainforest"],
-          "exact_match": true
+          "answers": ["Rainforest"]
         },
         {
           "id": "Habitats_014",
           "question": "Which is a large predator that lives in Coniferous Forests?",
-          "answers": ["Bear"],
-          "exact_match": true
+          "answers": ["Bear"]
         },
         {
           "id": "Habitats_015",
           "question": "Which of the following is NOT a habitat found on land?",
-          "answers": ["Coral Reef"],
-          "exact_match": true
+          "answers": ["Coral Reef"]
         },
         {
           "id": "Habitats_016",
           "question": "Which of the following is NOT a habitat?",
-          "answers": ["Bottle"],
-          "exact_match": true
+          "answers": ["Bottle"]
         },
         {
           "id": "Habitats_017",
           "question": "Which of the following is NOT part of the Ocean landscape?",
-          "answers": ["Hills"],
-          "exact_match": true
+          "answers": ["Hills"]
         },
         {
           "id": "Habitats_018",
           "question": "Which type of habitat can be found in all ranges of climate?",
-          "answers": ["Temperate Forests"],
-          "exact_match": true
+          "answers": ["Temperate Forests"]
         }
       ]
     },
@@ -3319,122 +2908,102 @@
         {
           "id": "Heart_001",
           "question": "How many chambers does a human heart have?",
-          "answers": ["4"],
-          "exact_match": true
+          "answers": ["4"]
         },
         {
           "id": "Heart_002",
           "question": "The heart beats approximately ____________ times each day.",
-          "answers": ["100,000"],
-          "exact_match": true
+          "answers": ["100,000"]
         },
         {
           "id": "Heart_003",
           "question": "What anatomical system is the heart a part of?",
-          "answers": ["Cardiovascular system"],
-          "exact_match": true
+          "answers": ["Cardiovascular system"]
         },
         {
           "id": "Heart_004",
           "question": "What blood vessel carries oxygen-rich blood to the body?",
-          "answers": ["Artery"],
-          "exact_match": true
+          "answers": ["Artery"]
         },
         {
           "id": "Heart_005",
           "question": "What blood vessel returns oxygen-poor blood to the heart?",
-          "answers": ["Vein"],
-          "exact_match": true
+          "answers": ["Vein"]
         },
         {
           "id": "Heart_006",
           "question": "What does the heart do?",
-          "answers": ["Pumps blood throughout the body"],
-          "exact_match": true
+          "answers": ["Pumps blood throughout the body"]
         },
         {
           "id": "Heart_007",
           "question": "What does the heart pump?",
-          "answers": ["Blood"],
-          "exact_match": true
+          "answers": ["Blood"]
         },
         {
           "id": "Heart_008",
           "question": "What is a normal resting heart rate for adults over the age 18?",
-          "answers": ["60-100 bpm"],
-          "exact_match": true
+          "answers": ["60-100 bpm"]
         },
         {
           "id": "Heart_009",
           "question": "What is a normal resting heart rate range for children?",
-          "answers": ["70-100 bpm"],
-          "exact_match": true
+          "answers": ["70-100 bpm"]
         },
         {
           "id": "Heart_010",
           "question": "What is the name of the largest artery in the body?",
-          "answers": ["Aorta"],
-          "exact_match": true
+          "answers": ["Aorta"]
         },
         {
           "id": "Heart_011",
           "question": "What tiny blood vessels transport blood from an artery to a vein?",
-          "answers": ["Capillaries"],
-          "exact_match": true
+          "answers": ["Capillaries"]
         },
         {
           "id": "Heart_012",
           "question": "Where is the heart located?",
-          "answers": ["Chest"],
-          "exact_match": true
+          "answers": ["Chest"]
         },
         {
           "id": "Heart_013",
           "question": "Which artery carries blood from the heart to the lungs?",
-          "answers": ["Pulmonary Artery"],
-          "exact_match": true
+          "answers": ["Pulmonary Artery"]
         },
         {
           "id": "Heart_014",
           "question": "Which atrium receives oxygen-poor blood from the body?",
-          "answers": ["Right atrium"],
-          "exact_match": true
+          "answers": ["Right atrium"]
         },
         {
           "id": "Heart_015",
           "question": "Which atrium receives oxygen-rich blood from the lungs?",
-          "answers": ["Left atrium"],
-          "exact_match": true
+          "answers": ["Left atrium"]
         },
         {
           "id": "Heart_016",
           "question": "Which of the following is not a systemic artery?",
-          "answers": ["Pulmonary Artery"],
-          "exact_match": true
+          "answers": ["Pulmonary Artery"]
         },
         {
           "id": "Heart_017",
           "question": "Which part of the heart allows blood to flow in only one direction?",
-          "answers": ["Valve"],
-          "exact_match": true
+          "answers": ["Valve"]
         },
         {
           "id": "Heart_018",
           "question": "Which vein carries oxygen-rich blood to the heart from the lungs?",
-          "answers": ["Pulmonary Veins"],
-          "exact_match": true
+          "answers": ["Pulmonary Veins"]
         },
         {
           "id": "Heart_019",
           "question": "Which ventricle pumps oxygen-rich blood to the body?",
-          "answers": ["Left ventricle"],
-          "exact_match": true
+          "answers": ["Left ventricle"]
         },
         {
           "id": "Heart_020",
           "question": "Which ventricle pumps oxygen-poor blood to the lungs?",
-          "answers": ["Right ventricle"],
-          "exact_match": true
+          "answers": ["Right ventricle"]
         }
       ]
     }, 
@@ -3443,98 +3012,82 @@
         {
           "id": "Landforms_001",
           "question": "Bayou, Gully, Marsh and Shoal are examples of what?",
-          "answers": ["Fluvial landforms"],
-          "exact_match": true
+          "answers": ["Fluvial landforms"]
         },
         {
           "id": "Landforms_002",
           "question": "Caldera, Maar, Vent, and Tuya are examples of what?",
-          "answers": ["Volcanic landforms"],
-          "exact_match": true
+          "answers": ["Volcanic landforms"]
         },
         {
           "id": "Landforms_003",
           "question": "Cave, Cenote, Karren and Mogote are examples of what?",
-          "answers": ["Karst landforms"],
-          "exact_match": true
+          "answers": ["Karst landforms"]
         },
         {
           "id": "Landforms_004",
           "question": "Erosion landforms are caused by what?",
-          "answers": ["Weathering"],
-          "exact_match": true
+          "answers": ["Weathering"]
         },
         {
           "id": "Landforms_005",
           "question": "Impact landforms are caused by ________________ impacts.",
-          "answers": ["Extraterrestrial"],
-          "exact_match": true
+          "answers": ["Extraterrestrial"]
         },
         {
           "id": "Landforms_006",
           "question": "Lacustrine landforms are primarily filled with __________.",
-          "answers": ["Incoming sediment"],
-          "exact_match": true
+          "answers": ["Incoming sediment"]
         },
         {
           "id": "Landforms_007",
           "question": "What forms Aeolian landforms?",
-          "answers": ["Wind"],
-          "exact_match": true
+          "answers": ["Wind"]
         },
         {
           "id": "Landforms_008",
           "question": "Which of the following are not associated with fluvial landforms?",
-          "answers": ["Volcanoes"],
-          "exact_match": true
+          "answers": ["Volcanoes"]
         },
         {
           "id": "Landforms_009",
           "question": "Which of the following is not considered a coastal landform?",
-          "answers": ["Yardang"],
-          "exact_match": true
+          "answers": ["Yardang"]
         },
         {
           "id": "Landforms_010",
           "question": "Which of the following is not considered a fluvial landform?",
-          "answers": ["Sinkhole"],
-          "exact_match": true
+          "answers": ["Sinkhole"]
         },
         {
           "id": "Landforms_011",
           "question": "Which of the following is not considered a karst landform?",
-          "answers": ["Valley"],
-          "exact_match": true
+          "answers": ["Valley"]
         },
         {
           "id": "Landforms_012",
           "question": "Which of the following is not considered a mountain or glacial landform?",
-          "answers": ["Oasis"],
-          "exact_match": true
+          "answers": ["Oasis"]
         },
         {
           "id": "Landforms_013",
           "question": "Which of the following is not considered a slope landform?",
-          "answers": ["Pull apart basin"],
-          "exact_match": true
+          "answers": ["Pull apart basin"]
         },
         {
           "id": "Landforms_014",
           "question": "Which of the following is not considered a tectonic landform?",
-          "answers": ["Sinkhole"],
-          "exact_match": true
+          "answers": ["Sinkhole"]
         },
         {
           "id": "Landforms_015",
           "question": "Which of the following is not considered an Aeolian landform?",
-          "answers": ["Sound"],
-          "exact_match": true
+          "answers": ["Sound"]
         },
         {
           "id": "Landforms_016",
           "question": "Which type of rock is not generally a cause for karst typography?",
-          "answers": ["Granite"],
-          "exact_match": true
+          "answers": ["Granite"]
         }
       ]
     },
@@ -3543,170 +3096,142 @@
         {
           "id": "Norse_Mythology_001",
           "question": "Baldr was the god of what?",
-          "answers": ["Beauty, innocence, peace and rebirth"],
-          "exact_match": true
+          "answers": ["Beauty, innocence, peace and rebirth"]
         },
         {
           "id": "Norse_Mythology_002",
           "question": "Norse Mythology is the mythology from what group of people?",
-          "answers": ["North Germanic"],
-          "exact_match": true
+          "answers": ["North Germanic"]
         },
         {
           "id": "Norse_Mythology_003",
           "question": "Who was Odin's father?",
-          "answers": ["Borr"],
-          "exact_match": true
+          "answers": ["Borr"]
         },
         {
           "id": "Norse_Mythology_004",
           "question": "Who was the first Norse god?",
-          "answers": ["Buri"],
-          "exact_match": true
+          "answers": ["Buri"]
         },
         {
           "id": "Norse_Mythology_005",
           "question": "Who was the god of dawn?",
-          "answers": ["Delling"],
-          "exact_match": true
+          "answers": ["Delling"]
         },
         {
           "id": "Norse_Mythology_006",
           "question": "Who was the god of inspiration?",
-          "answers": ["Kvasir"],
-          "exact_match": true
+          "answers": ["Kvasir"]
         },
         {
           "id": "Norse_Mythology_007",
           "question": "Who was the god of justice, peace and truth?",
-          "answers": ["Forseti"],
-          "exact_match": true
+          "answers": ["Forseti"]
         },
         {
           "id": "Norse_Mythology_008",
           "question": "Who was the god of mischief?",
-          "answers": ["Loki"],
-          "exact_match": true
+          "answers": ["Loki"]
         },
         {
           "id": "Norse_Mythology_009",
           "question": "Who was the god of poetry, music and the harp?",
-          "answers": ["Bragi"],
-          "exact_match": true
+          "answers": ["Bragi"]
         },
         {
           "id": "Norse_Mythology_010",
           "question": "Who was the god of revenge?",
-          "answers": ["Vali"],
-          "exact_match": true
+          "answers": ["Vali"]
         },
         {
           "id": "Norse_Mythology_011",
           "question": "Who was the god of skiing, winter, hunting and dueling?",
-          "answers": ["Ullr"],
-          "exact_match": true
+          "answers": ["Ullr"]
         },
         {
           "id": "Norse_Mythology_012",
           "question": "Who was the god of strength and son of Thor?",
-          "answers": ["Magni"],
-          "exact_match": true
+          "answers": ["Magni"]
         },
         {
           "id": "Norse_Mythology_013",
           "question": "Who was the god of the daytime?",
-          "answers": ["Dagr"],
-          "exact_match": true
+          "answers": ["Dagr"]
         },
         {
           "id": "Norse_Mythology_014",
           "question": "Who was the god of thunder and battle?",
-          "answers": ["Thor"],
-          "exact_match": true
+          "answers": ["Thor"]
         },
         {
           "id": "Norse_Mythology_015",
           "question": "Who was the god of war and the \"All Father\"?",
-          "answers": ["Odin"],
-          "exact_match": true
+          "answers": ["Odin"]
         },
         {
           "id": "Norse_Mythology_016",
           "question": "Who was the goddess of consolation and protection?",
-          "answers": ["Hlin"],
-          "exact_match": true
+          "answers": ["Hlin"]
         },
         {
           "id": "Norse_Mythology_017",
           "question": "Who was the goddess of fertility and plough?",
-          "answers": ["Gefjun"],
-          "exact_match": true
+          "answers": ["Gefjun"]
         },
         {
           "id": "Norse_Mythology_018",
           "question": "Who was the goddess of healing?",
-          "answers": ["Eir"],
-          "exact_match": true
+          "answers": ["Eir"]
         },
         {
           "id": "Norse_Mythology_019",
           "question": "Who was the goddess of joy and peace?",
-          "answers": ["Nanna"],
-          "exact_match": true
+          "answers": ["Nanna"]
         },
         {
           "id": "Norse_Mythology_020",
           "question": "Who was the goddess of marriage and motherhood?",
-          "answers": ["Frigg"],
-          "exact_match": true
+          "answers": ["Frigg"]
         },
         {
           "id": "Norse_Mythology_021",
           "question": "Who was the goddess of night?",
-          "answers": ["Nott"],
-          "exact_match": true
+          "answers": ["Nott"]
         },
         {
           "id": "Norse_Mythology_022",
           "question": "Who was the goddess of old age?",
-          "answers": ["Elli"],
-          "exact_match": true
+          "answers": ["Elli"]
         },
         {
           "id": "Norse_Mythology_023",
           "question": "Who was the goddess of prudence?",
-          "answers": ["Snotra"],
-          "exact_match": true
+          "answers": ["Snotra"]
         },
         {
           "id": "Norse_Mythology_024",
           "question": "Who was the goddess of spring?",
-          "answers": ["Eostre"],
-          "exact_match": true
+          "answers": ["Eostre"]
         },
         {
           "id": "Norse_Mythology_025",
           "question": "Who was the goddess of the sea?",
-          "answers": ["Ran"],
-          "exact_match": true
+          "answers": ["Ran"]
         },
         {
           "id": "Norse_Mythology_026",
           "question": "Who was the goddess of the sun?",
-          "answers": ["Sol"],
-          "exact_match": true
+          "answers": ["Sol"]
         },
         {
           "id": "Norse_Mythology_027",
           "question": "Who was the goddess of wisdom?",
-          "answers": ["Vor"],
-          "exact_match": true
+          "answers": ["Vor"]
         },
         {
           "id": "Norse_Mythology_028",
           "question": "Who was the wife of Thor and goddess of the harvest?",
-          "answers": ["Sif"],
-          "exact_match": true
+          "answers": ["Sif"]
         }
       ]
     },
@@ -3715,98 +3240,82 @@
         {
           "id": "Primates_001",
           "question": "Roughly how many species of primates does the IUCN recognize?",
-          "answers": ["600"],
-          "exact_match": true
+          "answers": ["600"]
         },
         {
           "id": "Primates_002",
           "question": "This primate hunts by tapping on trees and digging out insect larvae.",
-          "answers": ["Aye-aye"],
-          "exact_match": true
+          "answers": ["Aye-aye"]
         },
         {
           "id": "Primates_003",
           "question": "What is the largest living primate?",
-          "answers": ["Gorilla"],
-          "exact_match": true
+          "answers": ["Gorilla"]
         },
         {
           "id": "Primates_004",
           "question": "What is the largest tree climbing mammal in the world?",
-          "answers": ["Orangutan"],
-          "exact_match": true
+          "answers": ["Orangutan"]
         },
         {
           "id": "Primates_005",
           "question": "What is the largest type of monkey?",
-          "answers": ["Mandrill"],
-          "exact_match": true
+          "answers": ["Mandrill"]
         },
         {
           "id": "Primates_006",
           "question": "What is the primary difference between monkeys and apes?",
-          "answers": ["Apes don't have tails"],
-          "exact_match": true
+          "answers": ["Apes don't have tails"]
         },
         {
           "id": "Primates_007",
           "question": "What is the smallest primate?",
-          "answers": ["Pygmy Mouse Lemur"],
-          "exact_match": true
+          "answers": ["Pygmy Mouse Lemur"]
         },
         {
           "id": "Primates_008",
           "question": "Which continent are apes and monkeys not native to?",
-          "answers": ["North America"],
-          "exact_match": true
+          "answers": ["North America"]
         },
         {
           "id": "Primates_009",
           "question": "Which is the following is not considered a Promisian?",
-          "answers": ["Marmoset"],
-          "exact_match": true
+          "answers": ["Marmoset"]
         },
         {
           "id": "Primates_010",
           "question": "Which of the following is not a type of Gorilla?",
-          "answers": ["Macaque"],
-          "exact_match": true
+          "answers": ["Macaque"]
         },
         {
           "id": "Primates_011",
           "question": "Which of the following is not a word used to describe a group of monkeys?",
-          "answers": ["Barrel"],
-          "exact_match": true
+          "answers": ["Barrel"]
         },
         {
           "id": "Primates_012",
           "question": "Which of the following is not considered a Great Ape?",
-          "answers": ["Gibbon"],
-          "exact_match": true
+          "answers": ["Gibbon"]
         },
         {
           "id": "Primates_013",
           "question": "Which of these monkeys is not a new world monkey?",
-          "answers": ["Macauqe"],
-          "exact_match": true
+          "answers": ["Macauqe"]
         },
         {
           "id": "Primates_014",
           "question": "Which of these monkeys is not an old world monkey?",
-          "answers": ["Marmoset"],
-          "exact_match": true
+          "answers": ["Marmoset"]
         },
         {
           "id": "Primates_015",
           "question": "Which primate is easily recognized by their orange fur and very long arms?",
-          "answers": ["Orangutan"],
-          "exact_match": true
+          "answers": ["Orangutan"]
         },
         {
           "id": "Primates_016",
           "question": "Why do howler monkeys howl?",
-          "answers": ["Defend their territory"],
-          "exact_match": true
+          "answers": ["Defend their territory"]
         }
       ]
     },
@@ -3815,98 +3324,82 @@
         {
           "id": "Solar_System_001",
           "question": "Every object in our solar system revolves around the _______.",
-          "answers": ["Sun"],
-          "exact_match": true
+          "answers": ["Sun"]
         },
         {
           "id": "Solar_System_002",
           "question": "How many planets are in our solar system?",
-          "answers": ["Eight"],
-          "exact_match": true
+          "answers": ["Eight"]
         },
         {
           "id": "Solar_System_003",
           "question": "Jupiter has a ________ in its atmosphere but no solid surface.",
-          "answers": ["Hurricane"],
-          "exact_match": true
+          "answers": ["Hurricane"]
         },
         {
           "id": "Solar_System_004",
           "question": "Mars is known as the _____ planet.",
-          "answers": ["Red"],
-          "exact_match": true
+          "answers": ["Red"]
         },
         {
           "id": "Solar_System_005",
           "question": "Saturn is famous for its ________ that rotate around it.",
-          "answers": ["Rings"],
-          "exact_match": true
+          "answers": ["Rings"]
         },
         {
           "id": "Solar_System_006",
           "question": "Uranus has a _______ glow to it.",
-          "answers": ["Blue"],
-          "exact_match": true
+          "answers": ["Blue"]
         },
         {
           "id": "Solar_System_007",
           "question": "Venus' atmosphere is primarily made up of what gas?",
-          "answers": ["Carbon Dioxide"],
-          "exact_match": true
+          "answers": ["Carbon Dioxide"]
         },
         {
           "id": "Solar_System_008",
           "question": "What are comets made of?",
-          "answers": ["Dirty Ice"],
-          "exact_match": true
+          "answers": ["Dirty Ice"]
         },
         {
           "id": "Solar_System_009",
           "question": "What is the correct term for Pluto?",
-          "answers": ["Dwarf Planet"],
-          "exact_match": true
+          "answers": ["Dwarf Planet"]
         },
         {
           "id": "Solar_System_010",
           "question": "What is the largest planet in the solar system?",
-          "answers": ["Jupiter"],
-          "exact_match": true
+          "answers": ["Jupiter"]
         },
         {
           "id": "Solar_System_011",
           "question": "What man-made objects exist in our solar system?",
-          "answers": ["Satellites & Space Junk"],
-          "exact_match": true
+          "answers": ["Satellites & Space Junk"]
         },
         {
           "id": "Solar_System_012",
           "question": "What separates the inner and outer solar system?",
-          "answers": ["Band of asteroids"],
-          "exact_match": true
+          "answers": ["Band of asteroids"]
         },
         {
           "id": "Solar_System_013",
           "question": "Which is the smallest planet in the solar system?",
-          "answers": ["Mercury"],
-          "exact_match": true
+          "answers": ["Mercury"]
         },
         {
           "id": "Solar_System_014",
           "question": "Which planet is closest to the sun?",
-          "answers": ["Mercury"],
-          "exact_match": true
+          "answers": ["Mercury"]
         },
         {
           "id": "Solar_System_015",
           "question": "Which planet is furthest from the sun?",
-          "answers": ["Neptune"],
-          "exact_match": true
+          "answers": ["Neptune"]
         },
         {
           "id": "Solar_System_016",
           "question": "Which two planets are Earth's \"neighbors\"?",
-          "answers": ["Venus & Mars"],
-          "exact_match": true
+          "answers": ["Venus & Mars"]
         }
       ]
     },
@@ -3917,392 +3410,327 @@
         {
           "id": "StateAnimals_001",
           "question": "What is the state animal of California?",
-          "answers": ["Grizzly Bear"],
-          "exact_match": true
+          "answers": ["Grizzly Bear"]
         },
         {
           "id": "StateAnimals_002",
           "question": "What is the state animal of Colorado?",
-          "answers": ["Rocky Mountain Bighorn Sheep"],
-          "exact_match": true
+          "answers": ["Rocky Mountain Bighorn Sheep"]
         },
         {
           "id": "StateAnimals_003",
           "question": "What is the state animal of Connecticut?",
-          "answers": ["Sperm Whale"],
-          "exact_match": true
+          "answers": ["Sperm Whale"]
         },
         {
           "id": "StateAnimals_004",
           "question": "What is the state animal of Florida?",
-          "answers": ["Florida Panther"],
-          "exact_match": true
+          "answers": ["Florida Panther"]
         },
         {
           "id": "StateAnimals_005",
           "question": "What is the state animal of Illinois?",
-          "answers": ["White-Tailed Deer"],
-          "exact_match": true
+          "answers": ["White-Tailed Deer"]
         },
         {
           "id": "StateAnimals_006",
           "question": "What is the state animal of Kansas?",
-          "answers": ["American Buffalo"],
-          "exact_match": true
+          "answers": ["American Buffalo"]
         },
         {
           "id": "StateAnimals_007",
           "question": "What is the state animal of Maine?",
-          "answers": ["Moose"],
-          "exact_match": true
+          "answers": ["Moose"]
         },
         {
           "id": "StateAnimals_008",
           "question": "What is the state animal of Missouri?",
-          "answers": ["Missouri Mule"],
-          "exact_match": true
+          "answers": ["Missouri Mule"]
         },
         {
           "id": "StateAnimals_009",
           "question": "What is the state animal of Montana?",
-          "answers": ["Grizzly Bear"],
-          "exact_match": true
+          "answers": ["Grizzly Bear"]
         },
         {
           "id": "StateAnimals_010",
           "question": "What is the state animal of Nevada?",
-          "answers": ["Desert Bighorn Sheep"],
-          "exact_match": true
+          "answers": ["Desert Bighorn Sheep"]
         },
         {
           "id": "StateAnimals_011",
           "question": "What is the state animal of New Jersey?",
-          "answers": ["Horse"],
-          "exact_match": true
+          "answers": ["Horse"]
         },
         {
           "id": "StateAnimals_012",
           "question": "What is the state mammal of North Carolina?",
-          "answers": ["Grey Squirrel"],
-          "exact_match": true
+          "answers": ["Grey Squirrel"]
         },
         {
           "id": "StateAnimals_013",
           "question": "What is the state animal of New Mexico?",
-          "answers": ["Black Bear"],
-          "exact_match": true
+          "answers": ["Black Bear"]
         },
         {
           "id": "StateAnimals_014",
           "question": "What is the state animal of New York?",
-          "answers": ["Beaver"],
-          "exact_match": true
+          "answers": ["Beaver"]
         },
         {
           "id": "StateAnimals_015",
           "question": "What is the state animal of Oklahoma?",
-          "answers": ["Buffalo"],
-          "exact_match": true
+          "answers": ["Buffalo"]
         },
         {
           "id": "StateAnimals_016",
           "question": "What is the state wild game animal of Kentucky?",
-          "answers": ["Gray Squirrel"],
-          "exact_match": true
+          "answers": ["Gray Squirrel"]
         },
         {
           "id": "StateAnimals_017",
           "question": "What is the state dog of New Hampshire?",
-          "answers": ["Chinook"],
-          "exact_match": true
+          "answers": ["Chinook"]
         },
         {
           "id": "StateAnimals_018",
           "question": "What is the state animal of Ohio?",
-          "answers": ["White-Tailed Deer"],
-          "exact_match": true
+          "answers": ["White-Tailed Deer"]
         },
         {
           "id": "StateAnimals_019",
           "question": "What is the state animal of Oregon?",
-          "answers": ["Beaver"],
-          "exact_match": true
+          "answers": ["Beaver"]
         },
         {
           "id": "StateAnimals_020",
           "question": "What is the state animal of Pennsylvania?",
-          "answers": ["White-Tailed Deer"],
-          "exact_match": true
+          "answers": ["White-Tailed Deer"]
         },
         {
           "id": "StateAnimals_021",
           "question": "What is the state animal of South Carolina?",
-          "answers": ["White-Tailed Deer"],
-          "exact_match": true
+          "answers": ["White-Tailed Deer"]
         },
         {
           "id": "StateAnimals_022",
           "question": "What is the state animal of South Dakota?",
-          "answers": ["Coyote"],
-          "exact_match": true
+          "answers": ["Coyote"]
         },
         {
           "id": "StateAnimals_023",
           "question": "What is the state animal of Utah?",
-          "answers": ["Rocky Mountain Elk"],
-          "exact_match": true
+          "answers": ["Rocky Mountain Elk"]
         },
         {
           "id": "StateAnimals_024",
           "question": "What is the state animal of West Virginia?",
-          "answers": ["Black Bear"],
-          "exact_match": true
+          "answers": ["Black Bear"]
         },
         {
           "id": "StateAnimals_025",
           "question": "What is the state animal of Wisconsin?",
-          "answers": ["Badger"],
-          "exact_match": true
+          "answers": ["Badger"]
         },
         {
           "id": "StateAnimals_026",
           "question": "What is the state cat of Maine?",
-          "answers": ["Maine Coon Cat"],
-          "exact_match": true
+          "answers": ["Maine Coon Cat"]
         },
         {
           "id": "StateAnimals_027",
           "question": "What is the state cat of Maryland?",
-          "answers": ["Calico Cat"],
-          "exact_match": true
+          "answers": ["Calico Cat"]
         },
         {
           "id": "StateAnimals_028",
           "question": "What is the state cat of Massachusetts?",
-          "answers": ["Tabby Cat"],
-          "exact_match": true
+          "answers": ["Tabby Cat"]
         },
         {
           "id": "StateAnimals_029",
           "question": "What is the state dog of Alaska?",
-          "answers": ["Alaskan Malamute"],
-          "exact_match": true
+          "answers": ["Alaskan Malamute"]
         },
         {
           "id": "StateAnimals_030",
           "question": "What is the state dog of Louisiana?",
-          "answers": ["Catahoula Leopard Dog"],
-          "exact_match": true
+          "answers": ["Catahoula Leopard Dog"]
         },
         {
           "id": "StateAnimals_031",
           "question": "What is the state dog of Maryland?",
-          "answers": ["Chesapeake Bay Retriever"],
-          "exact_match": true
+          "answers": ["Chesapeake Bay Retriever"]
         },
         {
           "id": "StateAnimals_032",
           "question": "What is the state dog of Massachusetts?",
-          "answers": ["Boston Terrier"],
-          "exact_match": true
+          "answers": ["Boston Terrier"]
         },
         {
           "id": "StateAnimals_033",
           "question": "What is the state dog of North Carolina?",
-          "answers": ["Plott Hound"],
-          "exact_match": true
+          "answers": ["Plott Hound"]
         },
         {
           "id": "StateAnimals_034",
           "question": "What is the state dog of Pennsylvania?",
-          "answers": ["Great Dane"],
-          "exact_match": true
+          "answers": ["Great Dane"]
         },
         {
           "id": "StateAnimals_035",
           "question": "What is the state dog of South Carolina?",
-          "answers": ["Boykin Spaniel"],
-          "exact_match": true
+          "answers": ["Boykin Spaniel"]
         },
         {
           "id": "StateAnimals_036",
           "question": "What is the state dog of Texas?",
-          "answers": ["Blue Lacy"],
-          "exact_match": true
+          "answers": ["Blue Lacy"]
         },
         {
           "id": "StateAnimals_037",
           "question": "What is the state dog of Virginia?",
-          "answers": ["American Foxhound"],
-          "exact_match": true
+          "answers": ["American Foxhound"]
         },
         {
           "id": "StateAnimals_038",
           "question": "What is the state dog of Wisconsin?",
-          "answers": ["American Water Spaniel"],
-          "exact_match": true
+          "answers": ["American Water Spaniel"]
         },
         {
           "id": "StateAnimals_039",
           "question": "What is the state domestic animal of Wisconsin?",
-          "answers": ["Dairy Cow"],
-          "exact_match": true
+          "answers": ["Dairy Cow"]
         },
         {
           "id": "StateAnimals_040",
           "question": "What is the state horse of Idaho?",
-          "answers": ["Appaloosa"],
-          "exact_match": true
+          "answers": ["Appaloosa"]
         },
         {
           "id": "StateAnimals_041",
           "question": "What is the state horse of Kentucky?",
-          "answers": ["Thoroughbred"],
-          "exact_match": true
+          "answers": ["Thoroughbred"]
         },
         {
           "id": "StateAnimals_042",
           "question": "What is the state horse of Maryland?",
-          "answers": ["Thoroughbred"],
-          "exact_match": true
+          "answers": ["Thoroughbred"]
         },
         {
           "id": "StateAnimals_043",
           "question": "What is the state horse of Massachusetts?",
-          "answers": ["Morgan Horse"],
-          "exact_match": true
+          "answers": ["Morgan Horse"]
         },
         {
           "id": "StateAnimals_044",
           "question": "What is the state horse of Missouri?",
-          "answers": ["Missouri Fox Trotting Horse"],
-          "exact_match": true
+          "answers": ["Missouri Fox Trotting Horse"]
         },
         {
           "id": "StateAnimals_045",
           "question": "What is the state horse of North Carolina?",
-          "answers": ["Colonial Spanish Mustang"],
-          "exact_match": true
+          "answers": ["Colonial Spanish Mustang"]
         },
         {
           "id": "StateAnimals_046",
           "question": "What is the state horse of Texas?",
-          "answers": ["Quarter Horse"],
-          "exact_match": true
+          "answers": ["Quarter Horse"]
         },
         {
           "id": "StateAnimals_047",
           "question": "What is the state land animal of Alaska?",
-          "answers": ["Moose"],
-          "exact_match": true
+          "answers": ["Moose"]
         },
         {
           "id": "StateAnimals_048",
           "question": "What is the state large mammal of Texas?",
-          "answers": ["Longhorn"],
-          "exact_match": true
+          "answers": ["Longhorn"]
         },
         {
           "id": "StateAnimals_049",
           "question": "What is the state mammal of Alabama?",
-          "answers": ["Black Bear"],
-          "exact_match": true
+          "answers": ["Black Bear"]
         },
         {
           "id": "StateAnimals_050",
           "question": "What is the state mammal of Arizona?",
-          "answers": ["Ringtail"],
-          "exact_match": true
+          "answers": ["Ringtail"]
         },
         {
           "id": "StateAnimals_051",
           "question": "What is the state mammal of Arkansas?",
-          "answers": ["White-Tailed Deer"],
-          "exact_match": true
+          "answers": ["White-Tailed Deer"]
         },
         {
           "id": "StateAnimals_052",
           "question": "What is the state mammal of Hawaii?",
-          "answers": ["Hawaiian Monk Seal"],
-          "exact_match": true
+          "answers": ["Hawaiian Monk Seal"]
         },
         {
           "id": "StateAnimals_053",
           "question": "What is the state mammal of Louisiana?",
-          "answers": ["Black Bear"],
-          "exact_match": true
+          "answers": ["Black Bear"]
         },
         {
           "id": "StateAnimals_054",
           "question": "What is the state mammal of Nebraska?",
-          "answers": ["White-Tailed Deer"],
-          "exact_match": true
+          "answers": ["White-Tailed Deer"]
         },
         {
           "id": "StateAnimals_055",
           "question": "What is the state mammal of Wyoming?",
-          "answers": ["Buffalo"],
-          "exact_match": true
+          "answers": ["Buffalo"]
         },
         {
           "id": "StateAnimals_056",
           "question": "What is the state marine animal of Delaware?",
-          "answers": ["Horseshoe Crab"],
-          "exact_match": true
+          "answers": ["Horseshoe Crab"]
         },
         {
           "id": "StateAnimals_057",
           "question": "What is the state marine mammal of Alaska?",
-          "answers": ["Bowhead Whale"],
-          "exact_match": true
+          "answers": ["Bowhead Whale"]
         },
         {
           "id": "StateAnimals_058",
           "question": "What is the state marine mammal of California?",
-          "answers": ["Gray Whale"],
-          "exact_match": true
+          "answers": ["Gray Whale"]
         },
         {
           "id": "StateAnimals_059",
           "question": "What is the state marine mammal of Florida?",
-          "answers": ["Manatee"],
-          "exact_match": true
+          "answers": ["Manatee"]
         },
         {
           "id": "StateAnimals_060",
           "question": "What is the state marine mammal of Hawaii?",
-          "answers": ["Humpback Whale"],
-          "exact_match": true
+          "answers": ["Humpback Whale"]
         },
         {
           "id": "StateAnimals_061",
           "question": "What is the state marine mammal of Massachusetts?",
-          "answers": ["Right Whale"],
-          "exact_match": true
+          "answers": ["Right Whale"]
         },
         {
           "id": "StateAnimals_062",
           "question": "What is the state small mammal of Texas?",
-          "answers": ["Nine-Banded Armadillo"],
-          "exact_match": true
+          "answers": ["Nine-Banded Armadillo"]
         },
         {
           "id": "StateAnimals_063",
           "question": "What is the state water mammal of Mississippi?",
-          "answers": ["Dolphin"],
-          "exact_match": true
+          "answers": ["Dolphin"]
         },
         {
           "id": "StateAnimals_064",
           "question": "What is the state wild animal of Tennessee?",
-          "answers": ["Raccoon"],
-          "exact_match": true
+          "answers": ["Raccoon"]
         },
         {
           "id": "StateAnimals_065",
           "question": "What is the state wildlife animal of Delaware?",
-          "answers": ["Grey Fox"],
-          "exact_match": true
+          "answers": ["Grey Fox"]
         }
       ]
     },
@@ -4445,170 +3873,142 @@
         {
           "id": "FamousAuthors_001",
           "question": "Who wrote 1984?",
-          "answers": ["George Orwell"],
-          "exact_match": true
+          "answers": ["George Orwell"]
         },
         {
           "id": "FamousAuthors_002",
           "question": "Who wrote A Clockwork Orange?",
-          "answers": ["Anthony Burgess"],
-          "exact_match": true
+          "answers": ["Anthony Burgess"]
         },
         {
           "id": "FamousAuthors_003",
           "question": "Who wrote Animal Farm?",
-          "answers": ["George Orwell"],
-          "exact_match": true
+          "answers": ["George Orwell"]
         },
         {
           "id": "FamousAuthors_004",
           "question": "Who wrote Are You There God? It's Me, Margaret?",
-          "answers": ["Judy Blume"],
-          "exact_match": true
+          "answers": ["Judy Blume"]
         },
         {
           "id": "FamousAuthors_005",
           "question": "Who wrote Atonement?",
-          "answers": ["Ian McEwan"],
-          "exact_match": true
+          "answers": ["Ian McEwan"]
         },
         {
           "id": "FamousAuthors_006",
           "question": "Who wrote Beloved?",
-          "answers": ["Toni Morrison"],
-          "exact_match": true
+          "answers": ["Toni Morrison"]
         },
         {
           "id": "FamousAuthors_007",
           "question": "Who wrote Catch-22?",
-          "answers": ["Joseph Heller"],
-          "exact_match": true
+          "answers": ["Joseph Heller"]
         },
         {
           "id": "FamousAuthors_008",
           "question": "Who wrote Gone with the Wind?",
-          "answers": ["Margaret Mitchell"],
-          "exact_match": true
+          "answers": ["Margaret Mitchell"]
         },
         {
           "id": "FamousAuthors_009",
           "question": "Who wrote Invisible Man?",
-          "answers": ["Ralph Ellison"],
-          "exact_match": true
+          "answers": ["Ralph Ellison"]
         },
         {
           "id": "FamousAuthors_010",
           "question": "Who wrote Lolita?",
-          "answers": ["Vladimir Nabokov"],
-          "exact_match": true
+          "answers": ["Vladimir Nabokov"]
         },
         {
           "id": "FamousAuthors_011",
           "question": "Who wrote Lord of the Flies?",
-          "answers": ["William Golding"],
-          "exact_match": true
+          "answers": ["William Golding"]
         },
         {
           "id": "FamousAuthors_012",
           "question": "Who wrote Mrs. Dalloway?",
-          "answers": ["Virginia Woolf"],
-          "exact_match": true
+          "answers": ["Virginia Woolf"]
         },
         {
           "id": "FamousAuthors_013",
           "question": "Who wrote Never Let Me Go?",
-          "answers": ["Kazuo Ishiguro"],
-          "exact_match": true
+          "answers": ["Kazuo Ishiguro"]
         },
         {
           "id": "FamousAuthors_014",
           "question": "Who wrote On the Road?",
-          "answers": ["Jack Kerouac"],
-          "exact_match": true
+          "answers": ["Jack Kerouac"]
         },
         {
           "id": "FamousAuthors_015",
           "question": "Who wrote One Flew Over the Cuckoo's Nest?",
-          "answers": ["Ken Kesey"],
-          "exact_match": true
+          "answers": ["Ken Kesey"]
         },
         {
           "id": "FamousAuthors_016",
           "question": "Who wrote Slaughterhouse-Five?",
-          "answers": ["Kurt Vonnegut"],
-          "exact_match": true
+          "answers": ["Kurt Vonnegut"]
         },
         {
           "id": "FamousAuthors_017",
           "question": "Who wrote The Catcher in the Rye?",
-          "answers": ["J.D. Salinger"],
-          "exact_match": true
+          "answers": ["J.D. Salinger"]
         },
         {
           "id": "FamousAuthors_018",
           "question": "Who wrote The Grapes of Wrath?",
-          "answers": ["John Steinbeck"],
-          "exact_match": true
+          "answers": ["John Steinbeck"]
         },
         {
           "id": "FamousAuthors_019",
           "question": "Who wrote The Great Gatsby?",
-          "answers": ["F. Scott Fitzgerald"],
-          "exact_match": true
+          "answers": ["F. Scott Fitzgerald"]
         },
         {
           "id": "FamousAuthors_020",
           "question": "Who wrote The Heart is a Lonely Hunter?",
-          "answers": ["Carson McCullers"],
-          "exact_match": true
+          "answers": ["Carson McCullers"]
         },
         {
           "id": "FamousAuthors_021",
           "question": "Who wrote The Lion, The Witch and the Wardrobe?",
-          "answers": ["C.S. Lewis"],
-          "exact_match": true
+          "answers": ["C.S. Lewis"]
         },
         {
           "id": "FamousAuthors_022",
           "question": "Who wrote The Lord of the Rings?",
-          "answers": ["J.R.R. Tolkien"],
-          "exact_match": true
+          "answers": ["J.R.R. Tolkien"]
         },
         {
           "id": "FamousAuthors_023",
           "question": "Who wrote The Sound and the Fury?",
-          "answers": ["William Faulkner"],
-          "exact_match": true
+          "answers": ["William Faulkner"]
         },
         {
           "id": "FamousAuthors_024",
           "question": "Who wrote The Sun Also Rises?",
-          "answers": ["Ernest Hemingway"],
-          "exact_match": true
+          "answers": ["Ernest Hemingway"]
         },
         {
           "id": "FamousAuthors_025",
           "question": "Who wrote Their Eyes Were Watching God?",
-          "answers": ["Zora Neale Hurston"],
-          "exact_match": true
+          "answers": ["Zora Neale Hurston"]
         },
         {
           "id": "FamousAuthors_026",
           "question": "Who wrote Things Fall Apart?",
-          "answers": ["Chinua Achebe"],
-          "exact_match": true
+          "answers": ["Chinua Achebe"]
         },
         {
           "id": "FamousAuthors_027",
           "question": "Who wrote To Kill a Mockingbird?",
-          "answers": ["Harper Lee"],
-          "exact_match": true
+          "answers": ["Harper Lee"]
         },
         {
           "id": "FamousAuthors_028",
           "question": "Who wrote Watchmen?",
-          "answers": ["Alan Moore"],
-          "exact_match": true
+          "answers": ["Alan Moore"]
         }
       ]
     },
@@ -4617,98 +4017,82 @@
         {
           "id": "FamousPoets_001",
           "question": "Who wrote \"A Dream Within A Dream\"?",
-          "answers": ["Edgar Allan Poe"],
-          "exact_match": true
+          "answers": ["Edgar Allan Poe"]
         },
         {
           "id": "FamousPoets_002",
           "question": "Who wrote \"A Girl\"?",
-          "answers": ["Ezra Pound"],
-          "exact_match": true
+          "answers": ["Ezra Pound"]
         },
         {
           "id": "FamousPoets_003",
           "question": "Who wrote \"Do Not Go Gentle To That Good Night\"?",
-          "answers": ["Dylan Thomas"],
-          "exact_match": true
+          "answers": ["Dylan Thomas"]
         },
         {
           "id": "FamousPoets_004",
           "question": "Who wrote \"Funeral Blues\"?",
-          "answers": ["W.H. Auden"],
-          "exact_match": true
+          "answers": ["W.H. Auden"]
         },
         {
           "id": "FamousPoets_005",
           "question": "Who Wrote \"I Carry Your Heart With Me\"?",
-          "answers": ["E.E. Cummings"],
-          "exact_match": true
+          "answers": ["E.E. Cummings"]
         },
         {
           "id": "FamousPoets_006",
           "question": "Who wrote \"If those I loved were lost\"?",
-          "answers": ["Emily Dickinson"],
-          "exact_match": true
+          "answers": ["Emily Dickinson"]
         },
         {
           "id": "FamousPoets_007",
           "question": "Who Wrote \"If You Forget Me\"?",
-          "answers": ["Pablo Neruda"],
-          "exact_match": true
+          "answers": ["Pablo Neruda"]
         },
         {
           "id": "FamousPoets_008",
           "question": "Who Wrote \"Let America Be America Again\"?",
-          "answers": ["Langston Hughes"],
-          "exact_match": true
+          "answers": ["Langston Hughes"]
         },
         {
           "id": "FamousPoets_009",
           "question": "Who wrote \"Life is Fine\"?",
-          "answers": ["Langston Hughes"],
-          "exact_match": true
+          "answers": ["Langston Hughes"]
         },
         {
           "id": "FamousPoets_010",
           "question": "Who wrote \"Messy Room\"?",
-          "answers": ["Shel Silverstein"],
-          "exact_match": true
+          "answers": ["Shel Silverstein"]
         },
         {
           "id": "FamousPoets_011",
           "question": "Who wrote \"Phenomenal Woman\"?",
-          "answers": ["Maya Angelou"],
-          "exact_match": true
+          "answers": ["Maya Angelou"]
         },
         {
           "id": "FamousPoets_012",
           "question": "Who wrote \"Stopping by the Woods on a Snowy Evening\"?",
-          "answers": ["Robert Frost"],
-          "exact_match": true
+          "answers": ["Robert Frost"]
         },
         {
           "id": "FamousPoets_013",
           "question": "Who wrote \"The Road Not Taken\"?",
-          "answers": ["Robert Frost"],
-          "exact_match": true
+          "answers": ["Robert Frost"]
         },
         {
           "id": "FamousPoets_014",
           "question": "Who wrote \"There is Another Sky\"?",
-          "answers": ["Emily Dickinson"],
-          "exact_match": true
+          "answers": ["Emily Dickinson"]
         },
         {
           "id": "FamousPoets_015",
           "question": "Who wrote \"To You\"?",
-          "answers": ["Walt Whitman"],
-          "exact_match": true
+          "answers": ["Walt Whitman"]
         },
         {
           "id": "FamousPoets_016",
           "question": "Who wrote \"Where the Sidewalk Ends\"?",
-          "answers": ["Shel Silverstein"],
-          "exact_match": true
+          "answers": ["Shel Silverstein"]
         }
       ]
     },
@@ -4717,86 +4101,72 @@
         {
           "id": "FamousWorldLeaders_001",
           "question": "Abraham Lincoln is most famous for _____________.",
-          "answers": ["Working to end slavery in America"],
-          "exact_match": true
+          "answers": ["Working to end slavery in America"]
         },
         {
           "id": "FamousWorldLeaders_002",
           "question": "Akbar created a thriving empire through what modern country?",
-          "answers": ["India"],
-          "exact_match": true
+          "answers": ["India"]
         },
         {
           "id": "FamousWorldLeaders_003",
           "question": "Alexander the Great created ____________________.",
-          "answers": ["One of the largest empires in the ancient world"],
-          "exact_match": true
+          "answers": ["One of the largest empires in the ancient world"]
         },
         {
           "id": "FamousWorldLeaders_004",
           "question": "Chairman Mao led which government party to victory in China?",
-          "answers": ["Communism"],
-          "exact_match": true
+          "answers": ["Communism"]
         },
         {
           "id": "FamousWorldLeaders_005",
           "question": "Joan of Arc fought bravely for what cause?",
-          "answers": ["French Independence"],
-          "exact_match": true
+          "answers": ["French Independence"]
         },
         {
           "id": "FamousWorldLeaders_006",
           "question": "Julius Caesar was key in the expansion of the ___________.",
-          "answers": ["Roman Empire"],
-          "exact_match": true
+          "answers": ["Roman Empire"]
         },
         {
           "id": "FamousWorldLeaders_007",
           "question": "King Henry VIII had how many wives?",
-          "answers": ["Six", "6"],
-          "exact_match": true
+          "answers": ["Six", "6"]
         },
         {
           "id": "FamousWorldLeaders_008",
           "question": "King Henry VIII wanted to remarry, which contributed to the creation of which religion?",
-          "answers": ["The Church of England"],
-          "exact_match": true
+          "answers": ["The Church of England"]
         },
         {
           "id": "FamousWorldLeaders_009",
           "question": "Mahatma Gandhi devoted his life to what?",
-          "answers": ["Indian independence"],
-          "exact_match": true
+          "answers": ["Indian independence"]
         },
         {
           "id": "FamousWorldLeaders_010",
           "question": "Napoleon Bonaparte was the famous emperor of _______.",
-          "answers": ["France"],
-          "exact_match": true
+          "answers": ["France"]
         },
         {
           "id": "FamousWorldLeaders_011",
           "question": "Nelson Mandela ___________________ before becoming the first President of democratic South Africa in 1994?",
-          "answers": ["spent over 20 years in jail"],
-          "exact_match": true
+          "answers": ["spent over 20 years in jail"]
         },
         {
           "id": "FamousWorldLeaders_012",
           "question": "Thomas Jefferson wrote which famous US document?",
-          "answers": ["The Declaration of Independence"],
-          "exact_match": true
+          "answers": ["The Declaration of Independence"]
         },
         {
           "id": "FamousWorldLeaders_013",
           "question": "What was Julius Caesar's motto?",
-          "answers": ["I came, I saw, I conquered."],
-          "exact_match": true
+          "answers": ["I came, I saw, I conquered."]
         },
         {
           "id": "FamousWorldLeaders_014",
           "question": "Who was Margaret Thatcher?",
-          "answers": ["British Prime Minister"],
-          "exact_match": true
+          "answers": ["British Prime Minister"]
         }
       ]
     },
@@ -4805,266 +4175,222 @@
         {
           "id": "President_001",
           "question": "Who was the 1st president of the United States?",
-          "answers": ["George Washington"],
-          "exact_match": true
+          "answers": ["George Washington"]
         },
         {
           "id": "President_002",
           "question": "Who was the 2nd president of the United States?",
-          "answers": ["John Adams"],
-          "exact_match": true
+          "answers": ["John Adams"]
         },
         {
           "id": "President_003",
           "question": "Who was the 3rd president of the United States?",
-          "answers": ["Thomas Jefferson"],
-          "exact_match": true
+          "answers": ["Thomas Jefferson"]
         },
         {
           "id": "President_004",
           "question": "Who was the 4th president of the United States?",
-          "answers": ["James Madison"],
-          "exact_match": true
+          "answers": ["James Madison"]
         },
         {
           "id": "President_005",
           "question": "Who was the 5th president of the United States?",
-          "answers": ["James Monroe"],
-          "exact_match": true
+          "answers": ["James Monroe"]
         },
         {
           "id": "President_006",
           "question": "Who was the 6th president of the United States?",
-          "answers": ["John Quincy Adams"],
-          "exact_match": true
+          "answers": ["John Quincy Adams"]
         },
         {
           "id": "President_007",
           "question": "Who was the 7th president of the United States?",
-          "answers": ["Andrew Jackson"],
-          "exact_match": true
+          "answers": ["Andrew Jackson"]
         },
         {
           "id": "President_008",
           "question": "Who was the 8th president of the United States?",
-          "answers": ["Martin Van Buren"],
-          "exact_match": true
+          "answers": ["Martin Van Buren"]
         },
         {
           "id": "President_009",
           "question": "Who was the 9th president of the United States?",
-          "answers": ["William Henry Harrison"],
-          "exact_match": true
+          "answers": ["William Henry Harrison"]
         },
         {
           "id": "President_010",
           "question": "Who was the 10th president of the United States?",
-          "answers": ["John Tyler"],
-          "exact_match": true
+          "answers": ["John Tyler"]
         },
         {
           "id": "President_011",
           "question": "Who was the 11th president of the United States?",
-          "answers": ["James K. Polk"],
-          "exact_match": true
+          "answers": ["James K. Polk"]
         },
         {
           "id": "President_012",
           "question": "Who was the 12th president of the United States?",
-          "answers": ["Zachary Taylor"],
-          "exact_match": true
+          "answers": ["Zachary Taylor"]
         },
         {
           "id": "President_013",
           "question": "Who was the 13th president of the United States?",
-          "answers": ["Millard Fillmore"],
-          "exact_match": true
+          "answers": ["Millard Fillmore"]
         },
         {
           "id": "President_014",
           "question": "Who was the 14th president of the United States?",
-          "answers": ["Franklin Pierce"],
-          "exact_match": true
+          "answers": ["Franklin Pierce"]
         },
         {
           "id": "President_015",
           "question": "Who was the 15th president of the United States?",
-          "answers": ["James Buchanan"],
-          "exact_match": true
+          "answers": ["James Buchanan"]
         },
         {
           "id": "President_016",
           "question": "Who was the 16th president of the United States?",
-          "answers": ["Abraham Lincoln"],
-          "exact_match": true
+          "answers": ["Abraham Lincoln"]
         },
         {
           "id": "President_017",
           "question": "Who was the 17th president of the United States?",
-          "answers": ["Andrew Johnson"],
-          "exact_match": true
+          "answers": ["Andrew Johnson"]
         },
         {
           "id": "President_018",
           "question": "Who was the 18th president of the United States?",
-          "answers": ["Ulysses S. Grant"],
-          "exact_match": true
+          "answers": ["Ulysses S. Grant"]
         },
         {
           "id": "President_019",
           "question": "Who was the 19th president of the United States?",
-          "answers": ["Rutherford B. Hayes"],
-          "exact_match": true
+          "answers": ["Rutherford B. Hayes"]
         },
         {
           "id": "President_020",
           "question": "Who was the 20th president of the United States?",
-          "answers": ["James A. Garfield"],
-          "exact_match": true
+          "answers": ["James A. Garfield"]
         },
         {
           "id": "President_021",
           "question": "Who was the 21st president of the United States?",
-          "answers": ["Chester A. Arthur"],
-          "exact_match": true
+          "answers": ["Chester A. Arthur"]
         },
         {
           "id": "President_022",
           "question": "Who was the 22nd president of the United States?",
-          "answers": ["Grover Cleveland"],
-          "exact_match": true
+          "answers": ["Grover Cleveland"]
         },
         {
           "id": "President_023",
           "question": "Who was the 23rd president of the United States?",
-          "answers": ["Benjamin Harrison"],
-          "exact_match": true
+          "answers": ["Benjamin Harrison"]
         },
         {
           "id": "President_024",
           "question": "Who was the 24th president of the United States?",
-          "answers": ["Grover Cleveland"],
-          "exact_match": true
+          "answers": ["Grover Cleveland"]
         },
         {
           "id": "President_025",
           "question": "Who was the 25th president of the United States?",
-          "answers": ["William McKinley"],
-          "exact_match": true
+          "answers": ["William McKinley"]
         },
         {
           "id": "President_026",
           "question": "Who was the 26th president of the United States?",
-          "answers": ["Theodore Roosevelt"],
-          "exact_match": true
+          "answers": ["Theodore Roosevelt"]
         },
         {
           "id": "President_027",
           "question": "Who was the 27th president of the United States?",
-          "answers": ["William Howard Taft"],
-          "exact_match": true
+          "answers": ["William Howard Taft"]
         },
         {
           "id": "President_028",
           "question": "Who was the 28th president of the United States?",
-          "answers": ["Woodrow Wilson"],
-          "exact_match": true
+          "answers": ["Woodrow Wilson"]
         },
         {
           "id": "President_029",
           "question": "Who was the 29th president of the United States?",
-          "answers": ["Warren G. Harding"],
-          "exact_match": true
+          "answers": ["Warren G. Harding"]
         },
         {
           "id": "President_030",
           "question": "Who was the 30th president of the United States?",
-          "answers": ["Calvin Coolidge"],
-          "exact_match": true
+          "answers": ["Calvin Coolidge"]
         },
         {
           "id": "President_031",
           "question": "Who was the 31st president of the United States?",
-          "answers": ["Herbert Hoover"],
-          "exact_match": true
+          "answers": ["Herbert Hoover"]
         },
         {
           "id": "President_032",
           "question": "Who was the 32nd president of the United States?",
-          "answers": ["Franklin D. Roosevelt"],
-          "exact_match": true
+          "answers": ["Franklin D. Roosevelt"]
         },
         {
           "id": "President_033",
           "question": "Who was the 33rd president of the United States?",
-          "answers": ["Harry S. Truman"],
-          "exact_match": true
+          "answers": ["Harry S. Truman"]
         },
         {
           "id": "President_034",
           "question": "Who was the 34th president of the United States?",
-          "answers": ["Dwight D. Eisenhower"],
-          "exact_match": true
+          "answers": ["Dwight D. Eisenhower"]
         },
         {
           "id": "President_035",
           "question": "Who was the 35th president of the United States?",
-          "answers": ["John F. Kennedy"],
-          "exact_match": true
+          "answers": ["John F. Kennedy"]
         },
         {
           "id": "President_036",
           "question": "Who was the 36th president of the United States?",
-          "answers": ["Lyndon B. Johnson"],
-          "exact_match": true
+          "answers": ["Lyndon B. Johnson"]
         },
         {
           "id": "President_037",
           "question": "Who was the 37th president of the United States?",
-          "answers": ["Richard Nixon"],
-          "exact_match": true
+          "answers": ["Richard Nixon"]
         },
         {
           "id": "President_038",
           "question": "Who was the 38th president of the United States?",
-          "answers": ["Gerald Ford"],
-          "exact_match": true
+          "answers": ["Gerald Ford"]
         },
         {
           "id": "President_039",
           "question": "Who was the 39th president of the United States?",
-          "answers": ["Jimmy Carter"],
-          "exact_match": true
+          "answers": ["Jimmy Carter"]
         },
         {
           "id": "President_040",
           "question": "Who was the 40th president of the United States?",
-          "answers": ["Ronald Reagan"],
-          "exact_match": true
+          "answers": ["Ronald Reagan"]
         },
         {
           "id": "President_041",
           "question": "Who was the 41st president of the United States?",
-          "answers": ["George H. W. Bush"],
-          "exact_match": true
+          "answers": ["George H. W. Bush"]
         },
         {
           "id": "President_042",
           "question": "Who was the 42nd president of the United States?",
-          "answers": ["Bill Clinton"],
-          "exact_match": true
+          "answers": ["Bill Clinton"]
         },
         {
           "id": "President_043",
           "question": "Who was the 43rd president of the United States?",
-          "answers": ["George W. Bush"],
-          "exact_match": true
+          "answers": ["George W. Bush"]
         },
         {
           "id": "President_044",
           "question": "Who was the 44th president of the United States?",
-          "answers": ["Barack Obama"],
-          "exact_match": true
+          "answers": ["Barack Obama"]
         }
       ]
     },
@@ -5075,86 +4401,72 @@
         {
           "id": "EnglishPunctuation_001",
           "question": "A period is also used to __________ words.",
-          "answers": ["Abbreviate"],
-          "exact_match": true
+          "answers": ["Abbreviate"]
         },
         {
           "id": "EnglishPunctuation_002",
           "question": "A semi-colon is primarily used to:",
-          "answers": ["Join two connected sentences"],
-          "exact_match": true
+          "answers": ["Join two connected sentences"]
         },
         {
           "id": "EnglishPunctuation_003",
           "question": "An exclamation mark is often used to express what?",
-          "answers": ["Excitement"],
-          "exact_match": true
+          "answers": ["Excitement"]
         },
         {
           "id": "EnglishPunctuation_004",
           "question": "Three periods in a row are called _________.",
-          "answers": ["Ellipses"],
-          "exact_match": true
+          "answers": ["Ellipses"]
         },
         {
           "id": "EnglishPunctuation_005",
           "question": "Where does the period go in a sentence?",
-          "answers": ["At the end"],
-          "exact_match": true
+          "answers": ["At the end"]
         },
         {
           "id": "EnglishPunctuation_006",
           "question": "Which of the following is NOT a reason to use an exclamation mark (!) ?",
-          "answers": ["Boredom"],
-          "exact_match": true
+          "answers": ["Boredom"]
         },
         {
           "id": "EnglishPunctuation_007",
           "question": "Which sentence below uses a comma correctly?",
-          "answers": ["Before you begin, let us learn to play.", "I love to play video games, but they are hard."],
-          "exact_match": true
+          "answers": ["Before you begin, let us learn to play.", "I love to play video games, but they are hard."]
         },
         {
           "id": "EnglishPunctuation_009",
           "question": "Which sentence below uses a comma(s) correctly?",
-          "answers": ["Megan, who lives next door, loves dogs."],
-          "exact_match": true
+          "answers": ["Megan, who lives next door, loves dogs."]
         },
         {
           "id": "EnglishPunctuation_010",
           "question": "Which sentence correctly uses an apostrophe?",
-          "answers": ["The horse's tail is so pretty.", "I can't do it, because it is too hard."],
-          "exact_match": true
+          "answers": ["The horse's tail is so pretty.", "I can't do it, because it is too hard."]
         },
         {
           "id": "EnglishPunctuation_012",
           "question": "Which sentence uses a semi-colon correctly?",
-          "answers": ["I set out on a quest; the enemies looked fierce."],
-          "exact_match": true
+          "answers": ["I set out on a quest; the enemies looked fierce."]
         },
         {
           "id": "EnglishPunctuation_013",
           "question": "Which sentence uses quotation marks correctly?",
-          "answers": ["Sally said, \"It's time to cook dinner.\""],
-          "exact_match": true
+          "answers": ["Sally said, \"It's time to cook dinner.\""]
         },
         {
           "id": "EnglishPunctuation_014",
           "question": "Which date below uses a comma correctly?",
-          "answers": ["January 1st, 2014"],
-          "exact_match": true
+          "answers": ["January 1st, 2014"]
         },
         {
           "id": "EnglishPunctuation_015",
           "question": "Quotation marks are used to do what?",
-          "answers": ["Show speech"],
-          "exact_match": true
+          "answers": ["Show speech"]
         },
         {
           "id": "EnglishPunctuation_016",
           "question": "What is the apostrophe's main function?",
-          "answers": ["Show ownership or posession"],
-          "exact_match": true
+          "answers": ["Show ownership or posession"]
         }
       ]
     },
@@ -5164,8 +4476,7 @@
           "id": "Spelling_001",
           "question": "Which word is spelled correctly?",
           "answers": ["Abbreviate", "Abyss", "Accidentally", "Aggressive", "Anonymous", "Australia", "Bureaucratic", "Camouflage", "Connecticut", "Connoisseur", "Disappointed", "February", "Hygiene", "Physique", "Wednesday", 
-          "autochthonous", "Czechoslovakia", "elucubrate", "esquamulose", "eudaemonic", "euonym", "insouciant", "Laodicean", "logorrhea", "Presbyterian", "prospicience", "smaragdine", "spoliator", "Teutonic", "vivisepulture"],
-          "exact_match": true
+          "autochthonous", "Czechoslovakia", "elucubrate", "esquamulose", "eudaemonic", "euonym", "insouciant", "Laodicean", "logorrhea", "Presbyterian", "prospicience", "smaragdine", "spoliator", "Teutonic", "vivisepulture"]
         }
       ]
     },
@@ -5174,98 +4485,82 @@
         {
           "id": "Ninth_Grade_Vocabulary_001",
           "question": "Abstract",
-          "answers": ["a concept or idea not associated with any specific instance"],
-          "exact_match": true
+          "answers": ["a concept or idea not associated with any specific instance"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_002",
           "question": "Advocate",
-          "answers": ["a person who pleads for a cause or propounds an idea"],
-          "exact_match": true
+          "answers": ["a person who pleads for a cause or propounds an idea"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_003",
           "question": "Belittle",
-          "answers": ["lessen the authority, dignity, or reputation of"],
-          "exact_match": true
+          "answers": ["lessen the authority, dignity, or reputation of"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_004",
           "question": "Censure",
-          "answers": ["harsh criticism or disapproval"],
-          "exact_match": true
+          "answers": ["harsh criticism or disapproval"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_005",
           "question": "Comply",
-          "answers": ["act in accordance with someone's rules, commands, or wishes"],
-          "exact_match": true
+          "answers": ["act in accordance with someone's rules, commands, or wishes"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_006",
           "question": "Deference",
-          "answers": ["a disposition or tendency to yield to the will of others"],
-          "exact_match": true
+          "answers": ["a disposition or tendency to yield to the will of others"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_007",
           "question": "Eccentric",
-          "answers": ["a person of a specified kind (usually with many eccentricities)"],
-          "exact_match": true
+          "answers": ["a person of a specified kind (usually with many eccentricities)"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_008",
           "question": "Facilitate",
-          "answers": ["make easier"],
-          "exact_match": true
+          "answers": ["make easier"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_009",
           "question": "Guile",
-          "answers": ["shrewdness as demonstrated by being skilled in deception"],
-          "exact_match": true
+          "answers": ["shrewdness as demonstrated by being skilled in deception"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_010",
           "question": "Heed",
-          "answers": ["paying particular notice (as to children or helpless people)"],
-          "exact_match": true
+          "answers": ["paying particular notice (as to children or helpless people)"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_011",
           "question": "Inadvertent",
-          "answers": ["without intention (especially resulting from heedless action)"],
-          "exact_match": true
+          "answers": ["without intention (especially resulting from heedless action)"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_012",
           "question": "Mar",
-          "answers": ["a mark or flaw that spoils the appearance of something (especially on a person's body)"],
-          "exact_match": true
+          "answers": ["a mark or flaw that spoils the appearance of something (especially on a person's body)"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_013",
           "question": "Parsimony",
-          "answers": ["extreme care in spending money"],
-          "exact_match": true
+          "answers": ["extreme care in spending money"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_014",
           "question": "Recalcitrant",
-          "answers": ["marked by stubborn resistance to authority"],
-          "exact_match": true
+          "answers": ["marked by stubborn resistance to authority"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_015",
           "question": "Tangible",
-          "answers": ["possible to be treated as fact"],
-          "exact_match": true
+          "answers": ["possible to be treated as fact"]
         },
         {
           "id": "Ninth_Grade_Vocabulary_016",
           "question": "Verbose",
-          "answers": ["using or containing too many words"],
-          "exact_match": true
+          "answers": ["using or containing too many words"]
         }
       ]
     },
@@ -5293,98 +4588,82 @@
         {
           "id": "EleventhGradeVocabulary_001",
           "question": "Allegory",
-          "answers": ["a representation of an abstract or spiritual meaning through concrete or material forms"],
-          "exact_match": true
+          "answers": ["a representation of an abstract or spiritual meaning through concrete or material forms"]
         },
         {
           "id": "EleventhGradeVocabulary_002",
           "question": "Ambiguity",
-          "answers": ["doubtfulness or uncertainty of meaning or intention"],
-          "exact_match": true
+          "answers": ["doubtfulness or uncertainty of meaning or intention"]
         },
         {
           "id": "EleventhGradeVocabulary_003",
           "question": "Anecdote",
-          "answers": ["a short account of a particular incident or event of an interesting or amusing nature, often biographical."],
-          "exact_match": true
+          "answers": ["a short account of a particular incident or event of an interesting or amusing nature, often biographical."]
         },
         {
           "id": "EleventhGradeVocabulary_004",
           "question": "Annotated",
-          "answers": ["supplied with or containing explanatory notes and textual comments"],
-          "exact_match": true
+          "answers": ["supplied with or containing explanatory notes and textual comments"]
         },
         {
           "id": "EleventhGradeVocabulary_005",
           "question": "Assuage",
-          "answers": ["to relieve or soothe"],
-          "exact_match": true
+          "answers": ["to relieve or soothe"]
         },
         {
           "id": "EleventhGradeVocabulary_006",
           "question": "Auspicious",
-          "answers": ["favorable, noteworthy"],
-          "exact_match": true
+          "answers": ["favorable, noteworthy"]
         },
         {
           "id": "EleventhGradeVocabulary_007",
           "question": "Buoyancy",
-          "answers": ["the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed"],
-          "exact_match": true
+          "answers": ["the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed"]
         },
         {
           "id": "EleventhGradeVocabulary_008",
           "question": "Conceit",
-          "answers": ["an excessively favorable opinion of one's own ability, importance or wit"],
-          "exact_match": true
+          "answers": ["an excessively favorable opinion of one's own ability, importance or wit"]
         },
         {
           "id": "EleventhGradeVocabulary_009",
           "question": "Conspicuous",
-          "answers": ["noticeable, obvious"],
-          "exact_match": true
+          "answers": ["noticeable, obvious"]
         },
         {
           "id": "EleventhGradeVocabulary_010",
           "question": "Denotation",
-          "answers": ["a word that names or signifies something specific"],
-          "exact_match": true
+          "answers": ["a word that names or signifies something specific"]
         },
         {
           "id": "EleventhGradeVocabulary_011",
           "question": "Discern",
-          "answers": ["to recognize the difference"],
-          "exact_match": true
+          "answers": ["to recognize the difference"]
         },
         {
           "id": "EleventhGradeVocabulary_012",
           "question": "Enigma",
-          "answers": ["a mystery"],
-          "exact_match": true
+          "answers": ["a mystery"]
         },
         {
           "id": "EleventhGradeVocabulary_013",
           "question": "Euphemism",
-          "answers": ["the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt"],
-          "exact_match": true
+          "answers": ["the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt"]
         },
         {
           "id": "EleventhGradeVocabulary_014",
           "question": "Principle",
-          "answers": ["a fundamental, primary, or general law or truth from which others are derived"],
-          "exact_match": true
+          "answers": ["a fundamental, primary, or general law or truth from which others are derived"]
         },
         {
           "id": "EleventhGradeVocabulary_015",
           "question": "Procure",
-          "answers": ["to obtain"],
-          "exact_match": true
+          "answers": ["to obtain"]
         },
         {
           "id": "EleventhGradeVocabulary_016",
           "question": "Quandary",
-          "answers": ["a state of perplexity or uncertainty"],
-          "exact_match": true
+          "answers": ["a state of perplexity or uncertainty"]
         }
       ]
     },
