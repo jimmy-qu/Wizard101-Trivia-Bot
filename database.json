@@ -1824,7 +1824,7 @@
         {
           "id": "KingsIsle_012",
           "question": "Which Austin charity has KingsIsle donated to?",
-          "answers": ["Austin Children’s Shelter"],
+          "answers": ["Austin Children's Shelter"],
           "exact_match": true
         },
         {
@@ -1852,6 +1852,197 @@
           "exact_match": true
         }
       ]
+    },
+    "P101 Mooshu Trivia": {
+      "questions": [
+        {
+          "id": "P101Mooshu_001",
+          "question": "Who won't bargain a pearl with the Monkey King?",
+          "answers": ["Karasu"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_002",
+          "question": "Where might one find a lost Imperial Jade Statue?",
+          "answers": ["Hamamitsu"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_003",
+          "question": "What kind of weapon do Buccaneer's get for finishing the quest Turnabout?",
+          "answers": ["Odachi"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_004",
+          "question": "What means did Dr. Noh use to take Egg Foo Yung's Map piece?",
+          "answers": ["Hired a ninja"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_005",
+          "question": "What does Monkey King say you should ask for from the Dragon King?",
+          "answers": ["The Challenge"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_006",
+          "question": "Who is a Celestial Ogre?",
+          "answers": ["Friar Sand"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_007",
+          "question": "What best describes Yuji?",
+          "answers": ["Yak"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_008",
+          "question": "What kind of pollen could be slipped into some tea to make someone fall asleep?",
+          "answers": ["Moon Pollen"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_009",
+          "question": "Which one isn't a relic stolen from the Dragon Prince's Father?",
+          "answers": ["Gong of Serenity"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_010",
+          "question": "Which one knows how to make a fake signature?",
+          "answers": ["Chosuke"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_011",
+          "question": "Where can you find Shunzang the Wise?",
+          "answers": ["Temple of Eternal Serentiy"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_012",
+          "question": "Where does Governer Umeboshi say you can find the Scroll of Secrets?",
+          "answers": ["Library of Contemplation"],
+          "exact_match": true
+        },
+        {
+          "id" : "P101Mooshu_0013",
+          "question" : "Who won't bargain a pearl with the Monkey King?",
+          "answers": ["Karasu"],
+          "exact_match":true
+        },
+        {
+          "id": "P101Mooshu_014",
+          "question": "Which one isn't a relic stolen from the Dragon Prince's Father?",
+          "answers": ["Gong of Serenity"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_015",
+          "question": "What type of Guardian can't be found in Maruzame Castle?",
+          "answers": ["Lightning"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_016",
+          "question": "Where does Governer Umeboshi say you can find the Scroll of Secrets?",
+          "answers": ["Library of Contemplation"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_017",
+          "question": "What kind of guards do you find a lot of in General Tso's Fortress?",
+          "answers": ["Samoorai"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_018",
+          "question": "Where did Monkey King say his Turtle Ball rolled?",
+          "answers": ["Cave"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_019",
+          "question": "What kind of weapon do Buccaneer's get for finishing the quest Turnabout?",
+          "answers": ["Odachi"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_020",
+          "question": "Where's a good place to put on a dancer's costume?",
+          "answers": ["Moomori Clanhold"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_021",
+          "question": "Where can you find Shunzang the Wise?",
+          "answers": ["Temple of Eternal Serenity"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_022",
+          "question": "What's Zhu Ro's price for helping you to find Egg Foo Yung?",
+          "answers": ["Jade Statue"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_023",
+          "question": "What kind of pollen could be slipped into some tea to make someone fall asleep?",
+          "answers": ["Moon Pollen"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_024",
+          "question": "Who is a Celestial Ogre?",
+          "answers": ["Friar Sand"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_025",
+          "question": "What best describes Yuji?",
+          "answers": ["Yak"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_013",
+          "question": "What is the greatest threat to the Valley of the Titans?",
+          "answers": ["Stormzilla"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_014",
+          "question": "Who might hold a Harp of Harmony?",
+          "answers": ["Horde Raider"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_015",
+          "question": "How many villagers do you repay from Governor Nakamura’s gold supply?",
+          "answers": ["10"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_016",
+          "question": "What does Monkey King say you should ask for from the Dragon King?",
+          "answers": ["The Challenge"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_017",
+          "question": "Who won’t bargain a pearl with the Monkey King?",
+          "answers": ["Karasu"],
+          "exact_match": true
+        },
+        {
+          "id": "P101Mooshu_018",
+          "question": "Where might one find a lost Imperial Jade Statue?",
+          "answers": ["Hamamitsu"],
+          "exact_match": true
+        }
+      ]
+    }
     },
 
 
@@ -4920,13 +5111,7 @@
         {
           "id": "EnglishPunctuation_007",
           "question": "Which sentence below uses a comma correctly?",
-          "answers": ["Before you begin, let us learn to play."],
-          "exact_match": true
-        },
-        {
-          "id": "EnglishPunctuation_008",
-          "question": "Which sentence below uses a comma correctly?",
-          "answers": ["I love to play video games, but they are hard."],
+          "answers": ["Before you begin, let us learn to play.", "I love to play video games, but they are hard."],
           "exact_match": true
         },
         {
@@ -4938,13 +5123,7 @@
         {
           "id": "EnglishPunctuation_010",
           "question": "Which sentence correctly uses an apostrophe?",
-          "answers": ["The horse's tail is so pretty."],
-          "exact_match": true
-        },
-        {
-          "id": "EnglishPunctuation_011",
-          "question": "Which sentence correctly uses an apostrophe?",
-          "answers": ["I can't do it, because it is too hard."],
+          "answers": ["The horse's tail is so pretty.", "I can't do it, because it is too hard."],
           "exact_match": true
         },
         {
