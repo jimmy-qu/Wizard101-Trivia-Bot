@@ -5113,97 +5113,97 @@
       "questions": [
         {
           "id": "EleventhGradeVocabulary_001",
-          "question": "What is the definition of Allegory?",
+          "question": "Allegory",
           "answers": ["a representation of an abstract or spiritual meaning through concrete or material forms"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_002",
-          "question": "What is the definition of Ambiguity?",
+          "question": "Ambiguity",
           "answers": ["doubtfulness or uncertainty of meaning or intention"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_003",
-          "question": "What is the definition of Anecdote?",
+          "question": "Anecdote",
           "answers": ["a short account of a particular incident or event of an interesting or amusing nature, often biographical."],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_004",
-          "question": "What is the definition of Annotated?",
+          "question": "Annotated",
           "answers": ["supplied with or containing explanatory notes and textual comments"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_005",
-          "question": "What is the definition of Assuage?",
+          "question": "Assuage",
           "answers": ["to relieve or soothe"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_006",
-          "question": "What is the definition of Auspicious?",
+          "question": "Auspicious",
           "answers": ["favorable, noteworthy"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_007",
-          "question": "What is the definition of Buoyancy?",
+          "question": "Buoyancy",
           "answers": ["the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_008",
-          "question": "What is the definition of Conceit?",
+          "question": "Conceit",
           "answers": ["an excessively favorable opinion of one's own ability, importance or wit"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_009",
-          "question": "What is the definition of Conspicuous?",
+          "question": "Conspicuous",
           "answers": ["noticeable, obvious"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_010",
-          "question": "What is the definition of Denotation?",
+          "question": "Denotation",
           "answers": ["a word that names or signifies something specific"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_011",
-          "question": "What is the definition of Discern?",
+          "question": "Discern",
           "answers": ["to recognize the difference"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_012",
-          "question": "What is the definition of Enigma?",
+          "question": "Enigma",
           "answers": ["a mystery"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_013",
-          "question": "What is the definition of Euphemism?",
+          "question": "Euphemism",
           "answers": ["the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_014",
-          "question": "What is the definition of Principle?",
+          "question": "Principle",
           "answers": ["a fundamental, primary, or general law or truth from which others are derived"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_015",
-          "question": "What is the definition of Procure?",
+          "question": "Procure",
           "answers": ["to obtain"],
           "exact_match": true
         },
         {
           "id": "EleventhGradeVocabulary_016",
-          "question": "What is the definition of Quandary?",
+          "question": "Quandary",
           "answers": ["a state of perplexity or uncertainty"],
           "exact_match": true
         }
