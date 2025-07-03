@@ -2933,7 +2933,7 @@
         },
         {
           "id": "GreekMythology_006",
-          "question": "Which Greek god is the god of the sun?",
+          "question": "Which Greek is the sun titan?",
           "answers": ["Helios"],
           "exact_match": true
         },
@@ -4979,190 +4979,13 @@
         }
       ]
     },
-    "Spelling": {
+    "All Spelling": {
       "questions": [
         {
           "id": "Spelling_001",
           "question": "Which word is spelled correctly?",
-          "answers": ["Abbreviate"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_002",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Abyss"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_003",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Accidentally"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_004",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Aggressive"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_005",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Anonymous"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_006",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Australia"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_007",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Bureaucratic"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_008",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Camouflage"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_009",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Connecticut"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_010",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Connoisseur"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_011",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Disappointed"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_012",
-          "question": "Which word is spelled correctly?",
-          "answers": ["February"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_013",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Hygiene"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_014",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Physique"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_015",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Wednesday"],
-          "exact_match": true
-        }
-      ]
-    },
-    "Advanced_Spelling": {
-      "questions": [
-        {
-          "id": "Spelling_001",
-          "question": "Which word is spelled correctly?",
-          "answers": ["autochthonous"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_002",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Czechoslovakia"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_003",
-          "question": "Which word is spelled correctly?",
-          "answers": ["elucubrate"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_004",
-          "question": "Which word is spelled correctly?",
-          "answers": ["esquamulose"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_005",
-          "question": "Which word is spelled correctly?",
-          "answers": ["eudaemonic"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_006",
-          "question": "Which word is spelled correctly?",
-          "answers": ["euonym"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_007",
-          "question": "Which word is spelled correctly?",
-          "answers": ["insouciant"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_008",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Laodicean"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_009",
-          "question": "Which word is spelled correctly?",
-          "answers": ["logorrhea"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_010",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Presbyterian"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_011",
-          "question": "Which word is spelled correctly?",
-          "answers": ["prospicience"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_012",
-          "question": "Which word is spelled correctly?",
-          "answers": ["smaragdine"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_013",
-          "question": "Which word is spelled correctly?",
-          "answers": ["spoliator"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_014",
-          "question": "Which word is spelled correctly?",
-          "answers": ["Teutonic"],
-          "exact_match": true
-        },
-        {
-          "id": "Spelling_015",
-          "question": "Which word is spelled correctly?",
-          "answers": ["vivisepulture"],
+          "answers": ["Abbreviate", "Abyss", "Accidentally", "Aggressive", "Anonymous", "Australia", "Bureaucratic", "Camouflage", "Connecticut", "Connoisseur", "Disappointed", "February", "Hygiene", "Physique", "Wednesday", 
+          "autochthonous", "Czechoslovakia", "elucubrate", "esquamulose", "eudaemonic", "euonym", "insouciant", "Laodicean", "logorrhea", "Presbyterian", "prospicience", "smaragdine", "spoliator", "Teutonic", "vivisepulture"],
           "exact_match": true
         }
       ]
